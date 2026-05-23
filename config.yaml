@@ -1,0 +1,91 @@
+# =====================================================================
+# Mercedes-Benz Multilingual Customer Feedback NLP Pipeline — Config
+# =====================================================================
+
+paths:
+  raw_data_dir:         "data/raw"
+  processed_data_dir:   "data/processed"
+  embeddings_dir:       "data/embeddings"
+  artifacts_dir:        "artifacts"
+  output_dir:           "outputs"
+  logs_dir:             "logs"
+
+# Three input domains as described in the brief
+domains:
+  interior:
+    file:    "interior_feedback.csv"     # ~75,000 EN
+    text_col: "feedback"
+    languages: ["en"]
+  powertrain:
+    file:    "powertrain_feedback.csv"   # ~5,000 EN+DE
+    text_col: "feedback"
+    languages: ["en", "de"]
+  display_infotainment:
+    file:    "display_feedback.csv"      # ~29,000 multilingual
+    text_col: "feedback"
+    languages: ["en", "de", "da", "tr", "pl", "fr", "it", "es", "nl", "sv"]
+
+preprocessing:
+  min_chars: 5
+  max_chars: 2000
+  drop_exact_duplicates: true
+  drop_near_duplicates: true
+  near_duplicate_threshold: 0.97   # cosine on hashed shingles
+  language_detection: true
+  translate_to_english: true       # for cross-lingual semantic consistency
+  translation_model: "Helsinki-NLP/opus-mt-mul-en"
+
+anonymization:
+  enabled: true
+  entities: ["PERSON", "EMAIL_ADDRESS", "PHONE_NUMBER",
+             "LOCATION", "CREDIT_CARD", "IBAN_CODE",
+             "LICENSE_PLATE", "VIN"]
+
+embeddings:
+  model_name: "BAAI/bge-large-en-v1.5"
+  batch_size: 64
+  normalize: true
+  device: "auto"        # "cuda" | "cpu" | "auto"
+  query_prefix: ""      # bge-large-en-v1.5 only needs prefix for queries
+  cache: true
+
+dim_reduction:
+  method: "umap"
+  n_neighbors: 30
+  n_components: 15
+  min_dist: 0.0
+  metric: "cosine"
+  random_state: 42
+
+clustering:
+  method: "hdbscan"
+  min_cluster_size: 50
+  min_samples: 10
+  metric: "euclidean"   # operates on UMAP-reduced space
+  cluster_selection_method: "eom"
+  prediction_data: true
+
+entity_extraction:
+  provider: "anthropic"            # "anthropic" | "openai" | "rule_only"
+  model:    "claude-sonnet-4-6"
+  rule_first: true                 # try regex/gazetteer before LLM
+  llm_batch_size: 25
+  components_gazetteer: "artifacts/components_gazetteer.txt"
+  failure_types_gazetteer: "artifacts/failure_types_gazetteer.txt"
+
+interpretation:
+  tfidf_top_k: 12
+  llm_label: true
+  llm_provider: "anthropic"
+  llm_model: "claude-sonnet-4-6"
+  examples_per_cluster: 5
+
+refinement:
+  merge_cosine_threshold: 0.92
+  drop_clusters_smaller_than: 25
+  drop_noise_label: -1
+
+runtime:
+  num_workers: 8
+  random_state: 42
+  log_level: "INFO"
