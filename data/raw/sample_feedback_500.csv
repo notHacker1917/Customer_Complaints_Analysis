@@ -1,0 +1,501 @@
+record_id,domain,language_hint,feedback
+R000000,interior,en,The driver seat heater stops working after 49 minutes of driving.
+R000001,interior,en,"Ambient lighting flickers randomly at night, very distracting. <p>this is a complaint</p>"
+R000002,interior,en,Center console armrest is loose and wobbles when leaning on it. VIN: WDB2030461A123456
+R000003,interior,en,Steering wheel heater only warms the lower half of the rim.
+R000004,interior,en,"Sunroof refuses to close in cold weather, error on dashboard."
+R000005,interior,en,The driver seat heater stops working after 37 minutes of driving.
+R000006,powertrain,de,Dieselpartikelfilter-Regeneration schlaegt wiederholt fehl. Mercedes please help.
+R000007,interior,en,"Dome light stays on after locking the car, drains the 12v battery."
+R000008,display_infotainment,en,"MBUX touchscreen freezes during navigation, requires reboot.  multiple   spaces   here  "
+R000009,display_infotainment,pl,"Ekran MBUX zawiesza sie podczas nawigacji, wymaga restartu. Mercedes please help."
+R000010,interior,en,"Ambient lighting flickers randomly at night, very distracting."
+R000011,display_infotainment,de,MBUX-Bildschirm friert waehrend der Navigation ein.
+R000012,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads. Please fix this asap.
+R000013,display_infotainment,tr,MBUX dokunmatik ekran navigasyon sirasinda donuyor.
+R000014,display_infotainment,pl,Apple CarPlay rozlacza sie co 31 minut. VIN: WDB2030461A123456
+R000015,interior,en,Mirror auto-dimming feature does not work at night. Mercedes please help.
+R000016,interior,en,Power window switch on driver door is unresponsive intermittently. !!!!!!
+R000017,interior,en,Driver seat cushion has worn through after 25 months. Plate: B-MW 1234
+R000018,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads.
+R000019,interior,en,Cabin filter smells musty even after replacement.
+R000020,display_infotainment,it,Lo schermo MBUX si blocca durante la navigazione.
+R000021,display_infotainment,de,Hey Mercedes Sprachassistent versteht Befehle nicht.
+R000022,interior,en,Driver seat cushion has worn through after 25 months.
+R000023,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. !!!!!!"
+R000024,interior,en,Mirror auto-dimming feature does not work at night. !!!!!!
+R000025,interior,en,"Dome light stays on after locking the car, drains the 12v battery. !!!!!!"
+R000026,interior,en,Center console armrest is loose and wobbles when leaning on it.
+R000027,interior,en,Steering wheel heater only warms the lower half of the rim.
+R000028,display_infotainment,tr,Apple CarPlay her 46 dakikada bir baglantisi kesiliyor. VIN: WDB2030461A123456
+R000029,interior,en,Cup holder cracked after 55 months of normal use.  multiple   spaces   here  
+R000030,powertrain,en,Electric motor produces a humming noise when accelerating from stop.
+R000031,display_infotainment,de,Hey Mercedes Sprachassistent versteht Befehle nicht.
+R000032,interior,en,Mirror auto-dimming feature does not work at night. Plate: B-MW 1234
+R000033,display_infotainment,de,MBUX-Bildschirm friert waehrend der Navigation ein.
+R000034,interior,en,Steering wheel heater only warms the lower half of the rim. !!!!!!
+R000035,interior,en,Power window switch on driver door is unresponsive intermittently.
+R000036,interior,en,Climate control blows cold air on driver side and hot on passenger side. VIN: WDB2030461A123456
+R000037,interior,en,"Dome light stays on after locking the car, drains the 12v battery. Mercedes please help."
+R000038,display_infotainment,de,Hey Mercedes Sprachassistent versteht Befehle nicht. Please fix this asap.
+R000039,interior,en,"Ambient lighting flickers randomly at night, very distracting. VIN: WDB2030461A123456"
+R000040,interior,en,Cabin filter smells musty even after replacement.
+R000041,display_infotainment,en,Burmester audio system has static noise on right rear speaker. !!!!!!
+R000042,interior,en,"Glove box latch broke, lid will not stay closed. Mercedes please help."
+R000043,interior,en,Steering wheel heater only warms the lower half of the rim. Mercedes please help.
+R000044,interior,en,"Rear seat belt buckle is stuck, cannot release the belt. VIN: WDB2030461A123456"
+R000045,interior,en,Climate control blows cold air on driver side and hot on passenger side.
+R000046,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads. !!!!!!
+R000047,display_infotainment,pl,Asystent glosowy Hey Mercedes nie rozpoznaje polecen.
+R000048,powertrain,de,Der Turbolader pfeift laut bei hoher Drehzahl.
+R000049,interior,en,"Ambient lighting flickers randomly at night, very distracting. Contact me at john.doe@example.com or +49 30 1234567."
+R000050,interior,en,Center console armrest is loose and wobbles when leaning on it. <p>this is a complaint</p>
+R000051,interior,en,Climate control blows cold air on driver side and hot on passenger side.  multiple   spaces   here  
+R000052,interior,en,Mirror auto-dimming feature does not work at night.
+R000053,display_infotainment,en,GPS navigation routes through closed roads repeatedly. !!!!!!
+R000054,interior,en,"Sunroof refuses to close in cold weather, error on dashboard."
+R000055,interior,en,"Ambient lighting flickers randomly at night, very distracting. VIN: WDB2030461A123456"
+R000056,display_infotainment,es,La pantalla MBUX se congela durante la navegacion. VIN: WDB2030461A123456
+R000057,display_infotainment,tr,MBUX dokunmatik ekran navigasyon sirasinda donuyor. Please fix this asap.
+R000058,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads. Please fix this asap.
+R000059,display_infotainment,fr,La camera de recul affiche un ecran noir.  multiple   spaces   here  
+R000060,interior,en,The driver seat heater stops working after 17 minutes of driving. Plate: B-MW 1234
+R000061,display_infotainment,en,Hey Mercedes voice assistant does not recognize commands. <p>this is a complaint</p>
+R000062,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads.  multiple   spaces   here  
+R000063,interior,en,"Ambient lighting flickers randomly at night, very distracting."
+R000064,interior,en,Climate control blows cold air on driver side and hot on passenger side.
+R000065,interior,en,Driver seat cushion has worn through after 40 months. Mercedes please help.
+R000066,display_infotainment,es,La pantalla MBUX se congela durante la navegacion. VIN: WDB2030461A123456
+R000067,powertrain,en,EV high voltage battery range dropped 47 percent after one winter.
+R000068,interior,en,"Glove box latch broke, lid will not stay closed. !!!!!!"
+R000069,interior,en,Mirror auto-dimming feature does not work at night. VIN: WDB2030461A123456
+R000070,interior,en,"Sunroof refuses to close in cold weather, error on dashboard."
+R000071,interior,en,The driver seat heater stops working after 39 minutes of driving. VIN: WDB2030461A123456
+R000072,interior,en,"Sunroof refuses to close in cold weather, error on dashboard."
+R000073,interior,en,"Glove box latch broke, lid will not stay closed."
+R000074,interior,en,Mirror auto-dimming feature does not work at night.
+R000075,display_infotainment,en,Hey Mercedes voice assistant does not recognize commands. VIN: WDB2030461A123456
+R000076,interior,en,"Glove box latch broke, lid will not stay closed. Contact me at john.doe@example.com or +49 30 1234567."
+R000077,interior,en,"Ambient lighting flickers randomly at night, very distracting. <p>this is a complaint</p>"
+R000078,display_infotainment,da,Bakkamera viser sort skaerm naar jeg saetter i bakgear. Plate: B-MW 1234
+R000079,interior,en,Cabin filter smells musty even after replacement. Contact me at john.doe@example.com or +49 30 1234567.
+R000080,display_infotainment,en,Head-up display flickers in direct sunlight.
+R000081,interior,en,Steering wheel heater only warms the lower half of the rim. Please fix this asap.
+R000082,interior,en,"Rear seat belt buckle is stuck, cannot release the belt. <p>this is a complaint</p>"
+R000083,interior,en,"Glove box latch broke, lid will not stay closed. !!!!!!"
+R000084,interior,en,Steering wheel heater only warms the lower half of the rim. <p>this is a complaint</p>
+R000085,interior,en,Driver seat cushion has worn through after 8 months.
+R000086,interior,en,Climate control blows cold air on driver side and hot on passenger side. Contact me at john.doe@example.com or +49 30 1234567.
+R000087,interior,en,"Ambient lighting flickers randomly at night, very distracting."
+R000088,interior,en,Driver seat cushion has worn through after 6 months. Contact me at john.doe@example.com or +49 30 1234567.
+R000089,display_infotainment,it,Lo schermo MBUX si blocca durante la navigazione. VIN: WDB2030461A123456
+R000090,interior,en,"Glove box latch broke, lid will not stay closed. VIN: WDB2030461A123456"
+R000091,display_infotainment,en,Hey Mercedes voice assistant does not recognize commands.  multiple   spaces   here  
+R000092,display_infotainment,en,Wireless charger overheats and stops charging the phone. Mercedes please help.
+R000093,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. Mercedes please help."
+R000094,display_infotainment,en,Wireless charger overheats and stops charging the phone. Mercedes please help.
+R000095,interior,en,Steering wheel heater only warms the lower half of the rim.
+R000096,display_infotainment,fr,"L ecran MBUX se fige pendant la navigation, redemarrage requis. Contact me at john.doe@example.com or +49 30 1234567."
+R000097,interior,en,Center console armrest is loose and wobbles when leaning on it. <p>this is a complaint</p>
+R000098,display_infotainment,da,Bluetooth-forbindelsen afbrydes hver gang bilen genstartes. !!!!!!
+R000099,powertrain,en,"12v battery drains overnight, car will not start in the morning."
+R000100,interior,en,The driver seat heater stops working after 39 minutes of driving. <p>this is a complaint</p>
+R000101,interior,en,Center console armrest is loose and wobbles when leaning on it. Please fix this asap.
+R000102,interior,en,"Dome light stays on after locking the car, drains the 12v battery. Contact me at john.doe@example.com or +49 30 1234567."
+R000103,interior,en,Driver seat cushion has worn through after 35 months.
+R000104,interior,en,Climate control blows cold air on driver side and hot on passenger side.
+R000105,display_infotainment,en,Hey Mercedes voice assistant does not recognize commands. Plate: B-MW 1234
+R000106,interior,en,Driver seat cushion has worn through after 17 months. Mercedes please help.
+R000107,interior,en,Mirror auto-dimming feature does not work at night. Plate: B-MW 1234
+R000108,interior,en,"Dome light stays on after locking the car, drains the 12v battery."
+R000109,interior,en,Steering wheel heater only warms the lower half of the rim. !!!!!!
+R000110,interior,en,Climate control blows cold air on driver side and hot on passenger side. Please fix this asap.
+R000111,display_infotainment,en,Head-up display flickers in direct sunlight. !!!!!!
+R000112,powertrain,en,Electric motor produces a humming noise when accelerating from stop.
+R000113,interior,en,"Glove box latch broke, lid will not stay closed. !!!!!!"
+R000114,interior,en,Cup holder cracked after 50 months of normal use.
+R000115,interior,en,"Dome light stays on after locking the car, drains the 12v battery. Plate: B-MW 1234"
+R000116,display_infotainment,en,Hey Mercedes voice assistant does not recognize commands. VIN: WDB2030461A123456
+R000117,interior,en,Power window switch on driver door is unresponsive intermittently.
+R000118,display_infotainment,it,Apple CarPlay si disconnette ogni 6 minuti.
+R000119,interior,en,"Ambient lighting flickers randomly at night, very distracting. Contact me at john.doe@example.com or +49 30 1234567."
+R000120,display_infotainment,pl,"Ekran MBUX zawiesza sie podczas nawigacji, wymaga restartu."
+R000121,interior,en,Cabin filter smells musty even after replacement. !!!!!!
+R000122,interior,en,"Glove box latch broke, lid will not stay closed. VIN: WDB2030461A123456"
+R000123,interior,en,"Glove box latch broke, lid will not stay closed."
+R000124,display_infotainment,en,Burmester audio system has static noise on right rear speaker.
+R000125,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads. <p>this is a complaint</p>
+R000126,interior,en,Power window switch on driver door is unresponsive intermittently.
+R000127,interior,en,Center console armrest is loose and wobbles when leaning on it. Please fix this asap.
+R000128,interior,en,"Glove box latch broke, lid will not stay closed."
+R000129,interior,en,Power window switch on driver door is unresponsive intermittently.
+R000130,interior,en,Steering wheel heater only warms the lower half of the rim.
+R000131,interior,en,Cup holder cracked after 51 months of normal use.
+R000132,interior,en,Power window switch on driver door is unresponsive intermittently.
+R000133,powertrain,de,Dieselpartikelfilter-Regeneration schlaegt wiederholt fehl. <p>this is a complaint</p>
+R000134,interior,en,The driver seat heater stops working after 9 minutes of driving.
+R000135,display_infotainment,pl,"Ekran MBUX zawiesza sie podczas nawigacji, wymaga restartu."
+R000136,interior,en,Driver seat cushion has worn through after 25 months. Plate: B-MW 1234
+R000137,interior,en,Steering wheel heater only warms the lower half of the rim.
+R000138,interior,en,Cup holder cracked after 59 months of normal use.  multiple   spaces   here  
+R000139,display_infotainment,en,Apple CarPlay disconnects every 59 minutes when using maps. Please fix this asap.
+R000140,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. !!!!!!"
+R000141,interior,en,Cabin filter smells musty even after replacement. VIN: WDB2030461A123456
+R000142,display_infotainment,de,Rueckfahrkamera zeigt schwarzen Bildschirm beim Einlegen des Rueckwaertsgangs. Plate: B-MW 1234
+R000143,powertrain,en,Electric motor produces a humming noise when accelerating from stop.
+R000144,display_infotainment,fr,"L ecran MBUX se fige pendant la navigation, redemarrage requis."
+R000145,display_infotainment,en,"MBUX touchscreen freezes during navigation, requires reboot."
+R000146,powertrain,de,Der Turbolader pfeift laut bei hoher Drehzahl.  multiple   spaces   here  
+R000147,display_infotainment,fr,"L ecran MBUX se fige pendant la navigation, redemarrage requis. !!!!!!"
+R000148,display_infotainment,fr,"L ecran MBUX se fige pendant la navigation, redemarrage requis."
+R000149,interior,en,Cabin filter smells musty even after replacement. <p>this is a complaint</p>
+R000150,interior,en,Driver seat cushion has worn through after 4 months. Contact me at john.doe@example.com or +49 30 1234567.
+R000151,interior,en,Driver seat cushion has worn through after 60 months. Contact me at john.doe@example.com or +49 30 1234567.
+R000152,interior,en,Driver seat cushion has worn through after 52 months.
+R000153,interior,en,"Glove box latch broke, lid will not stay closed."
+R000154,interior,en,Power window switch on driver door is unresponsive intermittently.
+R000155,display_infotainment,en,Bluetooth pairing drops every time the car is restarted. Please fix this asap.
+R000156,interior,en,Steering wheel heater only warms the lower half of the rim. !!!!!!
+R000157,display_infotainment,da,Bluetooth-forbindelsen afbrydes hver gang bilen genstartes. Please fix this asap.
+R000158,display_infotainment,en,Backup camera shows black screen when reverse is engaged.
+R000159,interior,en,Power window switch on driver door is unresponsive intermittently.
+R000160,interior,en,Steering wheel heater only warms the lower half of the rim. Please fix this asap.
+R000161,powertrain,de,Der Turbolader pfeift laut bei hoher Drehzahl. Mercedes please help.
+R000162,interior,en,Climate control blows cold air on driver side and hot on passenger side.
+R000163,interior,en,"Dome light stays on after locking the car, drains the 12v battery."
+R000164,interior,en,Center console armrest is loose and wobbles when leaning on it. Mercedes please help.
+R000165,interior,en,Mirror auto-dimming feature does not work at night.  multiple   spaces   here  
+R000166,interior,en,Center console armrest is loose and wobbles when leaning on it. <p>this is a complaint</p>
+R000167,powertrain,en,EV high voltage battery range dropped 25 percent after one winter. Mercedes please help.
+R000168,interior,en,"Glove box latch broke, lid will not stay closed. Please fix this asap."
+R000169,interior,en,"Glove box latch broke, lid will not stay closed."
+R000170,powertrain,en,Diesel particulate filter regeneration fails repeatedly. VIN: WDB2030461A123456
+R000171,interior,en,Steering wheel heater only warms the lower half of the rim. Please fix this asap.
+R000172,interior,en,Power window switch on driver door is unresponsive intermittently. VIN: WDB2030461A123456
+R000173,interior,en,Steering wheel heater only warms the lower half of the rim. !!!!!!
+R000174,display_infotainment,tr,Geri vites kamerasi siyah ekran gosteriyor. <p>this is a complaint</p>
+R000175,display_infotainment,tr,MBUX dokunmatik ekran navigasyon sirasinda donuyor. Plate: B-MW 1234
+R000176,interior,en,Climate control blows cold air on driver side and hot on passenger side.
+R000177,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. Mercedes please help."
+R000178,display_infotainment,tr,MBUX dokunmatik ekran navigasyon sirasinda donuyor. !!!!!!
+R000179,interior,en,"Rear seat belt buckle is stuck, cannot release the belt. Contact me at john.doe@example.com or +49 30 1234567."
+R000180,interior,en,Climate control blows cold air on driver side and hot on passenger side. Contact me at john.doe@example.com or +49 30 1234567.
+R000181,display_infotainment,es,La camara de marcha atras muestra pantalla negra.  multiple   spaces   here  
+R000182,powertrain,en,9G transmission shifts hard between 2nd and 3rd gear when cold.
+R000183,interior,en,"Glove box latch broke, lid will not stay closed. Plate: B-MW 1234"
+R000184,interior,en,Driver seat cushion has worn through after 50 months.
+R000185,interior,en,"Sunroof refuses to close in cold weather, error on dashboard.  multiple   spaces   here  "
+R000186,interior,en,The driver seat heater stops working after 4 minutes of driving.
+R000187,display_infotainment,tr,MBUX dokunmatik ekran navigasyon sirasinda donuyor.  multiple   spaces   here  
+R000188,interior,en,Steering wheel heater only warms the lower half of the rim. !!!!!!
+R000189,interior,en,Center console armrest is loose and wobbles when leaning on it. <p>this is a complaint</p>
+R000190,interior,en,Steering wheel heater only warms the lower half of the rim.
+R000191,interior,en,Center console armrest is loose and wobbles when leaning on it.
+R000192,display_infotainment,it,Lo schermo MBUX si blocca durante la navigazione.  multiple   spaces   here  
+R000193,display_infotainment,pl,Asystent glosowy Hey Mercedes nie rozpoznaje polecen. Mercedes please help.
+R000194,interior,en,Cabin filter smells musty even after replacement. <p>this is a complaint</p>
+R000195,interior,en,The driver seat heater stops working after 37 minutes of driving.
+R000196,display_infotainment,en,Backup camera shows black screen when reverse is engaged. Contact me at john.doe@example.com or +49 30 1234567.
+R000197,interior,en,"Rear seat belt buckle is stuck, cannot release the belt. !!!!!!"
+R000198,interior,en,Climate control blows cold air on driver side and hot on passenger side. Plate: B-MW 1234
+R000199,interior,en,Cabin filter smells musty even after replacement. Contact me at john.doe@example.com or +49 30 1234567.
+R000200,interior,en,Center console armrest is loose and wobbles when leaning on it. VIN: WDB2030461A123456
+R000201,interior,en,Mirror auto-dimming feature does not work at night. VIN: WDB2030461A123456
+R000202,interior,en,"Ambient lighting flickers randomly at night, very distracting. <p>this is a complaint</p>"
+R000203,display_infotainment,de,Burmester Soundsystem hat statisches Rauschen am hinteren rechten Lautsprecher.
+R000204,powertrain,en,On-board charger refuses to connect with public DC fast chargers.  multiple   spaces   here  
+R000205,powertrain,de,Reichweite der Hochvoltbatterie ist nach einem Winter um 42 Prozent gesunken.
+R000206,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads. <p>this is a complaint</p>
+R000207,interior,en,Power window switch on driver door is unresponsive intermittently. Please fix this asap.
+R000208,interior,en,Climate control blows cold air on driver side and hot on passenger side.
+R000209,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. Mercedes please help."
+R000210,interior,en,Center console armrest is loose and wobbles when leaning on it.
+R000211,interior,en,Steering wheel heater only warms the lower half of the rim. Please fix this asap.
+R000212,interior,en,Steering wheel heater only warms the lower half of the rim.
+R000213,interior,en,Steering wheel heater only warms the lower half of the rim. Mercedes please help.
+R000214,display_infotainment,da,Bakkamera viser sort skaerm naar jeg saetter i bakgear. <p>this is a complaint</p>
+R000215,interior,en,Mirror auto-dimming feature does not work at night.  multiple   spaces   here  
+R000216,interior,en,"Rear seat belt buckle is stuck, cannot release the belt."
+R000217,display_infotainment,en,GPS navigation routes through closed roads repeatedly.  multiple   spaces   here  
+R000218,interior,en,Mirror auto-dimming feature does not work at night. Mercedes please help.
+R000219,interior,en,Center console armrest is loose and wobbles when leaning on it. VIN: WDB2030461A123456
+R000220,display_infotainment,it,Apple CarPlay si disconnette ogni 16 minuti. Contact me at john.doe@example.com or +49 30 1234567.
+R000221,interior,en,Steering wheel heater only warms the lower half of the rim. Contact me at john.doe@example.com or +49 30 1234567.
+R000222,interior,en,Cup holder cracked after 44 months of normal use. !!!!!!
+R000223,display_infotainment,pl,Apple CarPlay rozlacza sie co 12 minut. Contact me at john.doe@example.com or +49 30 1234567.
+R000224,display_infotainment,tr,MBUX dokunmatik ekran navigasyon sirasinda donuyor. VIN: WDB2030461A123456
+R000225,interior,en,Steering wheel heater only warms the lower half of the rim. Plate: B-MW 1234
+R000226,interior,en,The driver seat heater stops working after 7 minutes of driving. !!!!!!
+R000227,interior,en,Driver seat cushion has worn through after 31 months.
+R000228,interior,en,Steering wheel heater only warms the lower half of the rim. Please fix this asap.
+R000229,interior,en,Cup holder cracked after 23 months of normal use.  multiple   spaces   here  
+R000230,display_infotainment,en,Bluetooth pairing drops every time the car is restarted.  multiple   spaces   here  
+R000231,display_infotainment,de,Rueckfahrkamera zeigt schwarzen Bildschirm beim Einlegen des Rueckwaertsgangs.
+R000232,display_infotainment,de,Drahtloses Ladegeraet ueberhitzt und stoppt das Laden.
+R000233,powertrain,en,Turbocharger whines loudly above 24000 rpm.
+R000234,interior,en,Cabin filter smells musty even after replacement. !!!!!!
+R000235,interior,en,The driver seat heater stops working after 17 minutes of driving.
+R000236,display_infotainment,tr,MBUX dokunmatik ekran navigasyon sirasinda donuyor.
+R000237,interior,en,"Rear seat belt buckle is stuck, cannot release the belt. !!!!!!"
+R000238,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. Contact me at john.doe@example.com or +49 30 1234567."
+R000239,interior,en,Cabin filter smells musty even after replacement. Please fix this asap.
+R000240,interior,en,"Dome light stays on after locking the car, drains the 12v battery. <p>this is a complaint</p>"
+R000241,powertrain,en,"Coolant leak under the engine bay, sweet smell after driving."
+R000242,interior,en,The driver seat heater stops working after 21 minutes of driving. Plate: B-MW 1234
+R000243,interior,en,Steering wheel heater only warms the lower half of the rim. Mercedes please help.
+R000244,display_infotainment,en,Head-up display flickers in direct sunlight.
+R000245,interior,en,Driver seat cushion has worn through after 42 months.
+R000246,interior,en,Cabin filter smells musty even after replacement.
+R000247,display_infotainment,tr,MBUX dokunmatik ekran navigasyon sirasinda donuyor.  multiple   spaces   here  
+R000248,interior,en,"Dome light stays on after locking the car, drains the 12v battery.  multiple   spaces   here  "
+R000249,interior,en,Climate control blows cold air on driver side and hot on passenger side. Mercedes please help.
+R000250,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads. VIN: WDB2030461A123456
+R000251,interior,en,The driver seat heater stops working after 56 minutes of driving. Mercedes please help.
+R000252,display_infotainment,en,Backup camera shows black screen when reverse is engaged. Mercedes please help.
+R000253,display_infotainment,tr,Apple CarPlay her 59 dakikada bir baglantisi kesiliyor. Contact me at john.doe@example.com or +49 30 1234567.
+R000254,powertrain,de,Die 12V-Batterie entlaedt sich ueber Nacht komplett.
+R000255,powertrain,en,On-board charger refuses to connect with public DC fast chargers. Plate: B-MW 1234
+R000256,display_infotainment,da,Bluetooth-forbindelsen afbrydes hver gang bilen genstartes.  multiple   spaces   here  
+R000257,interior,en,Steering wheel heater only warms the lower half of the rim. <p>this is a complaint</p>
+R000258,interior,en,Cup holder cracked after 56 months of normal use.
+R000259,display_infotainment,en,Hey Mercedes voice assistant does not recognize commands.
+R000260,display_infotainment,en,Software update OTA failed and bricked the head unit.  multiple   spaces   here  
+R000261,interior,en,"Dome light stays on after locking the car, drains the 12v battery. !!!!!!"
+R000262,interior,en,The driver seat heater stops working after 33 minutes of driving. Please fix this asap.
+R000263,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. Please fix this asap."
+R000264,display_infotainment,de,MBUX-Bildschirm friert waehrend der Navigation ein.
+R000265,display_infotainment,pl,"Ekran MBUX zawiesza sie podczas nawigacji, wymaga restartu."
+R000266,interior,en,Climate control blows cold air on driver side and hot on passenger side.
+R000267,interior,en,Center console armrest is loose and wobbles when leaning on it. Mercedes please help.
+R000268,interior,en,Cabin filter smells musty even after replacement.
+R000269,interior,en,"Glove box latch broke, lid will not stay closed. <p>this is a complaint</p>"
+R000270,interior,en,Cabin filter smells musty even after replacement.
+R000271,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. Mercedes please help."
+R000272,interior,en,Power window switch on driver door is unresponsive intermittently. !!!!!!
+R000273,interior,en,"Rear seat belt buckle is stuck, cannot release the belt. VIN: WDB2030461A123456"
+R000274,interior,en,Steering wheel heater only warms the lower half of the rim. <p>this is a complaint</p>
+R000275,interior,en,Cup holder cracked after 46 months of normal use. Contact me at john.doe@example.com or +49 30 1234567.
+R000276,interior,en,Power window switch on driver door is unresponsive intermittently.
+R000277,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. Please fix this asap."
+R000278,interior,en,Climate control blows cold air on driver side and hot on passenger side.  multiple   spaces   here  
+R000279,interior,en,"Sunroof refuses to close in cold weather, error on dashboard."
+R000280,powertrain,en,On-board charger refuses to connect with public DC fast chargers. <p>this is a complaint</p>
+R000281,interior,en,Cabin filter smells musty even after replacement. VIN: WDB2030461A123456
+R000282,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads.
+R000283,interior,en,Cup holder cracked after 13 months of normal use.
+R000284,interior,en,Climate control blows cold air on driver side and hot on passenger side.
+R000285,interior,en,The driver seat heater stops working after 37 minutes of driving.
+R000286,interior,en,"Ambient lighting flickers randomly at night, very distracting. !!!!!!"
+R000287,display_infotainment,de,Drahtloses Ladegeraet ueberhitzt und stoppt das Laden.
+R000288,display_infotainment,da,Bakkamera viser sort skaerm naar jeg saetter i bakgear.
+R000289,interior,en,"Rear seat belt buckle is stuck, cannot release the belt. Please fix this asap."
+R000290,interior,en,The driver seat heater stops working after 18 minutes of driving. Contact me at john.doe@example.com or +49 30 1234567.
+R000291,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads. Mercedes please help.
+R000292,interior,en,"Dome light stays on after locking the car, drains the 12v battery. !!!!!!"
+R000293,interior,en,"Ambient lighting flickers randomly at night, very distracting."
+R000294,display_infotainment,es,La camara de marcha atras muestra pantalla negra.
+R000295,interior,en,"Sunroof refuses to close in cold weather, error on dashboard."
+R000296,interior,en,Steering wheel heater only warms the lower half of the rim. Plate: B-MW 1234
+R000297,interior,en,"Dome light stays on after locking the car, drains the 12v battery."
+R000298,powertrain,de,AdBlue-Warnung bleibt trotz Nachfuellen bestehen. Contact me at john.doe@example.com or +49 30 1234567.
+R000299,display_infotainment,en,GPS navigation routes through closed roads repeatedly. Plate: B-MW 1234
+R000300,display_infotainment,en,GPS navigation routes through closed roads repeatedly. Plate: B-MW 1234
+R000301,interior,en,"Dome light stays on after locking the car, drains the 12v battery. <p>this is a complaint</p>"
+R000302,interior,en,Cabin filter smells musty even after replacement.
+R000303,interior,en,Power window switch on driver door is unresponsive intermittently. !!!!!!
+R000304,interior,en,"Sunroof refuses to close in cold weather, error on dashboard."
+R000305,interior,en,"Ambient lighting flickers randomly at night, very distracting."
+R000306,interior,en,Center console armrest is loose and wobbles when leaning on it. Plate: B-MW 1234
+R000307,interior,en,The driver seat heater stops working after 16 minutes of driving.
+R000308,powertrain,de,"Kuehlmittelverlust unter dem Motor, suesslicher Geruch."
+R000309,interior,en,Mirror auto-dimming feature does not work at night.
+R000310,display_infotainment,tr,Apple CarPlay her 39 dakikada bir baglantisi kesiliyor. !!!!!!
+R000311,display_infotainment,en,Head-up display flickers in direct sunlight. Mercedes please help.
+R000312,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. !!!!!!"
+R000313,interior,en,Power window switch on driver door is unresponsive intermittently.
+R000314,interior,en,"Ambient lighting flickers randomly at night, very distracting.  multiple   spaces   here  "
+R000315,interior,en,Center console armrest is loose and wobbles when leaning on it. Plate: B-MW 1234
+R000316,display_infotainment,de,Burmester Soundsystem hat statisches Rauschen am hinteren rechten Lautsprecher.
+R000317,interior,en,Power window switch on driver door is unresponsive intermittently. <p>this is a complaint</p>
+R000318,interior,en,Power window switch on driver door is unresponsive intermittently. VIN: WDB2030461A123456
+R000319,interior,en,"Rear seat belt buckle is stuck, cannot release the belt."
+R000320,interior,en,Mirror auto-dimming feature does not work at night. Mercedes please help.
+R000321,powertrain,en,On-board charger refuses to connect with public DC fast chargers.
+R000322,interior,en,"Glove box latch broke, lid will not stay closed. Plate: B-MW 1234"
+R000323,interior,en,The driver seat heater stops working after 50 minutes of driving. !!!!!!
+R000324,display_infotainment,da,Bakkamera viser sort skaerm naar jeg saetter i bakgear.
+R000325,powertrain,en,"Coolant leak under the engine bay, sweet smell after driving. Contact me at john.doe@example.com or +49 30 1234567."
+R000326,interior,en,"Rear seat belt buckle is stuck, cannot release the belt."
+R000327,interior,en,"Dome light stays on after locking the car, drains the 12v battery. Mercedes please help."
+R000328,interior,en,"Rear seat belt buckle is stuck, cannot release the belt."
+R000329,interior,en,Steering wheel heater only warms the lower half of the rim. Please fix this asap.
+R000330,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads.
+R000331,interior,en,Center console armrest is loose and wobbles when leaning on it. Contact me at john.doe@example.com or +49 30 1234567.
+R000332,interior,en,Steering wheel heater only warms the lower half of the rim.  multiple   spaces   here  
+R000333,interior,en,"Rear seat belt buckle is stuck, cannot release the belt."
+R000334,interior,en,Cup holder cracked after 9 months of normal use.  multiple   spaces   here  
+R000335,interior,en,Climate control blows cold air on driver side and hot on passenger side.
+R000336,interior,en,Climate control blows cold air on driver side and hot on passenger side. Contact me at john.doe@example.com or +49 30 1234567.
+R000337,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. VIN: WDB2030461A123456"
+R000338,interior,en,Cabin filter smells musty even after replacement. Contact me at john.doe@example.com or +49 30 1234567.
+R000339,interior,en,Cabin filter smells musty even after replacement.
+R000340,interior,en,Climate control blows cold air on driver side and hot on passenger side.
+R000341,display_infotainment,de,Burmester Soundsystem hat statisches Rauschen am hinteren rechten Lautsprecher. <p>this is a complaint</p>
+R000342,interior,en,The driver seat heater stops working after 42 minutes of driving. Plate: B-MW 1234
+R000343,display_infotainment,pl,"Ekran MBUX zawiesza sie podczas nawigacji, wymaga restartu."
+R000344,interior,en,The driver seat heater stops working after 37 minutes of driving. Mercedes please help.
+R000345,interior,en,Driver seat cushion has worn through after 60 months.
+R000346,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads. !!!!!!
+R000347,display_infotainment,de,Drahtloses Ladegeraet ueberhitzt und stoppt das Laden. <p>this is a complaint</p>
+R000348,interior,en,Center console armrest is loose and wobbles when leaning on it.
+R000349,interior,en,"Rear seat belt buckle is stuck, cannot release the belt. Contact me at john.doe@example.com or +49 30 1234567."
+R000350,interior,en,Climate control blows cold air on driver side and hot on passenger side.
+R000351,interior,en,Mirror auto-dimming feature does not work at night. Plate: B-MW 1234
+R000352,interior,en,Mirror auto-dimming feature does not work at night.
+R000353,display_infotainment,en,Bluetooth pairing drops every time the car is restarted.  multiple   spaces   here  
+R000354,display_infotainment,de,Rueckfahrkamera zeigt schwarzen Bildschirm beim Einlegen des Rueckwaertsgangs. Please fix this asap.
+R000355,display_infotainment,da,"MBUX skaermen fryser under navigation, skal genstartes."
+R000356,display_infotainment,en,GPS navigation routes through closed roads repeatedly. <p>this is a complaint</p>
+R000357,interior,en,"Dome light stays on after locking the car, drains the 12v battery. Plate: B-MW 1234"
+R000358,display_infotainment,de,Drahtloses Ladegeraet ueberhitzt und stoppt das Laden.
+R000359,interior,en,"Rear seat belt buckle is stuck, cannot release the belt. Please fix this asap."
+R000360,interior,en,Cabin filter smells musty even after replacement. VIN: WDB2030461A123456
+R000361,interior,en,Mirror auto-dimming feature does not work at night. Please fix this asap.
+R000362,display_infotainment,pl,"Ekran MBUX zawiesza sie podczas nawigacji, wymaga restartu."
+R000363,interior,en,"Sunroof refuses to close in cold weather, error on dashboard.  multiple   spaces   here  "
+R000364,interior,en,Cup holder cracked after 49 months of normal use. Contact me at john.doe@example.com or +49 30 1234567.
+R000365,powertrain,de,AdBlue-Warnung bleibt trotz Nachfuellen bestehen. Mercedes please help.
+R000366,display_infotainment,fr,"L ecran MBUX se fige pendant la navigation, redemarrage requis. !!!!!!"
+R000367,display_infotainment,de,Drahtloses Ladegeraet ueberhitzt und stoppt das Laden.
+R000368,interior,en,"Dome light stays on after locking the car, drains the 12v battery. Please fix this asap."
+R000369,display_infotainment,it,Lo schermo MBUX si blocca durante la navigazione. Contact me at john.doe@example.com or +49 30 1234567.
+R000370,interior,en,Mirror auto-dimming feature does not work at night. Contact me at john.doe@example.com or +49 30 1234567.
+R000371,interior,en,"Ambient lighting flickers randomly at night, very distracting. Mercedes please help."
+R000372,display_infotainment,en,Burmester audio system has static noise on right rear speaker.
+R000373,interior,en,Power window switch on driver door is unresponsive intermittently. Please fix this asap.
+R000374,interior,en,Steering wheel heater only warms the lower half of the rim. !!!!!!
+R000375,interior,en,Cup holder cracked after 56 months of normal use. !!!!!!
+R000376,display_infotainment,de,Hey Mercedes Sprachassistent versteht Befehle nicht. Please fix this asap.
+R000377,interior,en,Mirror auto-dimming feature does not work at night.  multiple   spaces   here  
+R000378,interior,en,Climate control blows cold air on driver side and hot on passenger side.
+R000379,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. !!!!!!"
+R000380,interior,en,Power window switch on driver door is unresponsive intermittently.
+R000381,powertrain,de,Die 12V-Batterie entlaedt sich ueber Nacht komplett.
+R000382,powertrain,en,AdBlue warning appears constantly even after refilling. Contact me at john.doe@example.com or +49 30 1234567.
+R000383,interior,en,Power window switch on driver door is unresponsive intermittently.
+R000384,interior,en,Cabin filter smells musty even after replacement.
+R000385,interior,en,Cup holder cracked after 29 months of normal use.
+R000386,interior,en,Steering wheel heater only warms the lower half of the rim. Plate: B-MW 1234
+R000387,interior,en,"Ambient lighting flickers randomly at night, very distracting."
+R000388,interior,en,"Dome light stays on after locking the car, drains the 12v battery. Mercedes please help."
+R000389,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. Contact me at john.doe@example.com or +49 30 1234567."
+R000390,display_infotainment,en,Burmester audio system has static noise on right rear speaker.
+R000391,interior,en,Power window switch on driver door is unresponsive intermittently. Contact me at john.doe@example.com or +49 30 1234567.
+R000392,interior,en,The driver seat heater stops working after 59 minutes of driving.  multiple   spaces   here  
+R000393,interior,en,Power window switch on driver door is unresponsive intermittently. !!!!!!
+R000394,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads. Contact me at john.doe@example.com or +49 30 1234567.
+R000395,display_infotainment,da,Bakkamera viser sort skaerm naar jeg saetter i bakgear.
+R000396,interior,en,Steering wheel heater only warms the lower half of the rim. <p>this is a complaint</p>
+R000397,interior,en,Driver seat cushion has worn through after 21 months.
+R000398,display_infotainment,it,Lo schermo MBUX si blocca durante la navigazione. Contact me at john.doe@example.com or +49 30 1234567.
+R000399,interior,en,Steering wheel heater only warms the lower half of the rim. Plate: B-MW 1234
+R000400,interior,en,Power window switch on driver door is unresponsive intermittently. <p>this is a complaint</p>
+R000401,interior,en,Driver seat cushion has worn through after 44 months. Mercedes please help.
+R000402,interior,en,"Dome light stays on after locking the car, drains the 12v battery. !!!!!!"
+R000403,powertrain,en,Turbocharger whines loudly above 60000 rpm. Plate: B-MW 1234
+R000404,powertrain,en,Diesel particulate filter regeneration fails repeatedly.  multiple   spaces   here  
+R000405,display_infotainment,tr,MBUX dokunmatik ekran navigasyon sirasinda donuyor.  multiple   spaces   here  
+R000406,interior,en,"Glove box latch broke, lid will not stay closed."
+R000407,interior,en,"Glove box latch broke, lid will not stay closed.  multiple   spaces   here  "
+R000408,powertrain,en,"12v battery drains overnight, car will not start in the morning. !!!!!!"
+R000409,interior,en,"Glove box latch broke, lid will not stay closed. !!!!!!"
+R000410,interior,en,Cabin filter smells musty even after replacement. Contact me at john.doe@example.com or +49 30 1234567.
+R000411,interior,en,Cup holder cracked after 48 months of normal use.
+R000412,interior,en,Power window switch on driver door is unresponsive intermittently. Please fix this asap.
+R000413,powertrain,en,"Coolant leak under the engine bay, sweet smell after driving."
+R000414,interior,en,Climate control blows cold air on driver side and hot on passenger side. Please fix this asap.
+R000415,interior,en,Mirror auto-dimming feature does not work at night.
+R000416,display_infotainment,en,Bluetooth pairing drops every time the car is restarted. Contact me at john.doe@example.com or +49 30 1234567.
+R000417,display_infotainment,en,GPS navigation routes through closed roads repeatedly. <p>this is a complaint</p>
+R000418,display_infotainment,fr,"L ecran MBUX se fige pendant la navigation, redemarrage requis."
+R000419,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads.
+R000420,powertrain,en,Electric motor produces a humming noise when accelerating from stop. !!!!!!
+R000421,powertrain,de,AdBlue-Warnung bleibt trotz Nachfuellen bestehen.  multiple   spaces   here  
+R000422,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads.  multiple   spaces   here  
+R000423,interior,en,Power window switch on driver door is unresponsive intermittently. VIN: WDB2030461A123456
+R000424,interior,en,Cup holder cracked after 45 months of normal use. <p>this is a complaint</p>
+R000425,interior,en,"Dome light stays on after locking the car, drains the 12v battery. Mercedes please help."
+R000426,display_infotainment,es,La camara de marcha atras muestra pantalla negra. Please fix this asap.
+R000427,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. Contact me at john.doe@example.com or +49 30 1234567."
+R000428,interior,en,Mirror auto-dimming feature does not work at night. VIN: WDB2030461A123456
+R000429,interior,en,"Dome light stays on after locking the car, drains the 12v battery."
+R000430,interior,en,"Glove box latch broke, lid will not stay closed. Contact me at john.doe@example.com or +49 30 1234567."
+R000431,display_infotainment,en,GPS navigation routes through closed roads repeatedly. !!!!!!
+R000432,interior,en,"Ambient lighting flickers randomly at night, very distracting."
+R000433,display_infotainment,en,GPS navigation routes through closed roads repeatedly. Contact me at john.doe@example.com or +49 30 1234567.
+R000434,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. VIN: WDB2030461A123456"
+R000435,interior,en,"Rear seat belt buckle is stuck, cannot release the belt. Please fix this asap."
+R000436,interior,en,Center console armrest is loose and wobbles when leaning on it. <p>this is a complaint</p>
+R000437,display_infotainment,de,Rueckfahrkamera zeigt schwarzen Bildschirm beim Einlegen des Rueckwaertsgangs. Plate: B-MW 1234
+R000438,powertrain,en,"12v battery drains overnight, car will not start in the morning. Mercedes please help."
+R000439,interior,en,Driver seat cushion has worn through after 33 months. Plate: B-MW 1234
+R000440,interior,en,Power window switch on driver door is unresponsive intermittently.
+R000441,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. Contact me at john.doe@example.com or +49 30 1234567."
+R000442,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. Please fix this asap."
+R000443,interior,en,"Glove box latch broke, lid will not stay closed. Please fix this asap."
+R000444,interior,en,"Glove box latch broke, lid will not stay closed. Please fix this asap."
+R000445,interior,en,Power window switch on driver door is unresponsive intermittently.
+R000446,display_infotainment,es,La camara de marcha atras muestra pantalla negra. Contact me at john.doe@example.com or +49 30 1234567.
+R000447,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. !!!!!!"
+R000448,interior,en,The driver seat heater stops working after 5 minutes of driving.  multiple   spaces   here  
+R000449,interior,en,"Ambient lighting flickers randomly at night, very distracting.  multiple   spaces   here  "
+R000450,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads.  multiple   spaces   here  
+R000451,interior,en,"Dome light stays on after locking the car, drains the 12v battery."
+R000452,display_infotainment,en,Software update OTA failed and bricked the head unit. Please fix this asap.
+R000453,powertrain,en,"Engine misfire under heavy acceleration, check engine light on."
+R000454,display_infotainment,en,Burmester audio system has static noise on right rear speaker.
+R000455,interior,en,Cabin filter smells musty even after replacement.
+R000456,interior,en,Driver seat cushion has worn through after 3 months.
+R000457,interior,en,Cabin filter smells musty even after replacement.  multiple   spaces   here  
+R000458,interior,en,Cup holder cracked after 3 months of normal use.
+R000459,interior,en,"Ambient lighting flickers randomly at night, very distracting. <p>this is a complaint</p>"
+R000460,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads. <p>this is a complaint</p>
+R000461,interior,en,"Rear seat belt buckle is stuck, cannot release the belt.  multiple   spaces   here  "
+R000462,interior,en,"Dome light stays on after locking the car, drains the 12v battery."
+R000463,interior,en,"Sunroof refuses to close in cold weather, error on dashboard. Plate: B-MW 1234"
+R000464,interior,en,Cabin filter smells musty even after replacement. !!!!!!
+R000465,interior,en,"Rear seat belt buckle is stuck, cannot release the belt. !!!!!!"
+R000466,display_infotainment,en,Apple CarPlay disconnects every 32 minutes when using maps. Mercedes please help.
+R000467,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads. Contact me at john.doe@example.com or +49 30 1234567.
+R000468,powertrain,de,"Kuehlmittelverlust unter dem Motor, suesslicher Geruch."
+R000469,display_infotainment,de,MBUX-Bildschirm friert waehrend der Navigation ein. Plate: B-MW 1234
+R000470,interior,en,"Ambient lighting flickers randomly at night, very distracting."
+R000471,interior,en,"Dome light stays on after locking the car, drains the 12v battery. VIN: WDB2030461A123456"
+R000472,powertrain,de,AdBlue-Warnung bleibt trotz Nachfuellen bestehen. Plate: B-MW 1234
+R000473,interior,en,"Rear seat belt buckle is stuck, cannot release the belt. VIN: WDB2030461A123456"
+R000474,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads.  multiple   spaces   here  
+R000475,powertrain,de,Dieselpartikelfilter-Regeneration schlaegt wiederholt fehl. <p>this is a complaint</p>
+R000476,display_infotainment,de,Rueckfahrkamera zeigt schwarzen Bildschirm beim Einlegen des Rueckwaertsgangs. Contact me at john.doe@example.com or +49 30 1234567.
+R000477,display_infotainment,de,Rueckfahrkamera zeigt schwarzen Bildschirm beim Einlegen des Rueckwaertsgangs. Please fix this asap.
+R000478,display_infotainment,de,Hey Mercedes Sprachassistent versteht Befehle nicht. Mercedes please help.
+R000479,powertrain,de,Der Turbolader pfeift laut bei hoher Drehzahl. Mercedes please help.
+R000480,interior,en,Power window switch on driver door is unresponsive intermittently. Please fix this asap.
+R000481,display_infotainment,tr,Geri vites kamerasi siyah ekran gosteriyor. Contact me at john.doe@example.com or +49 30 1234567.
+R000482,interior,en,Driver seat cushion has worn through after 7 months.
+R000483,interior,en,Center console armrest is loose and wobbles when leaning on it. <p>this is a complaint</p>
+R000484,interior,en,"Ambient lighting flickers randomly at night, very distracting. VIN: WDB2030461A123456"
+R000485,interior,en,Climate control blows cold air on driver side and hot on passenger side. VIN: WDB2030461A123456
+R000486,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads. Mercedes please help.
+R000487,interior,en,"Glove box latch broke, lid will not stay closed.  multiple   spaces   here  "
+R000488,interior,en,Mirror auto-dimming feature does not work at night. <p>this is a complaint</p>
+R000489,interior,en,Power window switch on driver door is unresponsive intermittently. Plate: B-MW 1234
+R000490,interior,en,Passenger seat ventilation makes a loud rattling noise on bumpy roads. Plate: B-MW 1234
+R000491,interior,en,"Ambient lighting flickers randomly at night, very distracting. !!!!!!"
+R000492,interior,en,Driver seat cushion has worn through after 8 months. Please fix this asap.
+R000493,display_infotainment,de,Apple CarPlay trennt die Verbindung alle 9 Minuten.  multiple   spaces   here  
+R000494,interior,en,"Sunroof refuses to close in cold weather, error on dashboard.  multiple   spaces   here  "
+R000495,interior,en,Climate control blows cold air on driver side and hot on passenger side.  multiple   spaces   here  
+R000496,display_infotainment,tr,MBUX dokunmatik ekran navigasyon sirasinda donuyor. !!!!!!
+R000497,interior,en,The driver seat heater stops working after 40 minutes of driving. !!!!!!
+R000498,display_infotainment,en,Bluetooth pairing drops every time the car is restarted.
+R000499,interior,en,Center console armrest is loose and wobbles when leaning on it.  multiple   spaces   here  

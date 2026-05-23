@@ -1,0 +1,111 @@
+# Common failure-type / symptom verbs and short noun phrases.
+# Lowercased, one per line.
+
+freeze
+freezes
+frozen
+crash
+crashes
+reboot
+restart
+black screen
+no power
+won't start
+fails to start
+will not start
+intermittent
+flicker
+flickering
+glitch
+lag
+laggy
+slow
+unresponsive
+no response
+no audio
+distorted audio
+static
+noise
+buzzing
+humming
+rattle
+rattling
+squeak
+creak
+vibration
+vibrates
+shakes
+shudder
+overheat
+overheating
+leak
+leaking
+drip
+smoke
+smell
+burning smell
+warning light
+error message
+fault code
+cel
+check engine
+malfunction
+defect
+defective
+broken
+cracked
+loose
+stuck
+jammed
+won't open
+won't close
+disconnects
+disconnect
+loses connection
+no signal
+weak signal
+delay
+delayed
+inaccurate
+wrong reading
+false alarm
+random
+unintended
+sudden
+loss of power
+poor performance
+hesitation
+stall
+stalls
+misfire
+shifts hard
+hard shift
+slips
+slipping
+grinding
+clunking
+knocking
+pinging
+oil leak
+coolant leak
+fuel leak
+water ingress
+condensation
+fogging
+dim
+dimming
+too bright
+flicker
+short circuit
+shorts out
+melts
+melted
+discoloration
+peeling
+fading
+tear
+torn
+worn
+wear
+corrosion
+rust

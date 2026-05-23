@@ -1,0 +1,1501 @@
+record_id,domain,clean_text,component,failure_type,cluster_id
+000000,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area. !!! please fix this asap",ambient lighting,,22
+000001,interior,Power window switch on the rear-right door is stuck and the window won't go down. !!! please fix this asap,power window,stuck,62
+000002,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000003,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000004,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000005,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000006,interior,Cabin filter smells musty even after replacement. more info:,cabin filter,,57
+000007,interior,Power window switch on the rear-left door is stuck and the window won't go down.,power window,stuck,62
+000008,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000009,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals. VIN: <VIN>,floor mat,,56
+000010,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000011,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000012,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000013,interior,The leather on the steering wheel is peeling after only 6 months.,steering wheel,peeling,42
+000014,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000015,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000016,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000017,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000018,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000019,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000020,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000021,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000022,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000023,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000024,interior,The leather on the steering wheel is peeling after only 3 months.,steering wheel,peeling,42
+000025,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000026,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000027,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000028,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000029,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000030,interior,"Rear seat heater is unresponsive on the left side, right side works fine. VIN: <VIN>",seat heater,unresponsive,54
+000031,interior,Air conditioning blows warm air on the driver side even when set to cold. !!! please fix this asap,air conditioning,,45
+000032,interior,"The driver seat heater stopped working after 23 months, only the passenger side gets warm.",driver seat,,44
+000033,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000034,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000035,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000036,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000037,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000038,interior,HEADREST IN THE PASSENGER SEAT WILL NOT ADJUST UP OR DOWN.,headrest,,48
+000039,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000040,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000041,interior,"The driver seat heater stopped working after 6 months, only the passenger side gets warm.",driver seat,,44
+000042,interior,DOOR LOCK ON THE REAR RIGHT DOOR CLICKS REPEATEDLY WHEN LOCKING.,door lock,,58
+000043,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000044,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000045,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000046,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000047,interior,READING LIGHT OVER THE REAR SEAT DOES NOT TURN ON AT ALL.,reading light,,52
+000048,interior,SUNROOF MAKES A LOUD RATTLING NOISE WHEN DRIVING OVER BUMPS.,sunroof,rattling,60
+000049,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000050,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000051,interior,Seat belt on the rear left is jammed and won't retract properly. !!! please fix this asap,seat belt,jammed,61
+000052,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000053,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000054,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000055,interior,"AMBIENT LIGHTING FLICKERS RANDOMLY AT NIGHT, MOSTLY AROUND THE DASHBOARD AREA.",ambient lighting,,22
+000056,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000057,interior,"The driver seat heater stopped working after 22 months, only the passenger side gets warm.",driver seat,,44
+000058,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000059,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000060,interior,SUN VISOR ON THE DRIVER SIDE HANGS LOOSE AND WILL NOT STAY UP.,sun visor,loose,47
+000061,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000062,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000063,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000064,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000065,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000066,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000067,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000068,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000069,interior,"The driver seat heater stopped working after 10 months, only the passenger side gets warm.",driver seat,,44
+000070,interior,SUNROOF MAKES A LOUD RATTLING NOISE WHEN DRIVING OVER BUMPS.,sunroof,rattling,60
+000071,interior,DASHBOARD CREAKS LOUDLY ESPECIALLY IN COLD WEATHER.,dashboard,,7
+000072,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000073,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals. contact me at <EMAIL>,floor mat,,56
+000074,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000075,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000076,interior,Power window switch on the front-right door is stuck and the window won't go down.,power window,stuck,62
+000077,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000078,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000079,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000080,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000081,interior,Power window switch on the rear-right door is stuck and the window won't go down.,power window,stuck,62
+000082,interior,FLOOR MAT ON THE DRIVER SIDE KEEPS SLIDING FORWARD AND BLOCKING THE PEDALS.,floor mat,,56
+000083,interior,"The driver seat heater stopped working after 16 months, only the passenger side gets warm.",driver seat,,44
+000084,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000085,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000086,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000087,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000088,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000089,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000090,interior,SUNROOF MAKES A LOUD RATTLING NOISE WHEN DRIVING OVER BUMPS.,sunroof,rattling,60
+000091,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000092,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000093,interior,Power window switch on the front-left door is stuck and the window won't go down.,power window,stuck,62
+000094,interior,Air conditioning blows warm air on the driver side even when set to cold. !!! please fix this asap,air conditioning,,45
+000095,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000096,interior,Power window switch on the rear-left door is stuck and the window won't go down.,power window,stuck,62
+000097,interior,The leather on the steering wheel is peeling after only 2 months.,steering wheel,peeling,42
+000098,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000099,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000100,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000101,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000102,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000103,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000104,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000105,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000106,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000107,interior,Power window switch on the front-right door is stuck and the window won't go down.,power window,stuck,62
+000108,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000109,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000110,interior,Power window switch on the rear-right door is stuck and the window won't go down. more info:,power window,stuck,62
+000111,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000112,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000113,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000114,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000115,interior,Power window switch on the rear-left door is stuck and the window won't go down.,power window,stuck,62
+000116,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000117,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000118,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000119,interior,POWER WINDOW SWITCH ON THE REAR-RIGHT DOOR IS STUCK AND THE WINDOW WON'T GO DOWN.,power window,stuck,62
+000120,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000121,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000122,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000123,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000124,interior,The leather on the steering wheel is peeling after only 26 months.,steering wheel,peeling,42
+000125,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000126,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000127,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000128,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000129,interior,HEADREST IN THE PASSENGER SEAT WILL NOT ADJUST UP OR DOWN.,headrest,,48
+000130,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000131,interior,FLOOR MAT ON THE DRIVER SIDE KEEPS SLIDING FORWARD AND BLOCKING THE PEDALS.,floor mat,,56
+000132,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000133,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000134,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000135,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000136,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000137,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000138,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000139,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000140,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000141,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000142,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000143,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000144,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000145,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000146,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000147,interior,DOOR LOCK ON THE REAR RIGHT DOOR CLICKS REPEATEDLY WHEN LOCKING.,door lock,,58
+000148,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000149,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000150,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000151,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000152,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000153,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000154,interior,"The driver seat heater stopped working after 15 months, only the passenger side gets warm.",driver seat,,44
+000155,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000156,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000157,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000158,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000159,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000160,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000161,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000162,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000163,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000164,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000165,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000166,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000167,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000168,interior,SIDE MIRROR DOES NOT FOLD AUTOMATICALLY WHEN LOCKING THE CAR.,side mirror,,53
+000169,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000170,interior,"REAR SEAT HEATER IS UNRESPONSIVE ON THE LEFT SIDE, RIGHT SIDE WORKS FINE.",seat heater,unresponsive,54
+000171,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000172,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000173,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000174,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000175,interior,Power window switch on the front-left door is stuck and the window won't go down.,power window,stuck,62
+000176,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000177,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000178,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000179,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000180,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000181,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000182,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000183,interior,Seat belt on the rear left is jammed and won't retract properly. VIN: <VIN>,seat belt,jammed,61
+000184,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000185,interior,Sunroof makes a loud rattling noise when driving over bumps. contact me at <EMAIL>,sunroof,rattling,60
+000186,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000187,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000188,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000189,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000190,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000191,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000192,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000193,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000194,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000195,interior,"Rear seat heater is unresponsive on the left side, right side works fine. !!! please fix this asap",seat heater,unresponsive,54
+000196,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000197,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000198,interior,Air conditioning blows warm air on the driver side even when set to cold. VIN: <VIN>,air conditioning,,45
+000199,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000200,interior,Power window switch on the front-left door is stuck and the window won't go down.,power window,stuck,62
+000201,interior,CABIN FILTER SMELLS MUSTY EVEN AFTER REPLACEMENT.,cabin filter,,57
+000202,interior,"The driver seat heater stopped working after 17 months, only the passenger side gets warm.",driver seat,,44
+000203,interior,"The driver seat heater stopped working after 8 months, only the passenger side gets warm.",driver seat,,44
+000204,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000205,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000206,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000207,interior,"Trunk latch fails to release using the key fob, only manual opening works. !!! please fix this asap",trunk latch,,18
+000208,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000209,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000210,interior,DOOR LOCK ON THE REAR RIGHT DOOR CLICKS REPEATEDLY WHEN LOCKING.,door lock,,58
+000211,interior,Power window switch on the rear-left door is stuck and the window won't go down.,power window,stuck,62
+000212,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000213,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000214,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000215,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000216,interior,The leather on the steering wheel is peeling after only 20 months.,steering wheel,peeling,42
+000217,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000218,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000219,interior,"The driver seat heater stopped working after 28 months, only the passenger side gets warm.",driver seat,,44
+000220,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000221,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000222,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000223,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000224,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000225,interior,"The driver seat heater stopped working after 6 months, only the passenger side gets warm.",driver seat,,44
+000226,interior,The leather on the steering wheel is peeling after only 28 months. more info:,steering wheel,peeling,42
+000227,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000228,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000229,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000230,interior,"The driver seat heater stopped working after 14 months, only the passenger side gets warm.",driver seat,,44
+000231,interior,"Rear seat heater is unresponsive on the left side, right side works fine. !!! please fix this asap",seat heater,unresponsive,54
+000232,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000233,interior,"GLOVE BOX LATCH IS BROKEN, THE LID KEEPS FALLING OPEN WHILE DRIVING.",glove box,broken,49
+000234,interior,"Trunk latch fails to release using the key fob, only manual opening works. more info:",trunk latch,,18
+000235,interior,"The driver seat heater stopped working after 31 months, only the passenger side gets warm.",driver seat,,44
+000236,interior,"Rear seat heater is unresponsive on the left side, right side works fine. more info:",seat heater,unresponsive,54
+000237,interior,"The driver seat heater stopped working after 20 months, only the passenger side gets warm.",driver seat,,44
+000238,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000239,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000240,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000241,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000242,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000243,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000244,interior,Cabin filter smells musty even after replacement. contact me at <EMAIL>,cabin filter,,57
+000245,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000246,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000247,interior,FLOOR MAT ON THE DRIVER SIDE KEEPS SLIDING FORWARD AND BLOCKING THE PEDALS.,floor mat,,56
+000248,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000249,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000250,interior,Headrest in the passenger seat will not adjust up or down. VIN: <VIN>,headrest,,48
+000251,interior,READING LIGHT OVER THE REAR SEAT DOES NOT TURN ON AT ALL.,reading light,,52
+000252,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000253,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000254,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000255,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000256,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000257,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000258,interior,"The driver seat heater stopped working after 31 months, only the passenger side gets warm.",driver seat,,44
+000259,interior,The leather on the steering wheel is peeling after only 36 months.,steering wheel,peeling,42
+000260,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000261,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000262,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000263,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000264,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000265,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000266,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000267,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000268,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000269,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000270,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000271,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000272,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000273,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000274,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000275,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000276,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000277,interior,Power window switch on the rear-left door is stuck and the window won't go down.,power window,stuck,62
+000278,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000279,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000280,interior,Power window switch on the rear-right door is stuck and the window won't go down.,power window,stuck,62
+000281,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000282,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000283,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000284,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000285,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000286,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000287,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000288,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000289,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000290,interior,"Glove box latch is broken, the lid keeps falling open while driving. VIN: <VIN>",glove box,broken,49
+000291,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000292,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000293,interior,Side mirror does not fold automatically when locking the car. !!! please fix this asap,side mirror,,53
+000294,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000295,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000296,interior,Sun visor on the driver side hangs loose and will not stay up. !!! please fix this asap,sun visor,loose,47
+000297,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000298,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000299,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000300,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000301,interior,"The driver seat heater stopped working after 18 months, only the passenger side gets warm.",driver seat,,44
+000302,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000303,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000304,interior,The leather on the steering wheel is peeling after only 5 months.,steering wheel,peeling,42
+000305,interior,"The driver seat heater stopped working after 9 months, only the passenger side gets warm. !!! please fix this asap",driver seat,,44
+000306,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000307,interior,"The driver seat heater stopped working after 4 months, only the passenger side gets warm.",driver seat,,44
+000308,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000309,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000310,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000311,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000312,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000313,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000314,interior,"TRUNK LATCH FAILS TO RELEASE USING THE KEY FOB, ONLY MANUAL OPENING WORKS.",trunk latch,,18
+000315,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000316,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000317,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000318,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000319,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000320,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000321,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000322,interior,"Glove box latch is broken, the lid keeps falling open while driving. more info:",glove box,broken,49
+000323,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000324,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000325,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000326,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000327,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000328,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000329,interior,Seat belt on the rear left is jammed and won't retract properly. !!! please fix this asap,seat belt,jammed,61
+000330,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000331,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000332,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000333,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000334,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000335,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000336,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000337,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000338,interior,The leather on the steering wheel is peeling after only 36 months. VIN: <VIN>,steering wheel,peeling,42
+000339,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000340,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000341,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000342,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000343,interior,The leather on the steering wheel is peeling after only 10 months.,steering wheel,peeling,42
+000344,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000345,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000346,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000347,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000348,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000349,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000350,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000351,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000352,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000353,interior,Power window switch on the front-right door is stuck and the window won't go down.,power window,stuck,62
+000354,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000355,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000356,interior,Power window switch on the rear-left door is stuck and the window won't go down.,power window,stuck,62
+000357,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000358,interior,Power window switch on the front-right door is stuck and the window won't go down.,power window,stuck,62
+000359,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000360,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000361,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000362,interior,DASHBOARD CREAKS LOUDLY ESPECIALLY IN COLD WEATHER.,dashboard,,7
+000363,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000364,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000365,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000366,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000367,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000368,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000369,interior,Door lock on the rear right door clicks repeatedly when locking. contact me at <EMAIL>,door lock,,58
+000370,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000371,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000372,interior,The leather on the steering wheel is peeling after only 35 months.,steering wheel,peeling,42
+000373,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000374,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000375,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000376,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000377,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000378,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000379,interior,Cabin filter smells musty even after replacement. VIN: <VIN>,cabin filter,,57
+000380,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000381,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000382,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000383,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000384,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000385,interior,Headrest in the passenger seat will not adjust up or down. !!! please fix this asap,headrest,,48
+000386,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000387,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000388,interior,DOOR LOCK ON THE REAR RIGHT DOOR CLICKS REPEATEDLY WHEN LOCKING.,door lock,,58
+000389,interior,The leather on the steering wheel is peeling after only 18 months. VIN: <VIN>,steering wheel,peeling,42
+000390,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000391,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000392,interior,"GLOVE BOX LATCH IS BROKEN, THE LID KEEPS FALLING OPEN WHILE DRIVING.",glove box,broken,49
+000393,interior,Seat ventilation makes a high-pitched whining noise. VIN: <VIN>,seat ventilation,noise,59
+000394,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000395,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000396,interior,"THE DRIVER SEAT HEATER STOPPED WORKING AFTER 27 MONTHS, ONLY THE PASSENGER SIDE GETS WARM.",driver seat,,44
+000397,interior,"Trunk latch fails to release using the key fob, only manual opening works. more info:",trunk latch,,18
+000398,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000399,interior,"The driver seat heater stopped working after 6 months, only the passenger side gets warm.",driver seat,,44
+000400,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000401,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000402,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000403,interior,The leather on the steering wheel is peeling after only 2 months.,steering wheel,peeling,42
+000404,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000405,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000406,interior,AIR CONDITIONING BLOWS WARM AIR ON THE DRIVER SIDE EVEN WHEN SET TO COLD.,air conditioning,,45
+000407,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000408,interior,Power window switch on the rear-left door is stuck and the window won't go down. VIN: <VIN>,power window,stuck,62
+000409,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000410,interior,Seat belt on the rear left is jammed and won't retract properly. !!! please fix this asap,seat belt,jammed,61
+000411,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000412,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000413,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000414,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000415,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000416,interior,Power window switch on the front-left door is stuck and the window won't go down.,power window,stuck,62
+000417,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000418,interior,"The driver seat heater stopped working after 16 months, only the passenger side gets warm.",driver seat,,44
+000419,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000420,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000421,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000422,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000423,interior,Sunroof makes a loud rattling noise when driving over bumps. VIN: <VIN>,sunroof,rattling,60
+000424,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000425,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000426,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000427,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000428,interior,The leather on the steering wheel is peeling after only 15 months.,steering wheel,peeling,42
+000429,interior,Power window switch on the rear-left door is stuck and the window won't go down.,power window,stuck,62
+000430,interior,"The driver seat heater stopped working after 11 months, only the passenger side gets warm.",driver seat,,44
+000431,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000432,interior,Power window switch on the rear-right door is stuck and the window won't go down.,power window,stuck,62
+000433,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area. !!! please fix this asap",ambient lighting,,22
+000434,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000435,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000436,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000437,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000438,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000439,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000440,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000441,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000442,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals. contact me at <EMAIL>,floor mat,,56
+000443,interior,Sun visor on the driver side hangs loose and will not stay up. more info:,sun visor,loose,47
+000444,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000445,interior,Cabin filter smells musty even after replacement. more info:,cabin filter,,57
+000446,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000447,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area. !!! please fix this asap",ambient lighting,,22
+000448,interior,The leather on the steering wheel is peeling after only 30 months.,steering wheel,peeling,42
+000449,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000450,interior,Power window switch on the front-left door is stuck and the window won't go down.,power window,stuck,62
+000451,interior,The leather on the steering wheel is peeling after only 21 months.,steering wheel,peeling,42
+000452,interior,"TRUNK LATCH FAILS TO RELEASE USING THE KEY FOB, ONLY MANUAL OPENING WORKS.",trunk latch,,18
+000453,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000454,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000455,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000456,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000457,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000458,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000459,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000460,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000461,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000462,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000463,interior,Power window switch on the rear-left door is stuck and the window won't go down.,power window,stuck,62
+000464,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000465,interior,"The driver seat heater stopped working after 28 months, only the passenger side gets warm.",driver seat,,44
+000466,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000467,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000468,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000469,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000470,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000471,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000472,interior,Seat ventilation makes a high-pitched whining noise. contact me at <EMAIL>,seat ventilation,noise,59
+000473,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000474,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000475,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area. !!! please fix this asap",ambient lighting,,22
+000476,interior,The leather on the steering wheel is peeling after only 34 months.,steering wheel,peeling,42
+000477,interior,"The driver seat heater stopped working after 29 months, only the passenger side gets warm.",driver seat,,44
+000478,interior,Power window switch on the rear-left door is stuck and the window won't go down.,power window,stuck,62
+000479,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000480,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000481,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000482,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000483,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000484,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000485,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000486,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000487,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000488,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000489,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000490,interior,FLOOR MAT ON THE DRIVER SIDE KEEPS SLIDING FORWARD AND BLOCKING THE PEDALS.,floor mat,,56
+000491,interior,The leather on the steering wheel is peeling after only 5 months.,steering wheel,peeling,42
+000492,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area. !!! please fix this asap",ambient lighting,,22
+000493,interior,DOOR LOCK ON THE REAR RIGHT DOOR CLICKS REPEATEDLY WHEN LOCKING.,door lock,,58
+000494,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000495,interior,Cabin filter smells musty even after replacement. more info:,cabin filter,,57
+000496,interior,Power window switch on the front-left door is stuck and the window won't go down.,power window,stuck,62
+000497,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000498,interior,"The driver seat heater stopped working after 34 months, only the passenger side gets warm.",driver seat,,44
+000499,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000500,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000501,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000502,interior,"The driver seat heater stopped working after 7 months, only the passenger side gets warm.",driver seat,,44
+000503,interior,"Glove box latch is broken, the lid keeps falling open while driving. !!! please fix this asap",glove box,broken,49
+000504,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000505,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000506,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000507,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000508,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000509,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000510,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000511,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000512,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000513,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000514,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000515,interior,Headrest in the passenger seat will not adjust up or down. VIN: <VIN>,headrest,,48
+000516,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000517,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000518,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000519,interior,Air conditioning blows warm air on the driver side even when set to cold. more info:,air conditioning,,45
+000520,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000521,interior,Power window switch on the front-right door is stuck and the window won't go down.,power window,stuck,62
+000522,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000523,interior,Power window switch on the front-left door is stuck and the window won't go down.,power window,stuck,62
+000524,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000525,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000526,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000527,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000528,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000529,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000530,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000531,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000532,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000533,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000534,interior,CUP HOLDER IN THE CENTER CONSOLE IS CRACKED AND NO LONGER HOLDS BOTTLES SECURELY.,cup holder,cracked,5
+000535,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals. contact me at <EMAIL>,floor mat,,56
+000536,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000537,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000538,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000539,interior,"Glove box latch is broken, the lid keeps falling open while driving. !!! please fix this asap",glove box,broken,49
+000540,interior,The leather on the steering wheel is peeling after only 16 months. !!! please fix this asap,steering wheel,peeling,42
+000541,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000542,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000543,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000544,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000545,interior,"Glove box latch is broken, the lid keeps falling open while driving. contact me at <EMAIL>",glove box,broken,49
+000546,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals. VIN: <VIN>,floor mat,,56
+000547,interior,READING LIGHT OVER THE REAR SEAT DOES NOT TURN ON AT ALL.,reading light,,52
+000548,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000549,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000550,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000551,interior,HEADREST IN THE PASSENGER SEAT WILL NOT ADJUST UP OR DOWN.,headrest,,48
+000552,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000553,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000554,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000555,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000556,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000557,interior,Power window switch on the front-right door is stuck and the window won't go down.,power window,stuck,62
+000558,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000559,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000560,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000561,interior,Power window switch on the front-left door is stuck and the window won't go down. more info:,power window,stuck,62
+000562,interior,"The driver seat heater stopped working after 16 months, only the passenger side gets warm.",driver seat,,44
+000563,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000564,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000565,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000566,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000567,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000568,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000569,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000570,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000571,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000572,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000573,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000574,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000575,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000576,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000577,interior,Power window switch on the front-right door is stuck and the window won't go down.,power window,stuck,62
+000578,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000579,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000580,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000581,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000582,interior,SEAT VENTILATION MAKES A HIGH-PITCHED WHINING NOISE.,seat ventilation,noise,59
+000583,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000584,interior,"The driver seat heater stopped working after 26 months, only the passenger side gets warm.",driver seat,,44
+000585,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000586,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000587,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000588,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000589,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000590,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000591,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000592,interior,Seat belt on the rear left is jammed and won't retract properly. contact me at <EMAIL>,seat belt,jammed,61
+000593,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000594,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000595,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000596,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000597,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000598,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000599,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000600,interior,Power window switch on the rear-right door is stuck and the window won't go down.,power window,stuck,62
+000601,interior,READING LIGHT OVER THE REAR SEAT DOES NOT TURN ON AT ALL.,reading light,,52
+000602,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000603,interior,Air conditioning blows warm air on the driver side even when set to cold. VIN: <VIN>,air conditioning,,45
+000604,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000605,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000606,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000607,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000608,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000609,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000610,interior,Sunroof makes a loud rattling noise when driving over bumps. contact me at <EMAIL>,sunroof,rattling,60
+000611,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000612,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000613,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000614,interior,The leather on the steering wheel is peeling after only 16 months.,steering wheel,peeling,42
+000615,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000616,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000617,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000618,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000619,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000620,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000621,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000622,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000623,interior,Power window switch on the front-left door is stuck and the window won't go down. !!! please fix this asap,power window,stuck,62
+000624,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000625,interior,The leather on the steering wheel is peeling after only 11 months.,steering wheel,peeling,42
+000626,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000627,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000628,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000629,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000630,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000631,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000632,interior,The leather on the steering wheel is peeling after only 29 months.,steering wheel,peeling,42
+000633,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000634,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000635,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000636,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000637,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000638,interior,Headrest in the passenger seat will not adjust up or down.,headrest,,48
+000639,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000640,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000641,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000642,interior,Side mirror does not fold automatically when locking the car.,side mirror,,53
+000643,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000644,interior,Sunroof makes a loud rattling noise when driving over bumps.,sunroof,rattling,60
+000645,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000646,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000647,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000648,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000649,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000650,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000651,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000652,interior,Headrest in the passenger seat will not adjust up or down. !!! please fix this asap,headrest,,48
+000653,interior,The leather on the steering wheel is peeling after only 11 months.,steering wheel,peeling,42
+000654,interior,"Glove box latch is broken, the lid keeps falling open while driving.",glove box,broken,49
+000655,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000656,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area.",ambient lighting,,22
+000657,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000658,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000659,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000660,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000661,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000662,interior,"Ambient lighting flickers randomly at night, mostly around the dashboard area. VIN: <VIN>",ambient lighting,,22
+000663,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000664,interior,Side mirror does not fold automatically when locking the car. !!! please fix this asap,side mirror,,53
+000665,interior,SEAT VENTILATION MAKES A HIGH-PITCHED WHINING NOISE.,seat ventilation,noise,59
+000666,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000667,interior,The leather on the steering wheel is peeling after only 15 months.,steering wheel,peeling,42
+000668,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000669,interior,Air conditioning blows warm air on the driver side even when set to cold. !!! please fix this asap,air conditioning,,45
+000670,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000671,interior,Cabin filter smells musty even after replacement. !!! please fix this asap,cabin filter,,57
+000672,interior,SIDE MIRROR DOES NOT FOLD AUTOMATICALLY WHEN LOCKING THE CAR.,side mirror,,53
+000673,interior,Cabin filter smells musty even after replacement.,cabin filter,,57
+000674,interior,Power window switch on the front-left door is stuck and the window won't go down.,power window,stuck,62
+000675,interior,"Rear seat heater is unresponsive on the left side, right side works fine.",seat heater,unresponsive,54
+000676,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000677,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000678,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000679,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000680,interior,Seat belt on the rear left is jammed and won't retract properly.,seat belt,jammed,61
+000681,interior,Reading light over the rear seat does not turn on at all. !!! please fix this asap,reading light,,52
+000682,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000683,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000684,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000685,interior,Door lock on the rear right door clicks repeatedly when locking.,door lock,,58
+000686,interior,"Trunk latch fails to release using the key fob, only manual opening works.",trunk latch,,18
+000687,interior,The leather on the steering wheel is peeling after only 26 months.,steering wheel,peeling,42
+000688,interior,Air conditioning blows warm air on the driver side even when set to cold.,air conditioning,,45
+000689,interior,The leather on the steering wheel is peeling after only 8 months.,steering wheel,peeling,42
+000690,interior,Seat ventilation makes a high-pitched whining noise.,seat ventilation,noise,59
+000691,interior,The leather on the steering wheel is peeling after only 17 months.,steering wheel,peeling,42
+000692,interior,Sun visor on the driver side hangs loose and will not stay up.,sun visor,loose,47
+000693,interior,Cup holder in the center console is cracked and no longer holds bottles securely.,cup holder,cracked,5
+000694,interior,AIR CONDITIONING BLOWS WARM AIR ON THE DRIVER SIDE EVEN WHEN SET TO COLD.,air conditioning,,45
+000695,interior,Reading light over the rear seat does not turn on at all. more info:,reading light,,52
+000696,interior,"The driver seat heater stopped working after 22 months, only the passenger side gets warm.",driver seat,,44
+000697,interior,Reading light over the rear seat does not turn on at all.,reading light,,52
+000698,interior,Dashboard creaks loudly especially in cold weather.,dashboard,,7
+000699,interior,Floor mat on the driver side keeps sliding forward and blocking the pedals.,floor mat,,56
+000700,powertrain,EV battery range dropped 20 percent in the last month with no driving change.,ev battery,,-1
+000701,powertrain,Transmission shifts hard between 2nd and 3rd gear when cold.,transmission,shifts hard,3
+000702,powertrain,"Fuel injector clicking sound from cylinder 6, hesitation under load.",fuel injector,hesitation,-1
+000703,powertrain,"Coolant leak under the engine bay, losing about a liter per week.",engine,coolant leak,27
+000704,powertrain,Oil leak from the valve cover gasket dripping onto the exhaust manifold.,exhaust,oil leak,-1
+000705,powertrain,Elektromotor macht ein kratzendes Geraeusch beim Beschleunigen.,,,-1
+000706,powertrain,Charging port cover will not close properly after fast charging.,charging port,,41
+000707,powertrain,ADBLUE WARNING KEEPS APPEARING EVEN AFTER A FULL REFILL.,,,-1
+000708,powertrain,Charging port cover will not close properly after fast charging.,charging port,,41
+000709,powertrain,"Motor geht im Leerlauf aus, besonders wenn die Klimaanlage laeuft.",,,25
+000710,powertrain,Charging port cover will not close properly after fast charging.,charging port,,41
+000711,powertrain,"Dieselpartikelfilter-Regeneration schlaegt fehl, Warnmeldung verschwindet nicht.",,,20
+000712,powertrain,AdBlue warning keeps appearing even after a full refill.,,,-1
+000713,powertrain,"Coolant leak under the engine bay, losing about a liter per week.",engine,coolant leak,27
+000714,powertrain,REICHWEITE DER EV-BATTERIE UM 24 PROZENT GESUNKEN IM LETZTEN MONAT OHNE FAHRAENDERUNG.,,,23
+000715,powertrain,Reichweite der EV-Batterie um 15 Prozent gesunken im letzten Monat ohne Fahraenderung.,,,23
+000716,powertrain,"Coolant leak under the engine bay, losing about a liter per week.",engine,coolant leak,27
+000717,powertrain,"Batterie ist ueber Nacht leer, musste diese Woche dreimal ueberbruecken.",,,2
+000718,powertrain,"ENGINE STALLS AT IDLE WHEN THE AC IS ON, ESPECIALLY IN TRAFFIC.",engine,stalls,6
+000719,powertrain,ELEKTROMOTOR MACHT EIN KRATZENDES GERAEUSCH BEIM BESCHLEUNIGEN.,,,-1
+000720,powertrain,"Batterie ist ueber Nacht leer, musste diese Woche dreimal ueberbruecken.",,,2
+000721,powertrain,EV battery range dropped 13 percent in the last month with no driving change.,ev battery,,-1
+000722,powertrain,Transmission shifts hard between 2nd and 3rd gear when cold.,transmission,shifts hard,3
+000723,powertrain,Check engine light comes on intermittently with code P0171.,engine,check engine,-1
+000724,powertrain,AdBlue-Warnung bleibt auch nach vollstaendiger Befuellung bestehen.,,,38
+000725,powertrain,"Spark plug misfire on cylinder 1, engine runs rough.",spark plug,misfire,39
+000726,powertrain,"Diesel particulate filter regeneration fails, warning message persists.",diesel particulate filter,,-1
+000727,powertrain,"Coolant leak under the engine bay, losing about a liter per week.",engine,coolant leak,27
+000728,powertrain,Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.,,,4
+000729,powertrain,Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.,,,4
+000730,powertrain,Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.,,,4
+000731,powertrain,Turbocharger whistling noise getting louder over the past 8 weeks.,turbocharger,noise,-1
+000732,powertrain,Motorkontrollleuchte geht sporadisch an mit Fehlercode P0455.,,,43
+000733,powertrain,Electric motor produces a grinding noise during acceleration.,electric motor,grinding,-1
+000734,powertrain,"Coolant leak under the engine bay, losing about a liter per week.",engine,coolant leak,27
+000735,powertrain,"Engine stalls at idle when the AC is on, especially in traffic.",engine,stalls,6
+000736,powertrain,"Motor geht im Leerlauf aus, besonders wenn die Klimaanlage laeuft.",,,25
+000737,powertrain,"Motor geht im Leerlauf aus, besonders wenn die Klimaanlage laeuft.",,,25
+000738,powertrain,Oil leak from the valve cover gasket dripping onto the exhaust manifold.,exhaust,oil leak,-1
+000739,powertrain,AdBlue warning keeps appearing even after a full refill. more info:,,,-1
+000740,powertrain,Check engine light comes on intermittently with code P0171.,engine,check engine,-1
+000741,powertrain,Electric motor produces a grinding noise during acceleration. VIN: <VIN>,electric motor,grinding,-1
+000742,powertrain,"Spark plug misfire on cylinder 4, engine runs rough.",spark plug,misfire,39
+000743,powertrain,"Battery dies overnight, had to jump start three times this week.",battery,,-1
+000744,powertrain,Turbolader pfeift seit 5 Wochen immer lauter.,,,26
+000745,powertrain,Check engine light comes on intermittently with code P0420.,engine,check engine,-1
+000746,powertrain,AdBlue-Warnung bleibt auch nach vollstaendiger Befuellung bestehen.,,,38
+000747,powertrain,"Kuehlmittelleck unter dem Motorraum, ungefaehr ein Liter pro Woche Verlust. !!! please fix this asap",,,12
+000748,powertrain,"DIESELPARTIKELFILTER-REGENERATION SCHLAEGT FEHL, WARNMELDUNG VERSCHWINDET NICHT.",,,20
+000749,powertrain,EV battery range dropped 29 percent in the last month with no driving change.,ev battery,,-1
+000750,powertrain,"Alternator failed at 49k km, dashboard lights all flickered before stalling.",alternator,,-1
+000751,powertrain,"Batterie ist ueber Nacht leer, musste diese Woche dreimal ueberbruecken.",,,2
+000752,powertrain,AdBlue warning keeps appearing even after a full refill.,,,-1
+000753,powertrain,"Diesel particulate filter regeneration fails, warning message persists.",diesel particulate filter,,-1
+000754,powertrain,Motorkontrollleuchte geht sporadisch an mit Fehlercode P0420.,,,43
+000755,powertrain,Check engine light comes on intermittently with code P0128.,engine,check engine,-1
+000756,powertrain,Oil leak from the valve cover gasket dripping onto the exhaust manifold.,exhaust,oil leak,-1
+000757,powertrain,Turbolader pfeift seit 9 Wochen immer lauter.,,,26
+000758,powertrain,"Batterie ist ueber Nacht leer, musste diese Woche dreimal ueberbruecken.",,,2
+000759,powertrain,"Batterie ist ueber Nacht leer, musste diese Woche dreimal ueberbruecken.",,,2
+000760,powertrain,Elektromotor macht ein kratzendes Geraeusch beim Beschleunigen.,,,-1
+000761,powertrain,"Coolant leak under the engine bay, losing about a liter per week.",engine,coolant leak,27
+000762,powertrain,Transmission shifts hard between 2nd and 3rd gear when cold.,transmission,shifts hard,3
+000763,powertrain,Reichweite der EV-Batterie um 32 Prozent gesunken im letzten Monat ohne Fahraenderung.,,,23
+000764,powertrain,"Fuel injector clicking sound from cylinder 7, hesitation under load. VIN: <VIN>",fuel injector,hesitation,-1
+000765,powertrain,"Coolant leak under the engine bay, losing about a liter per week.",engine,coolant leak,27
+000766,powertrain,"Engine stalls at idle when the AC is on, especially in traffic.",engine,stalls,6
+000767,powertrain,AdBlue warning keeps appearing even after a full refill.,,,-1
+000768,powertrain,EV battery range dropped 25 percent in the last month with no driving change.,ev battery,,-1
+000769,powertrain,"Batterie ist ueber Nacht leer, musste diese Woche dreimal ueberbruecken.",,,2
+000770,powertrain,Motorkontrollleuchte geht sporadisch an mit Fehlercode P0455.,,,43
+000771,powertrain,Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.,,,4
+000772,powertrain,Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.,,,4
+000773,powertrain,Motorkontrollleuchte geht sporadisch an mit Fehlercode P0128.,,,43
+000774,powertrain,Motorkontrollleuchte geht sporadisch an mit Fehlercode P0455.,,,43
+000775,powertrain,"Coolant leak under the engine bay, losing about a liter per week. VIN: <VIN>",engine,coolant leak,27
+000776,powertrain,Transmission shifts hard between 2nd and 3rd gear when cold.,transmission,shifts hard,3
+000777,powertrain,Check engine light comes on intermittently with code P0455.,engine,check engine,-1
+000778,powertrain,Check engine light comes on intermittently with code P0455. contact me at <EMAIL>,engine,check engine,-1
+000779,powertrain,Reichweite der EV-Batterie um 26 Prozent gesunken im letzten Monat ohne Fahraenderung.,,,23
+000780,powertrain,Motorkontrollleuchte geht sporadisch an mit Fehlercode P0171.,,,43
+000781,powertrain,Turbolader pfeift seit 7 Wochen immer lauter. !!! please fix this asap,,,26
+000782,powertrain,"Engine stalls at idle when the AC is on, especially in traffic.",engine,stalls,6
+000783,powertrain,Charging port cover will not close properly after fast charging.,charging port,,41
+000784,powertrain,"Dieselpartikelfilter-Regeneration schlaegt fehl, Warnmeldung verschwindet nicht. !!! please fix this asap",,,20
+000785,powertrain,AdBlue-Warnung bleibt auch nach vollstaendiger Befuellung bestehen.,,,38
+000786,powertrain,Oil leak from the valve cover gasket dripping onto the exhaust manifold.,exhaust,oil leak,-1
+000787,powertrain,"Engine stalls at idle when the AC is on, especially in traffic.",engine,stalls,6
+000788,powertrain,Electric motor produces a grinding noise during acceleration. contact me at <EMAIL>,electric motor,grinding,-1
+000789,powertrain,"Motor geht im Leerlauf aus, besonders wenn die Klimaanlage laeuft.",,,25
+000790,powertrain,"Motor geht im Leerlauf aus, besonders wenn die Klimaanlage laeuft.",,,25
+000791,powertrain,Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.,,,4
+000792,powertrain,AdBlue-Warnung bleibt auch nach vollstaendiger Befuellung bestehen.,,,38
+000793,powertrain,Oil leak from the valve cover gasket dripping onto the exhaust manifold. !!! please fix this asap,exhaust,oil leak,-1
+000794,powertrain,"Alternator failed at 153k km, dashboard lights all flickered before stalling. contact me at <EMAIL>",alternator,,-1
+000795,powertrain,Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.,,,4
+000796,powertrain,Charging port cover will not close properly after fast charging.,charging port,,41
+000797,powertrain,"Battery dies overnight, had to jump start three times this week.",battery,,-1
+000798,powertrain,"Battery dies overnight, had to jump start three times this week.",battery,,-1
+000799,powertrain,Motorkontrollleuchte geht sporadisch an mit Fehlercode P0171.,,,43
+000800,powertrain,"Coolant leak under the engine bay, losing about a liter per week.",engine,coolant leak,27
+000801,powertrain,Electric motor produces a grinding noise during acceleration.,electric motor,grinding,-1
+000802,powertrain,Charging port cover will not close properly after fast charging.,charging port,,41
+000803,powertrain,Turbolader pfeift seit 10 Wochen immer lauter.,,,26
+000804,powertrain,Turbocharger whistling noise getting louder over the past 2 weeks.,turbocharger,noise,-1
+000805,powertrain,"Coolant leak under the engine bay, losing about a liter per week.",engine,coolant leak,27
+000806,powertrain,"Battery dies overnight, had to jump start three times this week.",battery,,-1
+000807,powertrain,"Coolant leak under the engine bay, losing about a liter per week.",engine,coolant leak,27
+000808,powertrain,ELEKTROMOTOR MACHT EIN KRATZENDES GERAEUSCH BEIM BESCHLEUNIGEN.,,,-1
+000809,powertrain,Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.,,,4
+000810,powertrain,"Kuehlmittelleck unter dem Motorraum, ungefaehr ein Liter pro Woche Verlust.",,,12
+000811,powertrain,"Spark plug misfire on cylinder 5, engine runs rough.",spark plug,misfire,39
+000812,powertrain,"Battery dies overnight, had to jump start three times this week.",battery,,-1
+000813,powertrain,AdBlue-Warnung bleibt auch nach vollstaendiger Befuellung bestehen. contact me at <EMAIL>,,,38
+000814,powertrain,Turbolader pfeift seit 5 Wochen immer lauter.,,,26
+000815,powertrain,Reichweite der EV-Batterie um 25 Prozent gesunken im letzten Monat ohne Fahraenderung. !!! please fix this asap,,,23
+000816,powertrain,"Alternator failed at 73k km, dashboard lights all flickered before stalling. !!! please fix this asap",alternator,,-1
+000817,powertrain,"Coolant leak under the engine bay, losing about a liter per week.",engine,coolant leak,27
+000818,powertrain,AdBlue-Warnung bleibt auch nach vollstaendiger Befuellung bestehen.,,,38
+000819,powertrain,Reichweite der EV-Batterie um 12 Prozent gesunken im letzten Monat ohne Fahraenderung.,,,23
+000820,powertrain,Check engine light comes on intermittently with code P0455.,engine,check engine,-1
+000821,powertrain,"Engine stalls at idle when the AC is on, especially in traffic.",engine,stalls,6
+000822,powertrain,AdBlue warning keeps appearing even after a full refill.,,,-1
+000823,powertrain,Reichweite der EV-Batterie um 11 Prozent gesunken im letzten Monat ohne Fahraenderung.,,,23
+000824,powertrain,"MOTOR GEHT IM LEERLAUF AUS, BESONDERS WENN DIE KLIMAANLAGE LAEUFT.",,,25
+000825,powertrain,"Motor geht im Leerlauf aus, besonders wenn die Klimaanlage laeuft.",,,25
+000826,powertrain,"Engine stalls at idle when the AC is on, especially in traffic.",engine,stalls,6
+000827,powertrain,AdBlue warning keeps appearing even after a full refill.,,,-1
+000828,powertrain,Charging port cover will not close properly after fast charging.,charging port,,41
+000829,powertrain,"Engine stalls at idle when the AC is on, especially in traffic.",engine,stalls,6
+000830,powertrain,"Coolant leak under the engine bay, losing about a liter per week.",engine,coolant leak,27
+000831,powertrain,Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.,,,4
+000832,powertrain,"Coolant leak under the engine bay, losing about a liter per week.",engine,coolant leak,27
+000833,powertrain,"Diesel particulate filter regeneration fails, warning message persists.",diesel particulate filter,,-1
+000834,powertrain,"Dieselpartikelfilter-Regeneration schlaegt fehl, Warnmeldung verschwindet nicht.",,,20
+000835,powertrain,TURBOCHARGER WHISTLING NOISE GETTING LOUDER OVER THE PAST 3 WEEKS.,turbocharger,noise,-1
+000836,powertrain,Elektromotor macht ein kratzendes Geraeusch beim Beschleunigen.,,,-1
+000837,powertrain,Charging port cover will not close properly after fast charging. contact me at <EMAIL>,charging port,,41
+000838,powertrain,"Spark plug misfire on cylinder 8, engine runs rough.",spark plug,misfire,39
+000839,powertrain,Oil leak from the valve cover gasket dripping onto the exhaust manifold. !!! please fix this asap,exhaust,oil leak,-1
+000840,powertrain,Transmission shifts hard between 2nd and 3rd gear when cold.,transmission,shifts hard,3
+000841,powertrain,Turbocharger whistling noise getting louder over the past 2 weeks. VIN: <VIN>,turbocharger,noise,-1
+000842,powertrain,Turbocharger whistling noise getting louder over the past 7 weeks. !!! please fix this asap,turbocharger,noise,-1
+000843,powertrain,Elektromotor macht ein kratzendes Geraeusch beim Beschleunigen.,,,-1
+000844,powertrain,Transmission shifts hard between 2nd and 3rd gear when cold.,transmission,shifts hard,3
+000845,powertrain,Electric motor produces a grinding noise during acceleration.,electric motor,grinding,-1
+000846,powertrain,"Motor geht im Leerlauf aus, besonders wenn die Klimaanlage laeuft.",,,25
+000847,powertrain,Motorkontrollleuchte geht sporadisch an mit Fehlercode P0300. !!! please fix this asap,,,43
+000848,powertrain,Turbolader pfeift seit 10 Wochen immer lauter.,,,26
+000849,powertrain,Reichweite der EV-Batterie um 25 Prozent gesunken im letzten Monat ohne Fahraenderung.,,,23
+000850,powertrain,Charging port cover will not close properly after fast charging. !!! please fix this asap,charging port,,41
+000851,powertrain,"Batterie ist ueber Nacht leer, musste diese Woche dreimal ueberbruecken.",,,2
+000852,powertrain,"Kuehlmittelleck unter dem Motorraum, ungefaehr ein Liter pro Woche Verlust.",,,12
+000853,powertrain,"Alternator failed at 30k km, dashboard lights all flickered before stalling.",alternator,,-1
+000854,powertrain,Turbolader pfeift seit 7 Wochen immer lauter.,,,26
+000855,powertrain,"Engine stalls at idle when the AC is on, especially in traffic.",engine,stalls,6
+000856,powertrain,EV battery range dropped 19 percent in the last month with no driving change. contact me at <EMAIL>,ev battery,,-1
+000857,powertrain,"Battery dies overnight, had to jump start three times this week.",battery,,-1
+000858,powertrain,"Dieselpartikelfilter-Regeneration schlaegt fehl, Warnmeldung verschwindet nicht.",,,20
+000859,powertrain,"Fuel injector clicking sound from cylinder 6, hesitation under load.",fuel injector,hesitation,-1
+000860,powertrain,Turbocharger whistling noise getting louder over the past 2 weeks.,turbocharger,noise,-1
+000861,powertrain,Transmission shifts hard between 2nd and 3rd gear when cold.,transmission,shifts hard,3
+000862,powertrain,Motorkontrollleuchte geht sporadisch an mit Fehlercode P0300. !!! please fix this asap,,,43
+000863,powertrain,Oil leak from the valve cover gasket dripping onto the exhaust manifold.,exhaust,oil leak,-1
+000864,powertrain,"Engine stalls at idle when the AC is on, especially in traffic.",engine,stalls,6
+000865,powertrain,Electric motor produces a grinding noise during acceleration.,electric motor,grinding,-1
+000866,powertrain,"Diesel particulate filter regeneration fails, warning message persists.",diesel particulate filter,,-1
+000867,powertrain,"Kuehlmittelleck unter dem Motorraum, ungefaehr ein Liter pro Woche Verlust.",,,12
+000868,powertrain,Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.,,,4
+000869,powertrain,"Kuehlmittelleck unter dem Motorraum, ungefaehr ein Liter pro Woche Verlust.",,,12
+000870,powertrain,Turbocharger whistling noise getting louder over the past 7 weeks.,turbocharger,noise,-1
+000871,powertrain,"COOLANT LEAK UNDER THE ENGINE BAY, LOSING ABOUT A LITER PER WEEK.",engine,coolant leak,27
+000872,powertrain,Electric motor produces a grinding noise during acceleration.,electric motor,grinding,-1
+000873,powertrain,"Spark plug misfire on cylinder 1, engine runs rough. VIN: <VIN>",spark plug,misfire,39
+000874,powertrain,"Engine stalls at idle when the AC is on, especially in traffic.",engine,stalls,6
+000875,powertrain,TRANSMISSION SHIFTS HARD BETWEEN 2ND AND 3RD GEAR WHEN COLD.,transmission,shifts hard,3
+000876,powertrain,"Dieselpartikelfilter-Regeneration schlaegt fehl, Warnmeldung verschwindet nicht.",,,20
+000877,powertrain,"Motor geht im Leerlauf aus, besonders wenn die Klimaanlage laeuft.",,,25
+000878,powertrain,Turbolader pfeift seit 5 Wochen immer lauter.,,,26
+000879,powertrain,Motorkontrollleuchte geht sporadisch an mit Fehlercode P0128.,,,43
+000880,powertrain,Oil leak from the valve cover gasket dripping onto the exhaust manifold.,exhaust,oil leak,-1
+000881,powertrain,AdBlue-Warnung bleibt auch nach vollstaendiger Befuellung bestehen.,,,38
+000882,powertrain,"Alternator failed at 57k km, dashboard lights all flickered before stalling. VIN: <VIN>",alternator,,-1
+000883,powertrain,Elektromotor macht ein kratzendes Geraeusch beim Beschleunigen. !!! please fix this asap,,,-1
+000884,powertrain,"Kuehlmittelleck unter dem Motorraum, ungefaehr ein Liter pro Woche Verlust.",,,12
+000885,powertrain,"Batterie ist ueber Nacht leer, musste diese Woche dreimal ueberbruecken.",,,2
+000886,powertrain,EV battery range dropped 13 percent in the last month with no driving change.,ev battery,,-1
+000887,powertrain,"Motor geht im Leerlauf aus, besonders wenn die Klimaanlage laeuft. contact me at <EMAIL>",,,25
+000888,powertrain,"Kuehlmittelleck unter dem Motorraum, ungefaehr ein Liter pro Woche Verlust.",,,12
+000889,powertrain,"Engine stalls at idle when the AC is on, especially in traffic.",engine,stalls,6
+000890,powertrain,Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.,,,4
+000891,powertrain,Check engine light comes on intermittently with code P0300.,engine,check engine,-1
+000892,powertrain,EV battery range dropped 30 percent in the last month with no driving change.,ev battery,,-1
+000893,powertrain,"Alternator failed at 70k km, dashboard lights all flickered before stalling.",alternator,,-1
+000894,powertrain,Reichweite der EV-Batterie um 28 Prozent gesunken im letzten Monat ohne Fahraenderung. contact me at <EMAIL>,,,23
+000895,powertrain,Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.,,,4
+000896,powertrain,"Motor geht im Leerlauf aus, besonders wenn die Klimaanlage laeuft.",,,25
+000897,powertrain,Elektromotor macht ein kratzendes Geraeusch beim Beschleunigen.,,,-1
+000898,powertrain,Motorkontrollleuchte geht sporadisch an mit Fehlercode P0455.,,,43
+000899,powertrain,Check engine light comes on intermittently with code P0128.,engine,check engine,-1
+000900,powertrain,Transmission shifts hard between 2nd and 3rd gear when cold.,transmission,shifts hard,3
+000901,powertrain,Motorkontrollleuchte geht sporadisch an mit Fehlercode P0420. contact me at <EMAIL>,,,43
+000902,powertrain,AdBlue warning keeps appearing even after a full refill.,,,-1
+000903,powertrain,"Spark plug misfire on cylinder 4, engine runs rough.",spark plug,misfire,39
+000904,powertrain,"Engine stalls at idle when the AC is on, especially in traffic.",engine,stalls,6
+000905,powertrain,Turbolader pfeift seit 7 Wochen immer lauter.,,,26
+000906,powertrain,Charging port cover will not close properly after fast charging. !!! please fix this asap,charging port,,41
+000907,powertrain,"Dieselpartikelfilter-Regeneration schlaegt fehl, Warnmeldung verschwindet nicht.",,,20
+000908,powertrain,Reichweite der EV-Batterie um 17 Prozent gesunken im letzten Monat ohne Fahraenderung.,,,23
+000909,powertrain,Turbolader pfeift seit 2 Wochen immer lauter.,,,26
+000910,powertrain,Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.,,,4
+000911,powertrain,Motorkontrollleuchte geht sporadisch an mit Fehlercode P0455.,,,43
+000912,powertrain,ELECTRIC MOTOR PRODUCES A GRINDING NOISE DURING ACCELERATION.,electric motor,grinding,-1
+000913,powertrain,AdBlue warning keeps appearing even after a full refill.,,,-1
+000914,powertrain,"Batterie ist ueber Nacht leer, musste diese Woche dreimal ueberbruecken.",,,2
+000915,powertrain,"Spark plug misfire on cylinder 1, engine runs rough.",spark plug,misfire,39
+000916,powertrain,AdBlue-Warnung bleibt auch nach vollstaendiger Befuellung bestehen.,,,38
+000917,powertrain,"Spark plug misfire on cylinder 2, engine runs rough.",spark plug,misfire,39
+000918,powertrain,"Kuehlmittelleck unter dem Motorraum, ungefaehr ein Liter pro Woche Verlust.",,,12
+000919,powertrain,Reichweite der EV-Batterie um 29 Prozent gesunken im letzten Monat ohne Fahraenderung.,,,23
+000920,powertrain,AdBlue-Warnung bleibt auch nach vollstaendiger Befuellung bestehen.,,,38
+000921,powertrain,"Dieselpartikelfilter-Regeneration schlaegt fehl, Warnmeldung verschwindet nicht. !!! please fix this asap",,,20
+000922,powertrain,AdBlue-Warnung bleibt auch nach vollstaendiger Befuellung bestehen.,,,38
+000923,powertrain,Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.,,,4
+000924,powertrain,Charging port cover will not close properly after fast charging.,charging port,,41
+000925,powertrain,"Dieselpartikelfilter-Regeneration schlaegt fehl, Warnmeldung verschwindet nicht.",,,20
+000926,powertrain,TRANSMISSION SHIFTS HARD BETWEEN 2ND AND 3RD GEAR WHEN COLD.,transmission,shifts hard,3
+000927,powertrain,"Spark plug misfire on cylinder 7, engine runs rough. contact me at <EMAIL>",spark plug,misfire,39
+000928,powertrain,Reichweite der EV-Batterie um 25 Prozent gesunken im letzten Monat ohne Fahraenderung.,,,23
+000929,powertrain,"Kuehlmittelleck unter dem Motorraum, ungefaehr ein Liter pro Woche Verlust.",,,12
+000930,powertrain,Transmission shifts hard between 2nd and 3rd gear when cold.,transmission,shifts hard,3
+000931,powertrain,Transmission shifts hard between 2nd and 3rd gear when cold.,transmission,shifts hard,3
+000932,powertrain,"Kuehlmittelleck unter dem Motorraum, ungefaehr ein Liter pro Woche Verlust.",,,12
+000933,powertrain,Oil leak from the valve cover gasket dripping onto the exhaust manifold.,exhaust,oil leak,-1
+000934,powertrain,Reichweite der EV-Batterie um 29 Prozent gesunken im letzten Monat ohne Fahraenderung.,,,23
+000935,powertrain,"Dieselpartikelfilter-Regeneration schlaegt fehl, Warnmeldung verschwindet nicht.",,,20
+000936,powertrain,"BATTERIE IST UEBER NACHT LEER, MUSSTE DIESE WOCHE DREIMAL UEBERBRUECKEN.",,,2
+000937,powertrain,Electric motor produces a grinding noise during acceleration.,electric motor,grinding,-1
+000938,powertrain,"Coolant leak under the engine bay, losing about a liter per week. contact me at <EMAIL>",engine,coolant leak,27
+000939,powertrain,Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.,,,4
+000940,powertrain,Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.,,,4
+000941,powertrain,"SPARK PLUG MISFIRE ON CYLINDER 7, ENGINE RUNS ROUGH.",spark plug,misfire,39
+000942,powertrain,Reichweite der EV-Batterie um 29 Prozent gesunken im letzten Monat ohne Fahraenderung. more info:,,,23
+000943,powertrain,Turbolader pfeift seit 5 Wochen immer lauter.,,,26
+000944,powertrain,"Diesel particulate filter regeneration fails, warning message persists. more info:",diesel particulate filter,,-1
+000945,powertrain,Reichweite der EV-Batterie um 20 Prozent gesunken im letzten Monat ohne Fahraenderung.,,,23
+000946,powertrain,Transmission shifts hard between 2nd and 3rd gear when cold.,transmission,shifts hard,3
+000947,powertrain,AdBlue-Warnung bleibt auch nach vollstaendiger Befuellung bestehen. !!! please fix this asap,,,38
+000948,powertrain,Charging port cover will not close properly after fast charging.,charging port,,41
+000949,powertrain,Turbocharger whistling noise getting louder over the past 9 weeks.,turbocharger,noise,-1
+000950,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+000951,display_infotainment,Apple CarPlay se deconnecte toutes les 15 minutes.,apple carplay,,36
+000952,display_infotainment,Bluetooth-lyd afbrydes naar jeg modtager telefonopkald. !!! please fix this asap,,,32
+000953,display_infotainment,Apple CarPlay se deconnecte toutes les 30 minutes. !!! please fix this asap,apple carplay,,36
+000954,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+000955,display_infotainment,Sprachassistent Hey Mercedes reagiert in lauter Umgebung nicht auf Befehle.,hey mercedes,,13
+000956,display_infotainment,"Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu.",mbux,,46
+000957,display_infotainment,Kamera cofania pokazuje znieksztalcony obraz z zielonymi liniami.,,,0
+000958,display_infotainment,"Apple CarPlay disconnects every 5 minutes, very frustrating on long drives.",apple carplay,disconnects,-1
+000959,display_infotainment,"Apple CarPlay disconnects every 20 minutes, very frustrating on long drives.",apple carplay,disconnects,-1
+000960,display_infotainment,"MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor. VIN: <VIN>",mbux,,14
+000961,display_infotainment,"MBUX-Touchscreen friert waehrend der Navigation ein, vollstaendiger Neustart noetig.",mbux,,29
+000962,display_infotainment,"Instrument cluster shows wrong fuel level, jumps between half and full.",instrument cluster,,-1
+000963,display_infotainment,Bluetooth-lyd afbrydes naar jeg modtager telefonopkald.,,,32
+000964,display_infotainment,Dzwiek Bluetooth zanika podczas polaczen telefonicznych.,,,55
+000965,display_infotainment,Apple CarPlay si disconnette ogni 30 minuti.,apple carplay,,37
+000966,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor.,,,35
+000967,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+000968,display_infotainment,"Apple CarPlay afbrydes hvert 5. minut, meget irriterende.",apple carplay,,50
+000969,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+000970,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+000971,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht.,,,31
+000972,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+000973,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor.,,,35
+000974,display_infotainment,Telematics module loses cellular connection in tunnels and takes long to recover.,telematics module,,-1
+000975,display_infotainment,Apple CarPlay si disconnette ogni 15 minuti.,apple carplay,,37
+000976,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+000977,display_infotainment,Apple CarPlay her 30 dakikada bir baglantisi kesiliyor.,apple carplay,,10
+000978,display_infotainment,"MBUX touchscreen freezes during navigation, requires full vehicle restart. contact me at <EMAIL>",mbux,freezes,29
+000979,display_infotainment,Apple CarPlay si disconnette ogni 30 minuti.,apple carplay,,37
+000980,display_infotainment,"Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu.",mbux,,46
+000981,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+000982,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+000983,display_infotainment,APPLE CARPLAY HER 15 DAKIKADA BIR BAGLANTISI KESILIYOR.,apple carplay,,10
+000984,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+000985,display_infotainment,Zentrales Display wird beim Starten fuer einige Sekunden schwarz.,,,19
+000986,display_infotainment,Apple CarPlay si disconnette ogni 5 minuti.,apple carplay,,37
+000987,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor.,,,35
+000988,display_infotainment,"Apple CarPlay trennt sich alle 10 Minuten, sehr aergerlich auf langen Fahrten.",apple carplay,,34
+000989,display_infotainment,"Apple CarPlay disconnects every 20 minutes, very frustrating on long drives. more info:",apple carplay,disconnects,-1
+000990,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+000991,display_infotainment,"Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu.",mbux,,46
+000992,display_infotainment,Zentrales Display wird beim Starten fuer einige Sekunden schwarz.,,,19
+000993,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",mbux,,40
+000994,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+000995,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+000996,display_infotainment,Kablosuz sarj cihazi isiniyor ve 20 dakika sonra duruyor.,,,16
+000997,display_infotainment,"MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor.",mbux,,14
+000998,display_infotainment,"MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor.",mbux,,14
+000999,display_infotainment,APPLE CARPLAY SI DISCONNETTE OGNI 10 MINUTI.,apple carplay,,37
+001000,display_infotainment,Bluetooth audio cuts out when receiving phone calls.,,,-1
+001001,display_infotainment,"Head-up display flickers in direct sunlight, hard to read speed.",head-up display,,31
+001002,display_infotainment,KABLOSUZ SARJ CIHAZI ISINIYOR VE 15 DAKIKA SONRA DURUYOR.,,,16
+001003,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001004,display_infotainment,Bluetooth-lyd afbrydes naar jeg modtager telefonopkald.,,,32
+001005,display_infotainment,Kabelloses Ladegeraet ueberhitzt und stoppt nach 10 Minuten.,,,-1
+001006,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001007,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001008,display_infotainment,"Apple CarPlay afbrydes hvert 20. minut, meget irriterende.",apple carplay,,50
+001009,display_infotainment,Tradloes oplader bliver overophedet og stopper efter 5 minutter.,,,11
+001010,display_infotainment,Kablosuz sarj cihazi isiniyor ve 5 dakika sonra duruyor.,,,16
+001011,display_infotainment,Apple CarPlay se deconnecte toutes les 5 minutes.,apple carplay,,36
+001012,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001013,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001014,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor.,,,35
+001015,display_infotainment,Apple CarPlay si disconnette ogni 5 minuti.,apple carplay,,37
+001016,display_infotainment,"Apple CarPlay trennt sich alle 10 Minuten, sehr aergerlich auf langen Fahrten.",apple carplay,,34
+001017,display_infotainment,Ladowarka bezprzewodowa przegrzewa sie i zatrzymuje po 20 minutach.,,,8
+001018,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001019,display_infotainment,"MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor.",mbux,,14
+001020,display_infotainment,Rueckfahrkamerabild ist verzerrt mit gruenen statischen Linien.,,,21
+001021,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001022,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor.,,,35
+001023,display_infotainment,Sprachassistent Hey Mercedes reagiert in lauter Umgebung nicht auf Befehle.,hey mercedes,,13
+001024,display_infotainment,Bluetooth-Audio bricht ab wenn Anrufe eingehen.,,,33
+001025,display_infotainment,"Apple CarPlay rozlacza sie co 15 minut, bardzo frustrujace.",apple carplay,,51
+001026,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht.,,,31
+001027,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001028,display_infotainment,Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor.,,,17
+001029,display_infotainment,"Head-up display flickers in direct sunlight, hard to read speed.",head-up display,,31
+001030,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001031,display_infotainment,"Apple CarPlay afbrydes hvert 20. minut, meget irriterende.",apple carplay,,50
+001032,display_infotainment,Kabelloses Ladegeraet ueberhitzt und stoppt nach 15 Minuten.,,,-1
+001033,display_infotainment,Apple CarPlay si disconnette ogni 15 minuti.,apple carplay,,37
+001034,display_infotainment,"Apple CarPlay trennt sich alle 5 Minuten, sehr aergerlich auf langen Fahrten.",apple carplay,,34
+001035,display_infotainment,Apple CarPlay se deconnecte toutes les 10 minutes.,apple carplay,,36
+001036,display_infotainment,Dzwiek Bluetooth zanika podczas polaczen telefonicznych.,,,55
+001037,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001038,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht. VIN: <VIN>,,,31
+001039,display_infotainment,Apple CarPlay se deconnecte toutes les 30 minutes.,apple carplay,,36
+001040,display_infotainment,"MBUX-Touchscreen friert waehrend der Navigation ein, vollstaendiger Neustart noetig.",mbux,,29
+001041,display_infotainment,KABELLOSES LADEGERAET UEBERHITZT UND STOPPT NACH 15 MINUTEN.,,,-1
+001042,display_infotainment,BLUETOOTH AUDIO CUTS OUT WHEN RECEIVING PHONE CALLS.,,,-1
+001043,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo. contact me at <EMAIL>",mbux,,24
+001044,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001045,display_infotainment,"Android Auto fails to launch, screen shows USB icon then disappears.",android auto,,-1
+001046,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001047,display_infotainment,Apple CarPlay si disconnette ogni 5 minuti.,apple carplay,,37
+001048,display_infotainment,Ladowarka bezprzewodowa przegrzewa sie i zatrzymuje po 30 minutach.,,,8
+001049,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor.,,,35
+001050,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht.,,,31
+001051,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001052,display_infotainment,Dzwiek Bluetooth zanika podczas polaczen telefonicznych.,,,55
+001053,display_infotainment,Bluetooth-lyd afbrydes naar jeg modtager telefonopkald.,,,32
+001054,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor.,,,35
+001055,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001056,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001057,display_infotainment,Central display goes black for a few seconds when starting the car.,central display,,-1
+001058,display_infotainment,Tradloes oplader bliver overophedet og stopper efter 15 minutter.,,,11
+001059,display_infotainment,"Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu.",mbux,,46
+001060,display_infotainment,Bluetooth-Audio bricht ab wenn Anrufe eingehen.,,,33
+001061,display_infotainment,"Software update failed twice, system stuck on installation screen.",software update,stuck,30
+001062,display_infotainment,Apple CarPlay se deconnecte toutes les 10 minutes.,apple carplay,,36
+001063,display_infotainment,Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor.,,,17
+001064,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht.,,,31
+001065,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001066,display_infotainment,Tradloes oplader bliver overophedet og stopper efter 30 minutter. VIN: <VIN>,,,11
+001067,display_infotainment,"Apple CarPlay afbrydes hvert 15. minut, meget irriterende.",apple carplay,,50
+001068,display_infotainment,Bluetooth audio cuts out when receiving phone calls.,,,-1
+001069,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes. !!! please fix this asap,,,15
+001070,display_infotainment,"MBUX touchscreen freezes during navigation, requires full vehicle restart.",mbux,freezes,29
+001071,display_infotainment,Wireless phone charger overheats and stops charging after 20 minutes.,,,-1
+001072,display_infotainment,Bluetooth-Audio bricht ab wenn Anrufe eingehen.,,,33
+001073,display_infotainment,Tradloes oplader bliver overophedet og stopper efter 10 minutter.,,,11
+001074,display_infotainment,Kamera cofania pokazuje znieksztalcony obraz z zielonymi liniami.,,,0
+001075,display_infotainment,"APPLE CARPLAY DISCONNECTS EVERY 15 MINUTES, VERY FRUSTRATING ON LONG DRIVES.",apple carplay,disconnects,-1
+001076,display_infotainment,Dzwiek Bluetooth zanika podczas polaczen telefonicznych.,,,55
+001077,display_infotainment,Dzwiek Bluetooth zanika podczas polaczen telefonicznych.,,,55
+001078,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001079,display_infotainment,Kabelloses Ladegeraet ueberhitzt und stoppt nach 10 Minuten.,,,-1
+001080,display_infotainment,"MBUX touchscreen freezes during navigation, requires full vehicle restart.",mbux,freezes,29
+001081,display_infotainment,"Apple CarPlay disconnects every 10 minutes, very frustrating on long drives.",apple carplay,disconnects,-1
+001082,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001083,display_infotainment,Tradloes oplader bliver overophedet og stopper efter 20 minutter.,,,11
+001084,display_infotainment,KABLOSUZ SARJ CIHAZI ISINIYOR VE 10 DAKIKA SONRA DURUYOR.,,,16
+001085,display_infotainment,Dzwiek Bluetooth zanika podczas polaczen telefonicznych.,,,55
+001086,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",mbux,,40
+001087,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001088,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor.,,,35
+001089,display_infotainment,Sprachassistent Hey Mercedes reagiert in lauter Umgebung nicht auf Befehle.,hey mercedes,,13
+001090,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001091,display_infotainment,"Apple CarPlay afbrydes hvert 30. minut, meget irriterende. contact me at <EMAIL>",apple carplay,,50
+001092,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001093,display_infotainment,"Apple CarPlay rozlacza sie co 20 minut, bardzo frustrujace.",apple carplay,,51
+001094,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht.,,,31
+001095,display_infotainment,"Instrument cluster shows wrong fuel level, jumps between half and full.",instrument cluster,,-1
+001096,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001097,display_infotainment,Dzwiek Bluetooth zanika podczas polaczen telefonicznych.,,,55
+001098,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001099,display_infotainment,Apple CarPlay her 20 dakikada bir baglantisi kesiliyor.,apple carplay,,10
+001100,display_infotainment,"Apple CarPlay trennt sich alle 5 Minuten, sehr aergerlich auf langen Fahrten.",apple carplay,,34
+001101,display_infotainment,Apple CarPlay se deconnecte toutes les 10 minutes.,apple carplay,,36
+001102,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor.,,,35
+001103,display_infotainment,"Apple CarPlay afbrydes hvert 30. minut, meget irriterende.",apple carplay,,50
+001104,display_infotainment,Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor. VIN: <VIN>,,,17
+001105,display_infotainment,Ladowarka bezprzewodowa przegrzewa sie i zatrzymuje po 20 minutach.,,,8
+001106,display_infotainment,Kablosuz sarj cihazi isiniyor ve 10 dakika sonra duruyor. !!! please fix this asap,,,16
+001107,display_infotainment,LA CAMERA DE RECUL AFFICHE UNE IMAGE DEFORMEE AVEC DES LIGNES VERTES.,,,15
+001108,display_infotainment,Dzwiek Bluetooth zanika podczas polaczen telefonicznych.,,,55
+001109,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001110,display_infotainment,Tradloes oplader bliver overophedet og stopper efter 30 minutter. more info:,,,11
+001111,display_infotainment,"Software update failed twice, system stuck on installation screen.",software update,stuck,30
+001112,display_infotainment,Wireless phone charger overheats and stops charging after 15 minutes.,,,-1
+001113,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001114,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001115,display_infotainment,"Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu.",mbux,,46
+001116,display_infotainment,Kabelloses Ladegeraet ueberhitzt und stoppt nach 20 Minuten.,,,-1
+001117,display_infotainment,Apple CarPlay se deconnecte toutes les 5 minutes.,apple carplay,,36
+001118,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001119,display_infotainment,Apple CarPlay se deconnecte toutes les 30 minutes.,apple carplay,,36
+001120,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001121,display_infotainment,Zentrales Display wird beim Starten fuer einige Sekunden schwarz.,,,19
+001122,display_infotainment,"Software update failed twice, system stuck on installation screen.",software update,stuck,30
+001123,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht.,,,31
+001124,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001125,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001126,display_infotainment,"Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu.",mbux,,46
+001127,display_infotainment,Voice assistant Hey Mercedes does not respond to commands in noisy environments.,voice assistant,,-1
+001128,display_infotainment,Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor. !!! please fix this asap,,,17
+001129,display_infotainment,Bluetooth-Audio bricht ab wenn Anrufe eingehen.,,,33
+001130,display_infotainment,"Apple CarPlay rozlacza sie co 30 minut, bardzo frustrujace.",apple carplay,,51
+001131,display_infotainment,Apple CarPlay her 30 dakikada bir baglantisi kesiliyor.,apple carplay,,10
+001132,display_infotainment,Apple CarPlay her 20 dakikada bir baglantisi kesiliyor.,apple carplay,,10
+001133,display_infotainment,"MBUX-Touchscreen friert waehrend der Navigation ein, vollstaendiger Neustart noetig.",mbux,,29
+001134,display_infotainment,Tradloes oplader bliver overophedet og stopper efter 10 minutter.,,,11
+001135,display_infotainment,"Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu. !!! please fix this asap",mbux,,46
+001136,display_infotainment,Apple CarPlay si disconnette ogni 10 minuti.,apple carplay,,37
+001137,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001138,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001139,display_infotainment,"Apple CarPlay rozlacza sie co 30 minut, bardzo frustrujace. VIN: <VIN>",apple carplay,,51
+001140,display_infotainment,"Apple CarPlay trennt sich alle 5 Minuten, sehr aergerlich auf langen Fahrten.",apple carplay,,34
+001141,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht. !!! please fix this asap,,,31
+001142,display_infotainment,Bluetooth-lyd afbrydes naar jeg modtager telefonopkald.,,,32
+001143,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001144,display_infotainment,Apple CarPlay si disconnette ogni 15 minuti.,apple carplay,,37
+001145,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001146,display_infotainment,Bluetooth-Audio bricht ab wenn Anrufe eingehen.,,,33
+001147,display_infotainment,Wireless phone charger overheats and stops charging after 5 minutes.,,,-1
+001148,display_infotainment,Wireless phone charger overheats and stops charging after 5 minutes.,,,-1
+001149,display_infotainment,"Apple CarPlay trennt sich alle 15 Minuten, sehr aergerlich auf langen Fahrten.",apple carplay,,34
+001150,display_infotainment,Dzwiek Bluetooth zanika podczas polaczen telefonicznych.,,,55
+001151,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",mbux,,40
+001152,display_infotainment,Voice assistant Hey Mercedes does not respond to commands in noisy environments.,voice assistant,,-1
+001153,display_infotainment,"Apple CarPlay afbrydes hvert 30. minut, meget irriterende.",apple carplay,,50
+001154,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001155,display_infotainment,Telematics module loses cellular connection in tunnels and takes long to recover.,telematics module,,-1
+001156,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001157,display_infotainment,Dzwiek Bluetooth zanika podczas polaczen telefonicznych.,,,55
+001158,display_infotainment,"Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu.",mbux,,46
+001159,display_infotainment,"Navigation directions are delayed by 2-3 seconds, often miss turns.",,delayed,-1
+001160,display_infotainment,"MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor. !!! please fix this asap",mbux,,14
+001161,display_infotainment,"Apple CarPlay rozlacza sie co 10 minut, bardzo frustrujace.",apple carplay,,51
+001162,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001163,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001164,display_infotainment,Apple CarPlay se deconnecte toutes les 30 minutes.,apple carplay,,36
+001165,display_infotainment,"MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor.",mbux,,14
+001166,display_infotainment,"Apple CarPlay rozlacza sie co 15 minut, bardzo frustrujace.",apple carplay,,51
+001167,display_infotainment,Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor. !!! please fix this asap,,,17
+001168,display_infotainment,SPRACHASSISTENT HEY MERCEDES REAGIERT IN LAUTER UMGEBUNG NICHT AUF BEFEHLE.,hey mercedes,,13
+001169,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo. more info:",mbux,,24
+001170,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001171,display_infotainment,Ladowarka bezprzewodowa przegrzewa sie i zatrzymuje po 30 minutach.,,,8
+001172,display_infotainment,Kamera cofania pokazuje znieksztalcony obraz z zielonymi liniami.,,,0
+001173,display_infotainment,Dzwiek Bluetooth zanika podczas polaczen telefonicznych.,,,55
+001174,display_infotainment,Apple CarPlay se deconnecte toutes les 20 minutes.,apple carplay,,36
+001175,display_infotainment,"MBUX-Touchscreen friert waehrend der Navigation ein, vollstaendiger Neustart noetig.",mbux,,29
+001176,display_infotainment,Bluetooth-Audio bricht ab wenn Anrufe eingehen.,,,33
+001177,display_infotainment,Sprachassistent Hey Mercedes reagiert in lauter Umgebung nicht auf Befehle. more info:,hey mercedes,,13
+001178,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001179,display_infotainment,Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor.,,,17
+001180,display_infotainment,"Apple CarPlay afbrydes hvert 15. minut, meget irriterende.",apple carplay,,50
+001181,display_infotainment,Kamera cofania pokazuje znieksztalcony obraz z zielonymi liniami.,,,0
+001182,display_infotainment,"Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu. more info:",mbux,,46
+001183,display_infotainment,"MBUX DOKUNMATIK EKRAN NAVIGASYON SIRASINDA DONUYOR, ARACI YENIDEN BASLATMAK GEREKIYOR.",mbux,,14
+001184,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001185,display_infotainment,Zentrales Display wird beim Starten fuer einige Sekunden schwarz.,,,19
+001186,display_infotainment,Apple CarPlay her 20 dakikada bir baglantisi kesiliyor.,apple carplay,,10
+001187,display_infotainment,Apple CarPlay si disconnette ogni 20 minuti.,apple carplay,,37
+001188,display_infotainment,Kablosuz sarj cihazi isiniyor ve 15 dakika sonra duruyor.,,,16
+001189,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001190,display_infotainment,"Head-up display flickers in direct sunlight, hard to read speed. !!! please fix this asap",head-up display,,31
+001191,display_infotainment,"MBUX-Touchscreen friert waehrend der Navigation ein, vollstaendiger Neustart noetig.",mbux,,29
+001192,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes. VIN: <VIN>,,,15
+001193,display_infotainment,"MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor. VIN: <VIN>",mbux,,14
+001194,display_infotainment,"Apple CarPlay trennt sich alle 10 Minuten, sehr aergerlich auf langen Fahrten. contact me at <EMAIL>",apple carplay,,34
+001195,display_infotainment,Kablosuz sarj cihazi isiniyor ve 15 dakika sonra duruyor.,,,16
+001196,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001197,display_infotainment,"Apple CarPlay trennt sich alle 20 Minuten, sehr aergerlich auf langen Fahrten. !!! please fix this asap",apple carplay,,34
+001198,display_infotainment,Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor.,,,17
+001199,display_infotainment,Rueckfahrkamerabild ist verzerrt mit gruenen statischen Linien.,,,21
+001200,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001201,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001202,display_infotainment,LA TELECAMERA POSTERIORE MOSTRA UN'IMMAGINE DISTORTA CON LINEE VERDI.,,,1
+001203,display_infotainment,Touchscreen unresponsive in cold weather until interior warms up.,touchscreen,unresponsive,7
+001204,display_infotainment,Wireless phone charger overheats and stops charging after 30 minutes.,,,-1
+001205,display_infotainment,Rueckfahrkamerabild ist verzerrt mit gruenen statischen Linien. !!! please fix this asap,,,21
+001206,display_infotainment,"MBUX-Touchscreen friert waehrend der Navigation ein, vollstaendiger Neustart noetig.",mbux,,29
+001207,display_infotainment,Rueckfahrkamerabild ist verzerrt mit gruenen statischen Linien.,,,21
+001208,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001209,display_infotainment,Kablosuz sarj cihazi isiniyor ve 5 dakika sonra duruyor. VIN: <VIN>,,,16
+001210,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht.,,,31
+001211,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001212,display_infotainment,"MBUX-Touchscreen friert waehrend der Navigation ein, vollstaendiger Neustart noetig.",mbux,,29
+001213,display_infotainment,Ladowarka bezprzewodowa przegrzewa sie i zatrzymuje po 20 minutach.,,,8
+001214,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001215,display_infotainment,LA CAMERA DE RECUL AFFICHE UNE IMAGE DEFORMEE AVEC DES LIGNES VERTES.,,,15
+001216,display_infotainment,BLUETOOTH-LYD AFBRYDES NAAR JEG MODTAGER TELEFONOPKALD.,,,32
+001217,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001218,display_infotainment,Bluetooth-Audio bricht ab wenn Anrufe eingehen.,,,33
+001219,display_infotainment,Bluetooth-Audio bricht ab wenn Anrufe eingehen.,,,33
+001220,display_infotainment,APPLE CARPLAY SI DISCONNETTE OGNI 20 MINUTI.,apple carplay,,37
+001221,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001222,display_infotainment,"MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor.",mbux,,14
+001223,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht. more info:,,,31
+001224,display_infotainment,Apple CarPlay si disconnette ogni 10 minuti.,apple carplay,,37
+001225,display_infotainment,Sprachassistent Hey Mercedes reagiert in lauter Umgebung nicht auf Befehle.,hey mercedes,,13
+001226,display_infotainment,HEAD-UP-DISPLAY FLACKERT BEI DIREKTEM SONNENLICHT.,,,31
+001227,display_infotainment,Central display goes black for a few seconds when starting the car.,central display,,-1
+001228,display_infotainment,Kabelloses Ladegeraet ueberhitzt und stoppt nach 5 Minuten.,,,-1
+001229,display_infotainment,Bluetooth-Audio bricht ab wenn Anrufe eingehen.,,,33
+001230,display_infotainment,Apple CarPlay se deconnecte toutes les 5 minutes.,apple carplay,,36
+001231,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",mbux,,40
+001232,display_infotainment,Backup camera image is distorted and shows green static lines.,backup camera,static,-1
+001233,display_infotainment,Apple CarPlay se deconnecte toutes les 10 minutes.,apple carplay,,36
+001234,display_infotainment,BAGUDKAMERA VISER FORVRAENGET BILLEDE MED GROENNE STRIBER.,,,28
+001235,display_infotainment,Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor.,,,17
+001236,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001237,display_infotainment,"Head-up display flickers in direct sunlight, hard to read speed.",head-up display,,31
+001238,display_infotainment,"Apple CarPlay trennt sich alle 20 Minuten, sehr aergerlich auf langen Fahrten.",apple carplay,,34
+001239,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001240,display_infotainment,Central display goes black for a few seconds when starting the car.,central display,,-1
+001241,display_infotainment,Bluetooth-lyd afbrydes naar jeg modtager telefonopkald.,,,32
+001242,display_infotainment,Ladowarka bezprzewodowa przegrzewa sie i zatrzymuje po 15 minutach.,,,8
+001243,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen. more info:",mbux,,40
+001244,display_infotainment,Apple CarPlay si disconnette ogni 20 minuti.,apple carplay,,37
+001245,display_infotainment,Apple CarPlay se deconnecte toutes les 30 minutes.,apple carplay,,36
+001246,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001247,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht.,,,31
+001248,display_infotainment,"MBUX touchscreen freezes during navigation, requires full vehicle restart.",mbux,freezes,29
+001249,display_infotainment,Apple CarPlay se deconnecte toutes les 5 minutes.,apple carplay,,36
+001250,display_infotainment,"Software update failed twice, system stuck on installation screen.",software update,stuck,30
+001251,display_infotainment,Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor.,,,17
+001252,display_infotainment,Sprachassistent Hey Mercedes reagiert in lauter Umgebung nicht auf Befehle. more info:,hey mercedes,,13
+001253,display_infotainment,"Apple CarPlay rozlacza sie co 5 minut, bardzo frustrujace.",apple carplay,,51
+001254,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001255,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",mbux,,40
+001256,display_infotainment,Apple CarPlay her 5 dakikada bir baglantisi kesiliyor.,apple carplay,,10
+001257,display_infotainment,Touchscreen unresponsive in cold weather until interior warms up.,touchscreen,unresponsive,7
+001258,display_infotainment,Bluetooth-lyd afbrydes naar jeg modtager telefonopkald. !!! please fix this asap,,,32
+001259,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001260,display_infotainment,"Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu.",mbux,,46
+001261,display_infotainment,"MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor.",mbux,,14
+001262,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001263,display_infotainment,"Apple CarPlay afbrydes hvert 15. minut, meget irriterende.",apple carplay,,50
+001264,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001265,display_infotainment,"Navigation directions are delayed by 2-3 seconds, often miss turns.",,delayed,-1
+001266,display_infotainment,Kablosuz sarj cihazi isiniyor ve 10 dakika sonra duruyor.,,,16
+001267,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor.,,,35
+001268,display_infotainment,Bluetooth-Audio bricht ab wenn Anrufe eingehen.,,,33
+001269,display_infotainment,Kablosuz sarj cihazi isiniyor ve 10 dakika sonra duruyor.,,,16
+001270,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001271,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen. more info:",mbux,,40
+001272,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",mbux,,40
+001273,display_infotainment,"Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu.",mbux,,46
+001274,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001275,display_infotainment,BAGUDKAMERA VISER FORVRAENGET BILLEDE MED GROENNE STRIBER.,,,28
+001276,display_infotainment,Dzwiek Bluetooth zanika podczas polaczen telefonicznych. contact me at <EMAIL>,,,55
+001277,display_infotainment,Zentrales Display wird beim Starten fuer einige Sekunden schwarz.,,,19
+001278,display_infotainment,"MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor.",mbux,,14
+001279,display_infotainment,Apple CarPlay se deconnecte toutes les 20 minutes.,apple carplay,,36
+001280,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001281,display_infotainment,Apple CarPlay si disconnette ogni 20 minuti.,apple carplay,,37
+001282,display_infotainment,Dzwiek Bluetooth zanika podczas polaczen telefonicznych.,,,55
+001283,display_infotainment,Kamera cofania pokazuje znieksztalcony obraz z zielonymi liniami.,,,0
+001284,display_infotainment,Bluetooth audio cuts out when receiving phone calls.,,,-1
+001285,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor.,,,35
+001286,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001287,display_infotainment,"Software update failed twice, system stuck on installation screen. contact me at <EMAIL>",software update,stuck,30
+001288,display_infotainment,Apple CarPlay se deconnecte toutes les 30 minutes.,apple carplay,,36
+001289,display_infotainment,Apple CarPlay si disconnette ogni 5 minuti. more info:,apple carplay,,37
+001290,display_infotainment,"Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu.",mbux,,46
+001291,display_infotainment,Apple CarPlay her 5 dakikada bir baglantisi kesiliyor.,apple carplay,,10
+001292,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001293,display_infotainment,Tradloes oplader bliver overophedet og stopper efter 10 minutter.,,,11
+001294,display_infotainment,"Software update failed twice, system stuck on installation screen.",software update,stuck,30
+001295,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht.,,,31
+001296,display_infotainment,Kamera cofania pokazuje znieksztalcony obraz z zielonymi liniami.,,,0
+001297,display_infotainment,Dzwiek Bluetooth zanika podczas polaczen telefonicznych.,,,55
+001298,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001299,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001300,display_infotainment,Apple CarPlay si disconnette ogni 30 minuti.,apple carplay,,37
+001301,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire. more info:",mbux,,9
+001302,display_infotainment,Kamera cofania pokazuje znieksztalcony obraz z zielonymi liniami.,,,0
+001303,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001304,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001305,display_infotainment,Kablosuz sarj cihazi isiniyor ve 15 dakika sonra duruyor.,,,16
+001306,display_infotainment,"MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor.",mbux,,14
+001307,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor.,,,35
+001308,display_infotainment,LADOWARKA BEZPRZEWODOWA PRZEGRZEWA SIE I ZATRZYMUJE PO 30 MINUTACH.,,,8
+001309,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001310,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001311,display_infotainment,Kamera cofania pokazuje znieksztalcony obraz z zielonymi liniami.,,,0
+001312,display_infotainment,Dzwiek Bluetooth zanika podczas polaczen telefonicznych.,,,55
+001313,display_infotainment,Rueckfahrkamerabild ist verzerrt mit gruenen statischen Linien.,,,21
+001314,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001315,display_infotainment,"Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu.",mbux,,46
+001316,display_infotainment,Zentrales Display wird beim Starten fuer einige Sekunden schwarz.,,,19
+001317,display_infotainment,Kamera cofania pokazuje znieksztalcony obraz z zielonymi liniami.,,,0
+001318,display_infotainment,"MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor.",mbux,,14
+001319,display_infotainment,Zentrales Display wird beim Starten fuer einige Sekunden schwarz. more info:,,,19
+001320,display_infotainment,Bluetooth-lyd afbrydes naar jeg modtager telefonopkald.,,,32
+001321,display_infotainment,Rueckfahrkamerabild ist verzerrt mit gruenen statischen Linien.,,,21
+001322,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor.,,,35
+001323,display_infotainment,Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor.,,,17
+001324,display_infotainment,Apple CarPlay her 5 dakikada bir baglantisi kesiliyor.,apple carplay,,10
+001325,display_infotainment,"Apple CarPlay rozlacza sie co 5 minut, bardzo frustrujace.",apple carplay,,51
+001326,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht.,,,31
+001327,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor.,,,35
+001328,display_infotainment,"Apple CarPlay afbrydes hvert 30. minut, meget irriterende.",apple carplay,,50
+001329,display_infotainment,Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor.,,,17
+001330,display_infotainment,Apple CarPlay se deconnecte toutes les 15 minutes.,apple carplay,,36
+001331,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo. contact me at <EMAIL>",mbux,,24
+001332,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001333,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001334,display_infotainment,Rueckfahrkamerabild ist verzerrt mit gruenen statischen Linien.,,,21
+001335,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001336,display_infotainment,"Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu. more info:",mbux,,46
+001337,display_infotainment,"Head-up display flickers in direct sunlight, hard to read speed.",head-up display,,31
+001338,display_infotainment,Apple CarPlay si disconnette ogni 20 minuti.,apple carplay,,37
+001339,display_infotainment,"MBUX-Touchscreen friert waehrend der Navigation ein, vollstaendiger Neustart noetig.",mbux,,29
+001340,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001341,display_infotainment,"Apple CarPlay afbrydes hvert 10. minut, meget irriterende.",apple carplay,,50
+001342,display_infotainment,Ladowarka bezprzewodowa przegrzewa sie i zatrzymuje po 20 minutach.,,,8
+001343,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001344,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001345,display_infotainment,Bluetooth-lyd afbrydes naar jeg modtager telefonopkald.,,,32
+001346,display_infotainment,Kablosuz sarj cihazi isiniyor ve 30 dakika sonra duruyor. more info:,,,16
+001347,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001348,display_infotainment,"Apple CarPlay rozlacza sie co 10 minut, bardzo frustrujace.",apple carplay,,51
+001349,display_infotainment,Kabelloses Ladegeraet ueberhitzt und stoppt nach 10 Minuten.,,,-1
+001350,display_infotainment,Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor.,,,17
+001351,display_infotainment,"MBUX-Touchscreen friert waehrend der Navigation ein, vollstaendiger Neustart noetig.",mbux,,29
+001352,display_infotainment,"Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu. contact me at <EMAIL>",mbux,,46
+001353,display_infotainment,Ladowarka bezprzewodowa przegrzewa sie i zatrzymuje po 20 minutach.,,,8
+001354,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",mbux,,40
+001355,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht.,,,31
+001356,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001357,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001358,display_infotainment,Sprachassistent Hey Mercedes reagiert in lauter Umgebung nicht auf Befehle.,hey mercedes,,13
+001359,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",mbux,,40
+001360,display_infotainment,"L'ECRAN TACTILE MBUX SE FIGE PENDANT LA NAVIGATION, REDEMARRAGE DU VEHICULE NECESSAIRE.",mbux,,9
+001361,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor.,,,35
+001362,display_infotainment,Sprachassistent Hey Mercedes reagiert in lauter Umgebung nicht auf Befehle.,hey mercedes,,13
+001363,display_infotainment,Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor.,,,17
+001364,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen. contact me at <EMAIL>",mbux,,40
+001365,display_infotainment,"Apple CarPlay afbrydes hvert 10. minut, meget irriterende.",apple carplay,,50
+001366,display_infotainment,"Navigation directions are delayed by 2-3 seconds, often miss turns.",,delayed,-1
+001367,display_infotainment,"MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor.",mbux,,14
+001368,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001369,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001370,display_infotainment,"MBUX-Touchscreen friert waehrend der Navigation ein, vollstaendiger Neustart noetig.",mbux,,29
+001371,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001372,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",mbux,,40
+001373,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001374,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht.,,,31
+001375,display_infotainment,Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor.,,,17
+001376,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001377,display_infotainment,Telematics module loses cellular connection in tunnels and takes long to recover.,telematics module,,-1
+001378,display_infotainment,Rueckfahrkamerabild ist verzerrt mit gruenen statischen Linien.,,,21
+001379,display_infotainment,"Apple CarPlay trennt sich alle 30 Minuten, sehr aergerlich auf langen Fahrten. !!! please fix this asap",apple carplay,,34
+001380,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001381,display_infotainment,"Apple CarPlay rozlacza sie co 5 minut, bardzo frustrujace.",apple carplay,,51
+001382,display_infotainment,"Apple CarPlay rozlacza sie co 20 minut, bardzo frustrujace.",apple carplay,,51
+001383,display_infotainment,"Apple CarPlay afbrydes hvert 30. minut, meget irriterende.",apple carplay,,50
+001384,display_infotainment,Tradloes oplader bliver overophedet og stopper efter 5 minutter.,,,11
+001385,display_infotainment,Voice assistant Hey Mercedes does not respond to commands in noisy environments. !!! please fix this asap,voice assistant,,-1
+001386,display_infotainment,"Apple CarPlay afbrydes hvert 5. minut, meget irriterende.",apple carplay,,50
+001387,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor. !!! please fix this asap,,,35
+001388,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001389,display_infotainment,"Apple CarPlay rozlacza sie co 10 minut, bardzo frustrujace.",apple carplay,,51
+001390,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",mbux,,40
+001391,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001392,display_infotainment,"Software update failed twice, system stuck on installation screen.",software update,stuck,30
+001393,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht.,,,31
+001394,display_infotainment,Tradloes oplader bliver overophedet og stopper efter 5 minutter.,,,11
+001395,display_infotainment,Apple CarPlay se deconnecte toutes les 10 minutes.,apple carplay,,36
+001396,display_infotainment,"Apple CarPlay rozlacza sie co 20 minut, bardzo frustrujace.",apple carplay,,51
+001397,display_infotainment,Bluetooth-Audio bricht ab wenn Anrufe eingehen.,,,33
+001398,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",mbux,,40
+001399,display_infotainment,Apple CarPlay se deconnecte toutes les 5 minutes.,apple carplay,,36
+001400,display_infotainment,Tradloes oplader bliver overophedet og stopper efter 30 minutter.,,,11
+001401,display_infotainment,Bluetooth-lyd afbrydes naar jeg modtager telefonopkald.,,,32
+001402,display_infotainment,Apple CarPlay her 10 dakikada bir baglantisi kesiliyor.,apple carplay,,10
+001403,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber. !!! please fix this asap,,,28
+001404,display_infotainment,Telematics module loses cellular connection in tunnels and takes long to recover.,telematics module,,-1
+001405,display_infotainment,TOUCHSCREEN UNRESPONSIVE IN COLD WEATHER UNTIL INTERIOR WARMS UP.,touchscreen,unresponsive,7
+001406,display_infotainment,Bluetooth-Audio bricht ab wenn Anrufe eingehen. !!! please fix this asap,,,33
+001407,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",mbux,,40
+001408,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",mbux,,40
+001409,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001410,display_infotainment,"MBUX-Touchscreen friert waehrend der Navigation ein, vollstaendiger Neustart noetig.",mbux,,29
+001411,display_infotainment,Apple CarPlay se deconnecte toutes les 10 minutes.,apple carplay,,36
+001412,display_infotainment,"Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu.",mbux,,46
+001413,display_infotainment,Kabelloses Ladegeraet ueberhitzt und stoppt nach 15 Minuten.,,,-1
+001414,display_infotainment,Kabelloses Ladegeraet ueberhitzt und stoppt nach 10 Minuten.,,,-1
+001415,display_infotainment,Zentrales Display wird beim Starten fuer einige Sekunden schwarz. !!! please fix this asap,,,19
+001416,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor. more info:,,,35
+001417,display_infotainment,"Head-up display flickers in direct sunlight, hard to read speed.",head-up display,,31
+001418,display_infotainment,Bluetooth-Audio bricht ab wenn Anrufe eingehen.,,,33
+001419,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001420,display_infotainment,Apple CarPlay si disconnette ogni 5 minuti.,apple carplay,,37
+001421,display_infotainment,Bluetooth ses telefon aramasi geldiginde kesiliyor.,,,35
+001422,display_infotainment,"Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu.",mbux,,46
+001423,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001424,display_infotainment,"MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor.",mbux,,14
+001425,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001426,display_infotainment,Apple CarPlay si disconnette ogni 15 minuti.,apple carplay,,37
+001427,display_infotainment,HEAD-UP-DISPLAY FLACKERT BEI DIREKTEM SONNENLICHT.,,,31
+001428,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht.,,,31
+001429,display_infotainment,Apple CarPlay se deconnecte toutes les 15 minutes.,apple carplay,,36
+001430,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes. !!! please fix this asap,,,15
+001431,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001432,display_infotainment,"Apple CarPlay rozlacza sie co 10 minut, bardzo frustrujace.",apple carplay,,51
+001433,display_infotainment,Kablosuz sarj cihazi isiniyor ve 15 dakika sonra duruyor.,,,16
+001434,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001435,display_infotainment,Ladowarka bezprzewodowa przegrzewa sie i zatrzymuje po 30 minutach.,,,8
+001436,display_infotainment,Bluetooth audio cuts out when receiving phone calls.,,,-1
+001437,display_infotainment,"Apple CarPlay rozlacza sie co 30 minut, bardzo frustrujace.",apple carplay,,51
+001438,display_infotainment,Zentrales Display wird beim Starten fuer einige Sekunden schwarz. more info:,,,19
+001439,display_infotainment,DZWIEK BLUETOOTH ZANIKA PODCZAS POLACZEN TELEFONICZNYCH.,,,55
+001440,display_infotainment,"MBUX touchscreen freezes during navigation, requires full vehicle restart. !!! please fix this asap",mbux,freezes,29
+001441,display_infotainment,Rueckfahrkamerabild ist verzerrt mit gruenen statischen Linien.,,,21
+001442,display_infotainment,Wireless phone charger overheats and stops charging after 5 minutes. !!! please fix this asap,,,-1
+001443,display_infotainment,"Apple CarPlay trennt sich alle 30 Minuten, sehr aergerlich auf langen Fahrten.",apple carplay,,34
+001444,display_infotainment,Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor.,,,17
+001445,display_infotainment,Kablosuz sarj cihazi isiniyor ve 5 dakika sonra duruyor.,,,16
+001446,display_infotainment,SPRACHASSISTENT HEY MERCEDES REAGIERT IN LAUTER UMGEBUNG NICHT AUF BEFEHLE.,hey mercedes,,13
+001447,display_infotainment,Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor.,,,17
+001448,display_infotainment,Voice assistant Hey Mercedes does not respond to commands in noisy environments. more info:,voice assistant,,-1
+001449,display_infotainment,Apple CarPlay se deconnecte toutes les 30 minutes.,apple carplay,,36
+001450,display_infotainment,Bluetooth audio cuts out when receiving phone calls.,,,-1
+001451,display_infotainment,"Instrument cluster shows wrong fuel level, jumps between half and full.",instrument cluster,,-1
+001452,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001453,display_infotainment,Bluetooth audio cuts out when receiving phone calls.,,,-1
+001454,display_infotainment,Ladowarka bezprzewodowa przegrzewa sie i zatrzymuje po 20 minutach.,,,8
+001455,display_infotainment,Bluetooth-lyd afbrydes naar jeg modtager telefonopkald.,,,32
+001456,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001457,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",mbux,,40
+001458,display_infotainment,"Software update failed twice, system stuck on installation screen.",software update,stuck,30
+001459,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001460,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001461,display_infotainment,Kablosuz sarj cihazi isiniyor ve 15 dakika sonra duruyor.,,,16
+001462,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001463,display_infotainment,Touchscreen unresponsive in cold weather until interior warms up.,touchscreen,unresponsive,7
+001464,display_infotainment,Ladowarka bezprzewodowa przegrzewa sie i zatrzymuje po 20 minutach.,,,8
+001465,display_infotainment,"Software update failed twice, system stuck on installation screen.",software update,stuck,30
+001466,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001467,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001468,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001469,display_infotainment,Kamera cofania pokazuje znieksztalcony obraz z zielonymi liniami.,,,0
+001470,display_infotainment,Tradloes oplader bliver overophedet og stopper efter 30 minutter.,,,11
+001471,display_infotainment,"Software update failed twice, system stuck on installation screen.",software update,stuck,30
+001472,display_infotainment,"Apple CarPlay rozlacza sie co 30 minut, bardzo frustrujace.",apple carplay,,51
+001473,display_infotainment,Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor.,,,17
+001474,display_infotainment,"APPLE CARPLAY ROZLACZA SIE CO 20 MINUT, BARDZO FRUSTRUJACE.",apple carplay,,51
+001475,display_infotainment,"Apple CarPlay rozlacza sie co 20 minut, bardzo frustrujace.",apple carplay,,51
+001476,display_infotainment,"Apple CarPlay rozlacza sie co 15 minut, bardzo frustrujace.",apple carplay,,51
+001477,display_infotainment,Rueckfahrkamerabild ist verzerrt mit gruenen statischen Linien.,,,21
+001478,display_infotainment,"MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",mbux,,40
+001479,display_infotainment,Kamera cofania pokazuje znieksztalcony obraz z zielonymi liniami.,,,0
+001480,display_infotainment,Ladowarka bezprzewodowa przegrzewa sie i zatrzymuje po 5 minutach.,,,8
+001481,display_infotainment,"Apple CarPlay disconnects every 10 minutes, very frustrating on long drives.",apple carplay,disconnects,-1
+001482,display_infotainment,Voice assistant Hey Mercedes does not respond to commands in noisy environments.,voice assistant,,-1
+001483,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001484,display_infotainment,Zentrales Display wird beim Starten fuer einige Sekunden schwarz.,,,19
+001485,display_infotainment,La telecamera posteriore mostra un'immagine distorta con linee verdi.,,,1
+001486,display_infotainment,Voice assistant Hey Mercedes does not respond to commands in noisy environments.,voice assistant,,-1
+001487,display_infotainment,Sprachassistent Hey Mercedes reagiert in lauter Umgebung nicht auf Befehle.,hey mercedes,,13
+001488,display_infotainment,Bagudkamera viser forvraenget billede med groenne striber.,,,28
+001489,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001490,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24
+001491,display_infotainment,Burmester audio system has crackling noise from rear left speaker.,burmester audio,noise,-1
+001492,display_infotainment,Tradloes oplader bliver overophedet og stopper efter 10 minutter.,,,11
+001493,display_infotainment,La camera de recul affiche une image deformee avec des lignes vertes.,,,15
+001494,display_infotainment,Kablosuz sarj cihazi isiniyor ve 10 dakika sonra duruyor.,,,16
+001495,display_infotainment,"L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",mbux,,9
+001496,display_infotainment,Apple CarPlay si disconnette ogni 15 minuti. !!! please fix this asap,apple carplay,,37
+001497,display_infotainment,Head-up-Display flackert bei direktem Sonnenlicht.,,,31
+001498,display_infotainment,"MBUX-Touchscreen friert waehrend der Navigation ein, vollstaendiger Neustart noetig. contact me at <EMAIL>",mbux,,29
+001499,display_infotainment,"Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",mbux,,24

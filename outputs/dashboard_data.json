@@ -1,0 +1,1554 @@
+{
+  "generated_at": 1778286015,
+  "total_records": 1500,
+  "n_clusters": 63,
+  "noise_records": 129,
+  "domains": {
+    "display_infotainment": 550,
+    "interior": 700,
+    "powertrain": 250
+  },
+  "components_top": [
+    {
+      "component": "mbux",
+      "count": 123
+    },
+    {
+      "component": "apple carplay",
+      "count": 104
+    },
+    {
+      "component": "floor mat",
+      "count": 55
+    },
+    {
+      "component": "reading light",
+      "count": 44
+    },
+    {
+      "component": "air conditioning",
+      "count": 40
+    },
+    {
+      "component": "glove box",
+      "count": 39
+    },
+    {
+      "component": "trunk latch",
+      "count": 39
+    },
+    {
+      "component": "sunroof",
+      "count": 38
+    },
+    {
+      "component": "headrest",
+      "count": 38
+    },
+    {
+      "component": "engine",
+      "count": 38
+    },
+    {
+      "component": "cabin filter",
+      "count": 36
+    },
+    {
+      "component": "seat belt",
+      "count": 36
+    },
+    {
+      "component": "sun visor",
+      "count": 35
+    },
+    {
+      "component": "dashboard",
+      "count": 35
+    },
+    {
+      "component": "side mirror",
+      "count": 35
+    }
+  ],
+  "failure_types_top": [
+    {
+      "failure_type": "stuck",
+      "count": 44
+    },
+    {
+      "failure_type": "broken",
+      "count": 39
+    },
+    {
+      "failure_type": "rattling",
+      "count": 38
+    },
+    {
+      "failure_type": "jammed",
+      "count": 36
+    },
+    {
+      "failure_type": "loose",
+      "count": 35
+    },
+    {
+      "failure_type": "noise",
+      "count": 35
+    },
+    {
+      "failure_type": "unresponsive",
+      "count": 34
+    },
+    {
+      "failure_type": "cracked",
+      "count": 29
+    },
+    {
+      "failure_type": "peeling",
+      "count": 27
+    },
+    {
+      "failure_type": "coolant leak",
+      "count": 16
+    },
+    {
+      "failure_type": "shifts hard",
+      "count": 13
+    },
+    {
+      "failure_type": "stalls",
+      "count": 13
+    },
+    {
+      "failure_type": "misfire",
+      "count": 10
+    },
+    {
+      "failure_type": "oil leak",
+      "count": 9
+    },
+    {
+      "failure_type": "check engine",
+      "count": 9
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": 56,
+      "keywords": [
+        "keeps",
+        "driver"
+      ],
+      "label": "floor mat issue",
+      "top_component": "floor mat",
+      "top_failure_type": null,
+      "examples": [
+        "Floor mat on the driver side keeps sliding forward and blocking the pedals.",
+        "Floor mat on the driver side keeps sliding forward and blocking the pedals. VIN: <VIN>",
+        "Floor mat on the driver side keeps sliding forward and blocking the pedals.",
+        "Floor mat on the driver side keeps sliding forward and blocking the pedals. contact me at <EMAIL>",
+        "Floor mat on the driver side keeps sliding forward and blocking the pedals."
+      ],
+      "size": 55,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 52,
+      "keywords": [
+        "rear seat",
+        "does",
+        "rear",
+        "seat"
+      ],
+      "label": "reading light issue",
+      "top_component": "reading light",
+      "top_failure_type": null,
+      "examples": [
+        "Reading light over the rear seat does not turn on at all.",
+        "Reading light over the rear seat does not turn on at all.",
+        "Reading light over the rear seat does not turn on at all.",
+        "Reading light over the rear seat does not turn on at all.",
+        "Reading light over the rear seat does not turn on at all."
+      ],
+      "size": 44,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 45,
+      "keywords": [
+        "warm",
+        "cold",
+        "driver"
+      ],
+      "label": "air conditioning issue",
+      "top_component": "air conditioning",
+      "top_failure_type": null,
+      "examples": [
+        "Air conditioning blows warm air on the driver side even when set to cold.",
+        "Air conditioning blows warm air on the driver side even when set to cold. !!! please fix this asap",
+        "Air conditioning blows warm air on the driver side even when set to cold.",
+        "Air conditioning blows warm air on the driver side even when set to cold.",
+        "Air conditioning blows warm air on the driver side even when set to cold."
+      ],
+      "size": 40,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "keywords": [
+        "especially",
+        "dashboard",
+        "cold",
+        "touchscreen",
+        "unresponsive"
+      ],
+      "label": "dashboard -- unresponsive",
+      "top_component": "dashboard",
+      "top_failure_type": "unresponsive",
+      "examples": [
+        "Dashboard creaks loudly especially in cold weather.",
+        "Dashboard creaks loudly especially in cold weather.",
+        "Dashboard creaks loudly especially in cold weather.",
+        "DASHBOARD CREAKS LOUDLY ESPECIALLY IN COLD WEATHER.",
+        "Dashboard creaks loudly especially in cold weather."
+      ],
+      "size": 39,
+      "domains": [
+        "display_infotainment",
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 18,
+      "keywords": [
+        "works",
+        "latch"
+      ],
+      "label": "trunk latch issue",
+      "top_component": "trunk latch",
+      "top_failure_type": null,
+      "examples": [
+        "Trunk latch fails to release using the key fob, only manual opening works.",
+        "Trunk latch fails to release using the key fob, only manual opening works.",
+        "Trunk latch fails to release using the key fob, only manual opening works.",
+        "Trunk latch fails to release using the key fob, only manual opening works.",
+        "Trunk latch fails to release using the key fob, only manual opening works."
+      ],
+      "size": 39,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 49,
+      "keywords": [
+        "latch",
+        "driving",
+        "keeps"
+      ],
+      "label": "glove box -- broken",
+      "top_component": "glove box",
+      "top_failure_type": "broken",
+      "examples": [
+        "Glove box latch is broken, the lid keeps falling open while driving.",
+        "Glove box latch is broken, the lid keeps falling open while driving.",
+        "Glove box latch is broken, the lid keeps falling open while driving.",
+        "Glove box latch is broken, the lid keeps falling open while driving.",
+        "Glove box latch is broken, the lid keeps falling open while driving."
+      ],
+      "size": 39,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 48,
+      "keywords": [
+        "passenger",
+        "seat"
+      ],
+      "label": "headrest issue",
+      "top_component": "headrest",
+      "top_failure_type": null,
+      "examples": [
+        "HEADREST IN THE PASSENGER SEAT WILL NOT ADJUST UP OR DOWN.",
+        "Headrest in the passenger seat will not adjust up or down.",
+        "Headrest in the passenger seat will not adjust up or down.",
+        "Headrest in the passenger seat will not adjust up or down.",
+        "Headrest in the passenger seat will not adjust up or down."
+      ],
+      "size": 38,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 60,
+      "keywords": [
+        "noise",
+        "makes",
+        "driving"
+      ],
+      "label": "sunroof -- rattling",
+      "top_component": "sunroof",
+      "top_failure_type": "rattling",
+      "examples": [
+        "Sunroof makes a loud rattling noise when driving over bumps.",
+        "Sunroof makes a loud rattling noise when driving over bumps.",
+        "SUNROOF MAKES A LOUD RATTLING NOISE WHEN DRIVING OVER BUMPS.",
+        "Sunroof makes a loud rattling noise when driving over bumps.",
+        "SUNROOF MAKES A LOUD RATTLING NOISE WHEN DRIVING OVER BUMPS."
+      ],
+      "size": 38,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 57,
+      "keywords": [],
+      "label": "cabin filter issue",
+      "top_component": "cabin filter",
+      "top_failure_type": null,
+      "examples": [
+        "Cabin filter smells musty even after replacement. more info:",
+        "Cabin filter smells musty even after replacement.",
+        "Cabin filter smells musty even after replacement.",
+        "Cabin filter smells musty even after replacement.",
+        "Cabin filter smells musty even after replacement."
+      ],
+      "size": 36,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 61,
+      "keywords": [
+        "won",
+        "rear left",
+        "properly",
+        "left",
+        "rear",
+        "seat"
+      ],
+      "label": "seat belt -- jammed",
+      "top_component": "seat belt",
+      "top_failure_type": "jammed",
+      "examples": [
+        "Seat belt on the rear left is jammed and won't retract properly.",
+        "Seat belt on the rear left is jammed and won't retract properly.",
+        "Seat belt on the rear left is jammed and won't retract properly. !!! please fix this asap",
+        "Seat belt on the rear left is jammed and won't retract properly.",
+        "Seat belt on the rear left is jammed and won't retract properly."
+      ],
+      "size": 36,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 47,
+      "keywords": [
+        "driver"
+      ],
+      "label": "sun visor -- loose",
+      "top_component": "sun visor",
+      "top_failure_type": "loose",
+      "examples": [
+        "Sun visor on the driver side hangs loose and will not stay up.",
+        "Sun visor on the driver side hangs loose and will not stay up.",
+        "Sun visor on the driver side hangs loose and will not stay up.",
+        "SUN VISOR ON THE DRIVER SIDE HANGS LOOSE AND WILL NOT STAY UP.",
+        "Sun visor on the driver side hangs loose and will not stay up."
+      ],
+      "size": 35,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 53,
+      "keywords": [
+        "does",
+        "locking"
+      ],
+      "label": "side mirror issue",
+      "top_component": "side mirror",
+      "top_failure_type": null,
+      "examples": [
+        "Side mirror does not fold automatically when locking the car.",
+        "Side mirror does not fold automatically when locking the car.",
+        "Side mirror does not fold automatically when locking the car.",
+        "Side mirror does not fold automatically when locking the car.",
+        "Side mirror does not fold automatically when locking the car."
+      ],
+      "size": 35,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 62,
+      "keywords": [
+        "won",
+        "stuck",
+        "door",
+        "left",
+        "right door",
+        "right",
+        "rear left",
+        "rear",
+        "rear right"
+      ],
+      "label": "power window -- stuck",
+      "top_component": "power window",
+      "top_failure_type": "stuck",
+      "examples": [
+        "Power window switch on the rear-right door is stuck and the window won't go down. !!! please fix this asap",
+        "Power window switch on the rear-left door is stuck and the window won't go down.",
+        "Power window switch on the front-right door is stuck and the window won't go down.",
+        "Power window switch on the rear-right door is stuck and the window won't go down.",
+        "Power window switch on the front-left door is stuck and the window won't go down."
+      ],
+      "size": 34,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 15,
+      "keywords": [
+        "la"
+      ],
+      "label": "la",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "La camera de recul affiche une image deformee avec des lignes vertes.",
+        "La camera de recul affiche une image deformee avec des lignes vertes.",
+        "La camera de recul affiche une image deformee avec des lignes vertes.",
+        "La camera de recul affiche une image deformee avec des lignes vertes.",
+        "La camera de recul affiche une image deformee avec des lignes vertes."
+      ],
+      "size": 31,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 22,
+      "keywords": [
+        "flickers",
+        "dashboard"
+      ],
+      "label": "ambient lighting issue",
+      "top_component": "ambient lighting",
+      "top_failure_type": null,
+      "examples": [
+        "Ambient lighting flickers randomly at night, mostly around the dashboard area. !!! please fix this asap",
+        "Ambient lighting flickers randomly at night, mostly around the dashboard area.",
+        "AMBIENT LIGHTING FLICKERS RANDOMLY AT NIGHT, MOSTLY AROUND THE DASHBOARD AREA.",
+        "Ambient lighting flickers randomly at night, mostly around the dashboard area.",
+        "Ambient lighting flickers randomly at night, mostly around the dashboard area."
+      ],
+      "size": 31,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 54,
+      "keywords": [
+        "works",
+        "unresponsive",
+        "rear seat",
+        "seat heater",
+        "heater",
+        "right",
+        "left",
+        "rear",
+        "seat"
+      ],
+      "label": "seat heater -- unresponsive",
+      "top_component": "seat heater",
+      "top_failure_type": "unresponsive",
+      "examples": [
+        "Rear seat heater is unresponsive on the left side, right side works fine. VIN: <VIN>",
+        "Rear seat heater is unresponsive on the left side, right side works fine.",
+        "Rear seat heater is unresponsive on the left side, right side works fine.",
+        "Rear seat heater is unresponsive on the left side, right side works fine.",
+        "Rear seat heater is unresponsive on the left side, right side works fine."
+      ],
+      "size": 30,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "keywords": [],
+      "label": "cup holder -- cracked",
+      "top_component": "cup holder",
+      "top_failure_type": "cracked",
+      "examples": [
+        "Cup holder in the center console is cracked and no longer holds bottles securely.",
+        "Cup holder in the center console is cracked and no longer holds bottles securely.",
+        "Cup holder in the center console is cracked and no longer holds bottles securely.",
+        "Cup holder in the center console is cracked and no longer holds bottles securely.",
+        "Cup holder in the center console is cracked and no longer holds bottles securely."
+      ],
+      "size": 29,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 9,
+      "keywords": [
+        "se",
+        "navigation",
+        "la",
+        "mbux"
+      ],
+      "label": "mbux issue",
+      "top_component": "mbux",
+      "top_failure_type": null,
+      "examples": [
+        "L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",
+        "L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",
+        "L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",
+        "L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire.",
+        "L'ecran tactile MBUX se fige pendant la navigation, redemarrage du vehicule necessaire."
+      ],
+      "size": 28,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 24,
+      "keywords": [
+        "si",
+        "la",
+        "mbux"
+      ],
+      "label": "mbux issue",
+      "top_component": "mbux",
+      "top_failure_type": null,
+      "examples": [
+        "Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",
+        "Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",
+        "Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",
+        "Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo.",
+        "Lo schermo touch MBUX si blocca durante la navigazione, richiede il riavvio del veicolo. contact me at <EMAIL>"
+      ],
+      "size": 28,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 44,
+      "keywords": [
+        "warm",
+        "months",
+        "passenger",
+        "seat heater",
+        "heater",
+        "driver",
+        "seat",
+        "16 months",
+        "16",
+        "28 months"
+      ],
+      "label": "driver seat issue",
+      "top_component": "driver seat",
+      "top_failure_type": null,
+      "examples": [
+        "The driver seat heater stopped working after 23 months, only the passenger side gets warm.",
+        "The driver seat heater stopped working after 6 months, only the passenger side gets warm.",
+        "The driver seat heater stopped working after 22 months, only the passenger side gets warm.",
+        "The driver seat heater stopped working after 10 months, only the passenger side gets warm.",
+        "The driver seat heater stopped working after 16 months, only the passenger side gets warm."
+      ],
+      "size": 28,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 42,
+      "keywords": [
+        "months",
+        "11 months",
+        "16",
+        "16 months",
+        "15 months",
+        "26 months",
+        "26",
+        "11",
+        "15",
+        "29 months"
+      ],
+      "label": "steering wheel -- peeling",
+      "top_component": "steering wheel",
+      "top_failure_type": "peeling",
+      "examples": [
+        "The leather on the steering wheel is peeling after only 6 months.",
+        "The leather on the steering wheel is peeling after only 3 months.",
+        "The leather on the steering wheel is peeling after only 2 months.",
+        "The leather on the steering wheel is peeling after only 26 months.",
+        "The leather on the steering wheel is peeling after only 20 months."
+      ],
+      "size": 27,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "keywords": [
+        "la"
+      ],
+      "label": "la",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "La telecamera posteriore mostra un'immagine distorta con linee verdi.",
+        "La telecamera posteriore mostra un'immagine distorta con linee verdi.",
+        "La telecamera posteriore mostra un'immagine distorta con linee verdi.",
+        "La telecamera posteriore mostra un'immagine distorta con linee verdi.",
+        "La telecamera posteriore mostra un'immagine distorta con linee verdi."
+      ],
+      "size": 26,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 31,
+      "keywords": [
+        "display",
+        "hard",
+        "flickers"
+      ],
+      "label": "head-up display issue",
+      "top_component": "head-up display",
+      "top_failure_type": null,
+      "examples": [
+        "Head-up-Display flackert bei direktem Sonnenlicht.",
+        "Head-up display flickers in direct sunlight, hard to read speed.",
+        "Head-up-Display flackert bei direktem Sonnenlicht.",
+        "Head-up display flickers in direct sunlight, hard to read speed.",
+        "Head-up-Display flackert bei direktem Sonnenlicht. VIN: <VIN>"
+      ],
+      "size": 26,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 59,
+      "keywords": [
+        "noise",
+        "makes",
+        "seat"
+      ],
+      "label": "seat ventilation -- noise",
+      "top_component": "seat ventilation",
+      "top_failure_type": "noise",
+      "examples": [
+        "Seat ventilation makes a high-pitched whining noise.",
+        "Seat ventilation makes a high-pitched whining noise.",
+        "Seat ventilation makes a high-pitched whining noise.",
+        "Seat ventilation makes a high-pitched whining noise.",
+        "Seat ventilation makes a high-pitched whining noise."
+      ],
+      "size": 26,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 58,
+      "keywords": [
+        "door",
+        "rear right",
+        "locking",
+        "right door",
+        "right",
+        "rear"
+      ],
+      "label": "door lock issue",
+      "top_component": "door lock",
+      "top_failure_type": null,
+      "examples": [
+        "DOOR LOCK ON THE REAR RIGHT DOOR CLICKS REPEATEDLY WHEN LOCKING.",
+        "Door lock on the rear right door clicks repeatedly when locking.",
+        "Door lock on the rear right door clicks repeatedly when locking.",
+        "Door lock on the rear right door clicks repeatedly when locking.",
+        "Door lock on the rear right door clicks repeatedly when locking."
+      ],
+      "size": 25,
+      "domains": [
+        "interior"
+      ]
+    },
+    {
+      "cluster_id": 36,
+      "keywords": [
+        "se",
+        "apple carplay",
+        "apple",
+        "carplay",
+        "30",
+        "10",
+        "15",
+        "20"
+      ],
+      "label": "apple carplay issue",
+      "top_component": "apple carplay",
+      "top_failure_type": null,
+      "examples": [
+        "Apple CarPlay se deconnecte toutes les 15 minutes.",
+        "Apple CarPlay se deconnecte toutes les 30 minutes. !!! please fix this asap",
+        "Apple CarPlay se deconnecte toutes les 5 minutes.",
+        "Apple CarPlay se deconnecte toutes les 10 minutes.",
+        "Apple CarPlay se deconnecte toutes les 30 minutes."
+      ],
+      "size": 23,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 28,
+      "keywords": [],
+      "label": "cluster 28",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Bagudkamera viser forvraenget billede med groenne striber.",
+        "Bagudkamera viser forvraenget billede med groenne striber.",
+        "Bagudkamera viser forvraenget billede med groenne striber.",
+        "Bagudkamera viser forvraenget billede med groenne striber.",
+        "Bagudkamera viser forvraenget billede med groenne striber."
+      ],
+      "size": 22,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 37,
+      "keywords": [
+        "si",
+        "apple carplay",
+        "apple",
+        "carplay",
+        "15",
+        "20",
+        "30",
+        "10"
+      ],
+      "label": "apple carplay issue",
+      "top_component": "apple carplay",
+      "top_failure_type": null,
+      "examples": [
+        "Apple CarPlay si disconnette ogni 30 minuti.",
+        "Apple CarPlay si disconnette ogni 15 minuti.",
+        "Apple CarPlay si disconnette ogni 30 minuti.",
+        "Apple CarPlay si disconnette ogni 5 minuti.",
+        "APPLE CARPLAY SI DISCONNETTE OGNI 10 MINUTI."
+      ],
+      "size": 21,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 51,
+      "keywords": [
+        "minut",
+        "sie",
+        "carplay",
+        "apple carplay",
+        "apple",
+        "20 minut",
+        "30 minut",
+        "10 minut",
+        "15 minut",
+        "20"
+      ],
+      "label": "apple carplay issue",
+      "top_component": "apple carplay",
+      "top_failure_type": null,
+      "examples": [
+        "Apple CarPlay rozlacza sie co 15 minut, bardzo frustrujace.",
+        "Apple CarPlay rozlacza sie co 20 minut, bardzo frustrujace.",
+        "Apple CarPlay rozlacza sie co 30 minut, bardzo frustrujace.",
+        "Apple CarPlay rozlacza sie co 30 minut, bardzo frustrujace. VIN: <VIN>",
+        "Apple CarPlay rozlacza sie co 10 minut, bardzo frustrujace."
+      ],
+      "size": 19,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 35,
+      "keywords": [
+        "kesiliyor",
+        "bluetooth"
+      ],
+      "label": "kesiliyor / bluetooth",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Bluetooth ses telefon aramasi geldiginde kesiliyor.",
+        "Bluetooth ses telefon aramasi geldiginde kesiliyor.",
+        "Bluetooth ses telefon aramasi geldiginde kesiliyor.",
+        "Bluetooth ses telefon aramasi geldiginde kesiliyor.",
+        "Bluetooth ses telefon aramasi geldiginde kesiliyor."
+      ],
+      "size": 18,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 40,
+      "keywords": [
+        "navigation",
+        "mbux"
+      ],
+      "label": "mbux issue",
+      "top_component": "mbux",
+      "top_failure_type": null,
+      "examples": [
+        "MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",
+        "MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",
+        "MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",
+        "MBUX touchskaerm fryser under navigation, kraever genstart af bilen.",
+        "MBUX touchskaerm fryser under navigation, kraever genstart af bilen. more info:"
+      ],
+      "size": 18,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 17,
+      "keywords": [
+        "ve"
+      ],
+      "label": "ve",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor.",
+        "Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor.",
+        "Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor. VIN: <VIN>",
+        "Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor. !!! please fix this asap",
+        "Geri gorus kamerasi bozuk goruntu ve yesil cizgiler gosteriyor. !!! please fix this asap"
+      ],
+      "size": 17,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 29,
+      "keywords": [
+        "touchscreen",
+        "navigation",
+        "vollstaendiger",
+        "der",
+        "ein",
+        "mbux"
+      ],
+      "label": "mbux -- freezes",
+      "top_component": "mbux",
+      "top_failure_type": "freezes",
+      "examples": [
+        "MBUX-Touchscreen friert waehrend der Navigation ein, vollstaendiger Neustart noetig.",
+        "MBUX touchscreen freezes during navigation, requires full vehicle restart. contact me at <EMAIL>",
+        "MBUX-Touchscreen friert waehrend der Navigation ein, vollstaendiger Neustart noetig.",
+        "MBUX touchscreen freezes during navigation, requires full vehicle restart.",
+        "MBUX touchscreen freezes during navigation, requires full vehicle restart."
+      ],
+      "size": 17,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 46,
+      "keywords": [
+        "podczas",
+        "ekran",
+        "sie",
+        "mbux"
+      ],
+      "label": "mbux issue",
+      "top_component": "mbux",
+      "top_failure_type": null,
+      "examples": [
+        "Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu.",
+        "Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu.",
+        "Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu.",
+        "Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu.",
+        "Ekran dotykowy MBUX zawiesza sie podczas nawigacji, wymaga restartu pojazdu."
+      ],
+      "size": 17,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "keywords": [
+        "im"
+      ],
+      "label": "im",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.",
+        "Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.",
+        "Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.",
+        "Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand.",
+        "Getriebe schaltet hart zwischen 2. und 3. Gang im kalten Zustand."
+      ],
+      "size": 16,
+      "domains": [
+        "powertrain"
+      ]
+    },
+    {
+      "cluster_id": 16,
+      "keywords": [
+        "ve",
+        "15",
+        "10",
+        "30",
+        "20"
+      ],
+      "label": "ve / 15 / 10",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Kablosuz sarj cihazi isiniyor ve 20 dakika sonra duruyor.",
+        "KABLOSUZ SARJ CIHAZI ISINIYOR VE 15 DAKIKA SONRA DURUYOR.",
+        "Kablosuz sarj cihazi isiniyor ve 5 dakika sonra duruyor.",
+        "KABLOSUZ SARJ CIHAZI ISINIYOR VE 10 DAKIKA SONRA DURUYOR.",
+        "Kablosuz sarj cihazi isiniyor ve 10 dakika sonra duruyor. !!! please fix this asap"
+      ],
+      "size": 16,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 27,
+      "keywords": [
+        "liter",
+        "engine"
+      ],
+      "label": "engine -- coolant leak",
+      "top_component": "engine",
+      "top_failure_type": "coolant leak",
+      "examples": [
+        "Coolant leak under the engine bay, losing about a liter per week.",
+        "Coolant leak under the engine bay, losing about a liter per week.",
+        "Coolant leak under the engine bay, losing about a liter per week.",
+        "Coolant leak under the engine bay, losing about a liter per week.",
+        "Coolant leak under the engine bay, losing about a liter per week."
+      ],
+      "size": 16,
+      "domains": [
+        "powertrain"
+      ]
+    },
+    {
+      "cluster_id": 55,
+      "keywords": [
+        "podczas",
+        "bluetooth"
+      ],
+      "label": "podczas / bluetooth",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Dzwiek Bluetooth zanika podczas polaczen telefonicznych.",
+        "Dzwiek Bluetooth zanika podczas polaczen telefonicznych.",
+        "Dzwiek Bluetooth zanika podczas polaczen telefonicznych.",
+        "Dzwiek Bluetooth zanika podczas polaczen telefonicznych.",
+        "Dzwiek Bluetooth zanika podczas polaczen telefonicznych."
+      ],
+      "size": 16,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 14,
+      "keywords": [
+        "ekran",
+        "mbux"
+      ],
+      "label": "mbux issue",
+      "top_component": "mbux",
+      "top_failure_type": null,
+      "examples": [
+        "MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor. VIN: <VIN>",
+        "MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor.",
+        "MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor.",
+        "MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor.",
+        "MBUX dokunmatik ekran navigasyon sirasinda donuyor, araci yeniden baslatmak gerekiyor. !!! please fix this asap"
+      ],
+      "size": 15,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 23,
+      "keywords": [
+        "batterie",
+        "der",
+        "im",
+        "29",
+        "11",
+        "17",
+        "28",
+        "26",
+        "20",
+        "15"
+      ],
+      "label": "batterie / der / im",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "REICHWEITE DER EV-BATTERIE UM 24 PROZENT GESUNKEN IM LETZTEN MONAT OHNE FAHRAENDERUNG.",
+        "Reichweite der EV-Batterie um 15 Prozent gesunken im letzten Monat ohne Fahraenderung.",
+        "Reichweite der EV-Batterie um 32 Prozent gesunken im letzten Monat ohne Fahraenderung.",
+        "Reichweite der EV-Batterie um 26 Prozent gesunken im letzten Monat ohne Fahraenderung.",
+        "Reichweite der EV-Batterie um 25 Prozent gesunken im letzten Monat ohne Fahraenderung. !!! please fix this asap"
+      ],
+      "size": 15,
+      "domains": [
+        "powertrain"
+      ]
+    },
+    {
+      "cluster_id": 50,
+      "keywords": [
+        "afbrydes",
+        "minut",
+        "carplay",
+        "apple",
+        "apple carplay",
+        "30 minut",
+        "15 minut",
+        "30",
+        "20 minut",
+        "10 minut"
+      ],
+      "label": "apple carplay issue",
+      "top_component": "apple carplay",
+      "top_failure_type": null,
+      "examples": [
+        "Apple CarPlay afbrydes hvert 5. minut, meget irriterende.",
+        "Apple CarPlay afbrydes hvert 20. minut, meget irriterende.",
+        "Apple CarPlay afbrydes hvert 20. minut, meget irriterende.",
+        "Apple CarPlay afbrydes hvert 15. minut, meget irriterende.",
+        "Apple CarPlay afbrydes hvert 30. minut, meget irriterende. contact me at <EMAIL>"
+      ],
+      "size": 14,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "keywords": [
+        "hard",
+        "cold"
+      ],
+      "label": "transmission -- shifts hard",
+      "top_component": "transmission",
+      "top_failure_type": "shifts hard",
+      "examples": [
+        "Transmission shifts hard between 2nd and 3rd gear when cold.",
+        "Transmission shifts hard between 2nd and 3rd gear when cold.",
+        "Transmission shifts hard between 2nd and 3rd gear when cold.",
+        "Transmission shifts hard between 2nd and 3rd gear when cold.",
+        "Transmission shifts hard between 2nd and 3rd gear when cold."
+      ],
+      "size": 13,
+      "domains": [
+        "powertrain"
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "keywords": [
+        "especially",
+        "engine"
+      ],
+      "label": "engine -- stalls",
+      "top_component": "engine",
+      "top_failure_type": "stalls",
+      "examples": [
+        "ENGINE STALLS AT IDLE WHEN THE AC IS ON, ESPECIALLY IN TRAFFIC.",
+        "Engine stalls at idle when the AC is on, especially in traffic.",
+        "Engine stalls at idle when the AC is on, especially in traffic.",
+        "Engine stalls at idle when the AC is on, especially in traffic.",
+        "Engine stalls at idle when the AC is on, especially in traffic."
+      ],
+      "size": 13,
+      "domains": [
+        "powertrain"
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "keywords": [
+        "sie",
+        "20",
+        "30",
+        "15"
+      ],
+      "label": "sie / 20 / 30",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Ladowarka bezprzewodowa przegrzewa sie i zatrzymuje po 20 minutach.",
+        "Ladowarka bezprzewodowa przegrzewa sie i zatrzymuje po 30 minutach.",
+        "Ladowarka bezprzewodowa przegrzewa sie i zatrzymuje po 20 minutach.",
+        "Ladowarka bezprzewodowa przegrzewa sie i zatrzymuje po 30 minutach.",
+        "Ladowarka bezprzewodowa przegrzewa sie i zatrzymuje po 20 minutach."
+      ],
+      "size": 13,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 11,
+      "keywords": [
+        "30",
+        "10",
+        "20",
+        "15"
+      ],
+      "label": "30 / 10 / 20",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Tradloes oplader bliver overophedet og stopper efter 5 minutter.",
+        "Tradloes oplader bliver overophedet og stopper efter 15 minutter.",
+        "Tradloes oplader bliver overophedet og stopper efter 30 minutter. VIN: <VIN>",
+        "Tradloes oplader bliver overophedet og stopper efter 10 minutter.",
+        "Tradloes oplader bliver overophedet og stopper efter 20 minutter."
+      ],
+      "size": 13,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 33,
+      "keywords": [
+        "wenn",
+        "bluetooth"
+      ],
+      "label": "wenn / bluetooth",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Bluetooth-Audio bricht ab wenn Anrufe eingehen.",
+        "Bluetooth-Audio bricht ab wenn Anrufe eingehen.",
+        "Bluetooth-Audio bricht ab wenn Anrufe eingehen.",
+        "Bluetooth-Audio bricht ab wenn Anrufe eingehen.",
+        "Bluetooth-Audio bricht ab wenn Anrufe eingehen."
+      ],
+      "size": 13,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 43,
+      "keywords": [
+        "geht",
+        "mit"
+      ],
+      "label": "geht / mit",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Motorkontrollleuchte geht sporadisch an mit Fehlercode P0455.",
+        "Motorkontrollleuchte geht sporadisch an mit Fehlercode P0420.",
+        "Motorkontrollleuchte geht sporadisch an mit Fehlercode P0455.",
+        "Motorkontrollleuchte geht sporadisch an mit Fehlercode P0128.",
+        "Motorkontrollleuchte geht sporadisch an mit Fehlercode P0455."
+      ],
+      "size": 13,
+      "domains": [
+        "powertrain"
+      ]
+    },
+    {
+      "cluster_id": 32,
+      "keywords": [
+        "afbrydes",
+        "bluetooth"
+      ],
+      "label": "afbrydes / bluetooth",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Bluetooth-lyd afbrydes naar jeg modtager telefonopkald. !!! please fix this asap",
+        "Bluetooth-lyd afbrydes naar jeg modtager telefonopkald.",
+        "Bluetooth-lyd afbrydes naar jeg modtager telefonopkald.",
+        "Bluetooth-lyd afbrydes naar jeg modtager telefonopkald.",
+        "Bluetooth-lyd afbrydes naar jeg modtager telefonopkald."
+      ],
+      "size": 12,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 41,
+      "keywords": [
+        "properly"
+      ],
+      "label": "charging port issue",
+      "top_component": "charging port",
+      "top_failure_type": null,
+      "examples": [
+        "Charging port cover will not close properly after fast charging.",
+        "Charging port cover will not close properly after fast charging.",
+        "Charging port cover will not close properly after fast charging.",
+        "Charging port cover will not close properly after fast charging.",
+        "Charging port cover will not close properly after fast charging."
+      ],
+      "size": 12,
+      "domains": [
+        "powertrain"
+      ]
+    },
+    {
+      "cluster_id": 0,
+      "keywords": [],
+      "label": "cluster 0",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Kamera cofania pokazuje znieksztalcony obraz z zielonymi liniami.",
+        "Kamera cofania pokazuje znieksztalcony obraz z zielonymi liniami.",
+        "Kamera cofania pokazuje znieksztalcony obraz z zielonymi liniami.",
+        "Kamera cofania pokazuje znieksztalcony obraz z zielonymi liniami.",
+        "Kamera cofania pokazuje znieksztalcony obraz z zielonymi liniami."
+      ],
+      "size": 11,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 13,
+      "keywords": [
+        "nicht",
+        "lauter",
+        "auf"
+      ],
+      "label": "hey mercedes issue",
+      "top_component": "hey mercedes",
+      "top_failure_type": null,
+      "examples": [
+        "Sprachassistent Hey Mercedes reagiert in lauter Umgebung nicht auf Befehle.",
+        "Sprachassistent Hey Mercedes reagiert in lauter Umgebung nicht auf Befehle.",
+        "Sprachassistent Hey Mercedes reagiert in lauter Umgebung nicht auf Befehle.",
+        "SPRACHASSISTENT HEY MERCEDES REAGIERT IN LAUTER UMGEBUNG NICHT AUF BEFEHLE.",
+        "Sprachassistent Hey Mercedes reagiert in lauter Umgebung nicht auf Befehle. more info:"
+      ],
+      "size": 11,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 25,
+      "keywords": [
+        "wenn",
+        "geht",
+        "im"
+      ],
+      "label": "wenn / geht / im",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Motor geht im Leerlauf aus, besonders wenn die Klimaanlage laeuft.",
+        "Motor geht im Leerlauf aus, besonders wenn die Klimaanlage laeuft.",
+        "Motor geht im Leerlauf aus, besonders wenn die Klimaanlage laeuft.",
+        "Motor geht im Leerlauf aus, besonders wenn die Klimaanlage laeuft.",
+        "Motor geht im Leerlauf aus, besonders wenn die Klimaanlage laeuft."
+      ],
+      "size": 11,
+      "domains": [
+        "powertrain"
+      ]
+    },
+    {
+      "cluster_id": 26,
+      "keywords": [
+        "lauter",
+        "10"
+      ],
+      "label": "lauter / 10",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Turbolader pfeift seit 5 Wochen immer lauter.",
+        "Turbolader pfeift seit 9 Wochen immer lauter.",
+        "Turbolader pfeift seit 7 Wochen immer lauter. !!! please fix this asap",
+        "Turbolader pfeift seit 10 Wochen immer lauter.",
+        "Turbolader pfeift seit 5 Wochen immer lauter."
+      ],
+      "size": 11,
+      "domains": [
+        "powertrain"
+      ]
+    },
+    {
+      "cluster_id": 34,
+      "keywords": [
+        "auf",
+        "apple",
+        "carplay",
+        "apple carplay",
+        "10",
+        "30",
+        "20",
+        "15"
+      ],
+      "label": "apple carplay issue",
+      "top_component": "apple carplay",
+      "top_failure_type": null,
+      "examples": [
+        "Apple CarPlay trennt sich alle 10 Minuten, sehr aergerlich auf langen Fahrten.",
+        "Apple CarPlay trennt sich alle 10 Minuten, sehr aergerlich auf langen Fahrten.",
+        "Apple CarPlay trennt sich alle 5 Minuten, sehr aergerlich auf langen Fahrten.",
+        "Apple CarPlay trennt sich alle 5 Minuten, sehr aergerlich auf langen Fahrten.",
+        "Apple CarPlay trennt sich alle 5 Minuten, sehr aergerlich auf langen Fahrten."
+      ],
+      "size": 11,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 38,
+      "keywords": [
+        "vollstaendiger"
+      ],
+      "label": "vollstaendiger",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "AdBlue-Warnung bleibt auch nach vollstaendiger Befuellung bestehen.",
+        "AdBlue-Warnung bleibt auch nach vollstaendiger Befuellung bestehen.",
+        "AdBlue-Warnung bleibt auch nach vollstaendiger Befuellung bestehen.",
+        "AdBlue-Warnung bleibt auch nach vollstaendiger Befuellung bestehen.",
+        "AdBlue-Warnung bleibt auch nach vollstaendiger Befuellung bestehen. contact me at <EMAIL>"
+      ],
+      "size": 11,
+      "domains": [
+        "powertrain"
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "keywords": [
+        "woche",
+        "ist",
+        "batterie"
+      ],
+      "label": "woche / ist / batterie",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Batterie ist ueber Nacht leer, musste diese Woche dreimal ueberbruecken.",
+        "Batterie ist ueber Nacht leer, musste diese Woche dreimal ueberbruecken.",
+        "Batterie ist ueber Nacht leer, musste diese Woche dreimal ueberbruecken.",
+        "Batterie ist ueber Nacht leer, musste diese Woche dreimal ueberbruecken.",
+        "Batterie ist ueber Nacht leer, musste diese Woche dreimal ueberbruecken."
+      ],
+      "size": 10,
+      "domains": [
+        "powertrain"
+      ]
+    },
+    {
+      "cluster_id": 10,
+      "keywords": [
+        "kesiliyor",
+        "apple",
+        "carplay",
+        "apple carplay",
+        "20",
+        "30",
+        "10",
+        "15"
+      ],
+      "label": "apple carplay issue",
+      "top_component": "apple carplay",
+      "top_failure_type": null,
+      "examples": [
+        "Apple CarPlay her 30 dakikada bir baglantisi kesiliyor.",
+        "APPLE CARPLAY HER 15 DAKIKADA BIR BAGLANTISI KESILIYOR.",
+        "Apple CarPlay her 20 dakikada bir baglantisi kesiliyor.",
+        "Apple CarPlay her 30 dakikada bir baglantisi kesiliyor.",
+        "Apple CarPlay her 20 dakikada bir baglantisi kesiliyor."
+      ],
+      "size": 10,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 12,
+      "keywords": [
+        "woche",
+        "liter",
+        "ein"
+      ],
+      "label": "woche / liter / ein",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Kuehlmittelleck unter dem Motorraum, ungefaehr ein Liter pro Woche Verlust. !!! please fix this asap",
+        "Kuehlmittelleck unter dem Motorraum, ungefaehr ein Liter pro Woche Verlust.",
+        "Kuehlmittelleck unter dem Motorraum, ungefaehr ein Liter pro Woche Verlust.",
+        "Kuehlmittelleck unter dem Motorraum, ungefaehr ein Liter pro Woche Verlust.",
+        "Kuehlmittelleck unter dem Motorraum, ungefaehr ein Liter pro Woche Verlust."
+      ],
+      "size": 10,
+      "domains": [
+        "powertrain"
+      ]
+    },
+    {
+      "cluster_id": 19,
+      "keywords": [
+        "display"
+      ],
+      "label": "display",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Zentrales Display wird beim Starten fuer einige Sekunden schwarz.",
+        "Zentrales Display wird beim Starten fuer einige Sekunden schwarz.",
+        "Zentrales Display wird beim Starten fuer einige Sekunden schwarz.",
+        "Zentrales Display wird beim Starten fuer einige Sekunden schwarz.",
+        "Zentrales Display wird beim Starten fuer einige Sekunden schwarz."
+      ],
+      "size": 10,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 20,
+      "keywords": [
+        "nicht"
+      ],
+      "label": "nicht",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Dieselpartikelfilter-Regeneration schlaegt fehl, Warnmeldung verschwindet nicht.",
+        "DIESELPARTIKELFILTER-REGENERATION SCHLAEGT FEHL, WARNMELDUNG VERSCHWINDET NICHT.",
+        "Dieselpartikelfilter-Regeneration schlaegt fehl, Warnmeldung verschwindet nicht. !!! please fix this asap",
+        "Dieselpartikelfilter-Regeneration schlaegt fehl, Warnmeldung verschwindet nicht.",
+        "Dieselpartikelfilter-Regeneration schlaegt fehl, Warnmeldung verschwindet nicht."
+      ],
+      "size": 10,
+      "domains": [
+        "powertrain"
+      ]
+    },
+    {
+      "cluster_id": 21,
+      "keywords": [
+        "ist",
+        "mit"
+      ],
+      "label": "ist / mit",
+      "top_component": null,
+      "top_failure_type": null,
+      "examples": [
+        "Rueckfahrkamerabild ist verzerrt mit gruenen statischen Linien.",
+        "Rueckfahrkamerabild ist verzerrt mit gruenen statischen Linien.",
+        "Rueckfahrkamerabild ist verzerrt mit gruenen statischen Linien. !!! please fix this asap",
+        "Rueckfahrkamerabild ist verzerrt mit gruenen statischen Linien.",
+        "Rueckfahrkamerabild ist verzerrt mit gruenen statischen Linien."
+      ],
+      "size": 10,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 30,
+      "keywords": [
+        "stuck"
+      ],
+      "label": "software update -- stuck",
+      "top_component": "software update",
+      "top_failure_type": "stuck",
+      "examples": [
+        "Software update failed twice, system stuck on installation screen.",
+        "Software update failed twice, system stuck on installation screen.",
+        "Software update failed twice, system stuck on installation screen.",
+        "Software update failed twice, system stuck on installation screen.",
+        "Software update failed twice, system stuck on installation screen. contact me at <EMAIL>"
+      ],
+      "size": 10,
+      "domains": [
+        "display_infotainment"
+      ]
+    },
+    {
+      "cluster_id": 39,
+      "keywords": [
+        "engine"
+      ],
+      "label": "spark plug -- misfire",
+      "top_component": "spark plug",
+      "top_failure_type": "misfire",
+      "examples": [
+        "Spark plug misfire on cylinder 1, engine runs rough.",
+        "Spark plug misfire on cylinder 4, engine runs rough.",
+        "Spark plug misfire on cylinder 5, engine runs rough.",
+        "Spark plug misfire on cylinder 8, engine runs rough.",
+        "Spark plug misfire on cylinder 1, engine runs rough. VIN: <VIN>"
+      ],
+      "size": 10,
+      "domains": [
+        "powertrain"
+      ]
+    }
+  ]
+}

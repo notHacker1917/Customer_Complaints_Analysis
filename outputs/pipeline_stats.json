@@ -1,0 +1,26 @@
+{
+  "input_file": "data/raw/emotional_complaints_200.csv",
+  "total_records_input": 200,
+  "records_after_clean_dedup": 81,
+  "n_clusters_raw": 4,
+  "n_clusters_final": 4,
+  "n_noise": 15,
+  "languages_seen": [
+    "da",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "nl",
+    "pl",
+    "tr"
+  ],
+  "domains_seen": [
+    "unknown"
+  ],
+  "llm_enabled": false,
+  "llm_model": null,
+  "min_cluster_size": 6,
+  "runtime_seconds": 17.51
+}

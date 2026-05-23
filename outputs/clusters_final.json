@@ -1,0 +1,153 @@
+[
+  {
+    "cluster_id": 3,
+    "size": 35,
+    "label": "Mbux - static",
+    "summary": "Cluster centered on 'mbux' failures of type 'static'.",
+    "keywords": [
+      "apple",
+      "carplay",
+      "mbux",
+      "apple carplay",
+      "en",
+      "70k",
+      "like",
+      "el",
+      "just",
+      "time",
+      "work",
+      "cold"
+    ],
+    "top_component": "mbux",
+    "top_failure": "static",
+    "domains": [
+      "unknown"
+    ],
+    "languages": [
+      "da",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "nl",
+      "pl",
+      "tr"
+    ],
+    "example_complaints": [
+      "Burmester audio system has static on the right rear speaker. €4000 option btw. Cool cool cool.",
+      "Power window on driver side decides whether to work each morning. It's like a coin flip. A €600 coin flip when it dies fully."
+    ],
+    "merged_from": [
+      3
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "size": 13,
+    "label": "Mbux - auto",
+    "summary": "Cluster grouped by keywords: der, auto, winter, jetzt.",
+    "keywords": [
+      "der",
+      "auto",
+      "winter",
+      "jetzt",
+      "carplay",
+      "update",
+      "mir",
+      "km",
+      "kein",
+      "minuten",
+      "mein",
+      "mbux"
+    ],
+    "top_component": "mbux",
+    "top_failure": null,
+    "domains": [
+      "unknown"
+    ],
+    "languages": [
+      "de"
+    ],
+    "example_complaints": [
+      "Ich liebe meinen Benz aber das ist langsam echt eine Frechheit. Sitzheizung geht alle 2 Wochen kaputt.",
+      "Der Kühlmittelverlust macht mich wahnsinnig. Süßer Geruch, Pfütze unter dem Auto, und keiner findet was."
+    ],
+    "merged_from": [
+      2
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "size": 12,
+    "label": "Engine - leaking",
+    "summary": "Cluster centered on 'engine' failures of type 'leaking'.",
+    "keywords": [
+      "car",
+      "winter",
+      "work",
+      "cold",
+      "like",
+      "battery",
+      "week",
+      "heater",
+      "time",
+      "literally",
+      "km",
+      "70k"
+    ],
+    "top_component": "engine",
+    "top_failure": "leaking",
+    "domains": [
+      "unknown"
+    ],
+    "languages": [
+      "en"
+    ],
+    "example_complaints": [
+      "My wife is afraid to ride with me anymore. The engine misfires randomly and the check engine light has been on since week 2.",
+      "Cup holder cracked. Yeah, the cup holder. €60k car and the cup holder cracked. Living the dream."
+    ],
+    "merged_from": [
+      1
+    ]
+  },
+  {
+    "cluster_id": 0,
+    "size": 6,
+    "label": "Hey mercedes - single",
+    "summary": "Cluster grouped by keywords: mercedes, single, og, kein.",
+    "keywords": [
+      "mercedes",
+      "single",
+      "og",
+      "kein",
+      "just",
+      "car",
+      "tell",
+      "mir",
+      "literally",
+      "lo",
+      "mein",
+      "el"
+    ],
+    "top_component": "hey mercedes",
+    "top_failure": null,
+    "domains": [
+      "unknown"
+    ],
+    "languages": [
+      "da",
+      "de",
+      "en",
+      "es",
+      "tr"
+    ],
+    "example_complaints": [
+      "Hey Mercedes Türkçe anlamıyor zaten ama İngilizce de anlamıyor. Komik.",
+      "Hey Mercedes versteht KEIN Wort von mir. Mein Hund hört besser zu. Echt jetzt."
+    ],
+    "merged_from": [
+      0
+    ]
+  }
+]

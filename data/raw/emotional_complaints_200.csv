@@ -1,0 +1,201 @@
+complaint_id,vehicle_model,manufacturing_year,mileage_km,component,complaint_text,service_center,date_reported,detected_language
+C00001,GLC 300,2024,72128,Burmester audio,Burmester audio system has static on the right rear speaker. €4000 option btw. Cool cool cool.,Mercedes Amsterdam Zuid,2025-02-14,en
+C00002,AMG GT 53,2025,34195,auto-dimming mirror,Power window on driver side decides whether to work each morning. It's like a coin flip. A €600 coin flip when it dies fully.,Mercedes-Benz Copenhagen,2026-03-18,en
+C00003,CLS 350d,2018,53106,steering wheel heater,La cámara de marcha atrás se ve negra cuando llueve. Justo cuando la necesito. Magnífico.,Daimler München Mitte,2025-02-09,es
+C00004,A 180,2025,14421,high voltage battery,No serio?? Kupiłem nowego Mercedesa i bluetooth się rozłącza co minutę. Słabo to wygląda.,Mercedes-Benz of Mayfair London,2025-11-01,pl
+C00005,EQE 350,2025,22669,backup camera,Sædevarmen fungerer kun nogle gange. Tilfældigt. Jeg har givet op og købt et tæppe.,Daimler München Mitte,2025-08-22,da
+C00006,E 220d,2022,53450,coolant system,"Klimatyzacja dmucha zimnym z jednej strony, gorącym z drugiej. To jest jakiś żart??",Mercedes-Benz Brussels,2026-01-07,pl
+C00007,G 400d,2026,1792,backup camera,Frustrated beyond words. Backup camera shows a black screen every time it rains. So basically useless when I actually need it.,Mercedes-Benz Copenhagen,2026-04-03,en
+C00008,EQC 400,2026,2012,armrest,La calefacción del asiento solo funciona el lunes (broma). En realidad funciona aleatoriamente.,Sytner Manchester,2026-04-10,es
+C00009,A 200,2022,43845,coolant system,La caméra de recul est noire dès qu'il pleut. Donc inutile 6 mois par an en France. Bravo.,Auto-Heinrich Frankfurt,2026-04-20,fr
+C00010,CLA 200,2024,30712,climate control,"I just want to vent — climate control blows ice cold on driver side and SAUNA on passenger side. Three visits, no fix. I'm done.",Itra Barcelona,2025-03-05,en
+C00011,EQA 250,2025,15717,12V battery,"Mein Händler sagt 'das ist normal'. Sorry aber NEIN, das ist NICHT normal wenn der Bildschirm 3x am Tag abstürzt.",Mercedes-Benz Copenhagen,2025-09-12,de
+C00012,EQE 350,2025,13716,12V battery,Il filtro dell'aria puzza di muffa anche dopo la sostituzione. Ma scherziamo?,Stern Milano Centro,2025-08-03,it
+C00013,A 250,2021,111855,driver seat heater,"I'm SO over this. Driver seat heater stopped working AGAIN, third time in 6 months. What am I even paying for??",Mercedes-Benz Ankara Çankaya,2026-03-17,en
+C00014,E 450,2022,72648,Apple CarPlay,Helt ærligt jeg er træt af det her. MBUX skærmen fryser hver gang jeg bruger Apple CarPlay. Hvad sker der?,Itra Barcelona,2026-03-25,da
+C00015,AMG GT 53,2025,24002,Bluetooth module,"Yağ kokusu motordan geliyor, üç kez serviste hala çözüm yok. Pes.",Étoile Lyon,2025-02-09,tr
+C00016,EQE 350,2023,68793,ambient lighting,Hey Mercedes Türkçe anlamıyor zaten ama İngilizce de anlamıyor. Komik.,Mercedes-Benz Köln Rhein,2026-03-06,tr
+C00017,S 580,2023,107966,high voltage battery,Thought I was crazy but 3 friends with the same model said the same thing. MBUX freezes during navigation. You guys know about this right??,Mercedes-Benz of Mayfair London,2025-03-30,en
+C00018,A 180,2018,236850,head-up display,No serio?? Kupiłem nowego Mercedesa i bluetooth się rozłącza co minutę. Słabo to wygląda.,Koluman Istanbul Ataşehir,2025-01-25,pl
+C00019,E 450,2020,180192,steering wheel heater,Mijn nieuwe E 450 en het bekertje is al gebarsten. Echt een grap.,Stern Auto Hamburg,2025-11-01,nl
+C00020,A 180,2022,106974,engine,"Coolant leaking under the engine bay, sweet smell, pretty sure it's the radiator. 38k km on a 2023 car. Not impressed.",Koluman Istanbul Ataşehir,2026-03-19,en
+C00021,EQS 580,2024,57234,seat cushion,"MBUX bricked itself after the OTA update last week. Yes, BRICKED. Beautiful 12 inch black screen now.",Auto-Heinrich Frankfurt,2026-04-01,en
+C00022,C 220d,2025,18585,auto-dimming mirror,Ich weine fast wenn ich an die Reichweite denke. Im Winter -32%. Hätte einen Tesla nehmen sollen ehrlich.,Auto-Heinrich Frankfurt,2025-12-27,de
+C00023,E 220d,2025,10936,DPF filter,12V batteriet er dødt for tredje gang. På to år. Jeg er færdig med Mercedes.,Stern Milano Centro,2025-12-04,da
+C00024,A 35 AMG,2025,20214,9G transmission,Genuinely scared to drive on the autobahn now. The 9G transmission shifts so hard sometimes it feels like I got rear-ended.,Auto Wimar Warsaw,2024-11-27,en
+C00025,EQE 350,2024,28803,Apple CarPlay,Apple CarPlay disconnects every. single. time. I get on the highway. WHY does this keep happening,Mercedes-Benz Poznań,2025-03-05,en
+C00026,EQA 250,2024,25752,coolant system,"Mon turbo siffle comme un train, j'en peux plus. Trois passages au garage, zéro résultat.",Mercedes-Benz Köln Rhein,2025-05-31,fr
+C00027,GLC 43 AMG,2024,36713,9G transmission,"Yağ kokusu motordan geliyor, üç kez serviste hala çözüm yok. Pes.",Mercedes-Benz Poznań,2025-12-14,tr
+C00028,E 450,2025,8948,12V battery,Stuck on the side of the road because my 12V battery just... died. In a 2024 E 450. Make it make sense.,Mercedes-Benz Köln Rhein,2024-12-20,en
+C00029,E 450,2025,13398,12V battery,No serio?? Kupiłem nowego Mercedesa i bluetooth się rozłącza co minutę. Słabo to wygląda.,Mercedes-Benz Berlin Tempelhof,2025-06-12,pl
+C00030,E 200,2025,14728,instrument cluster,La caméra de recul est noire dès qu'il pleut. Donc inutile 6 mois par an en France. Bravo.,Mercedes-Benz Köln Rhein,2026-04-30,fr
+C00031,C 220d,2022,38916,glove box,"Direksiyon ısıtması çalışmıyor, servis 'normal' diyor. Hangi normalde?",Mercedes Roma EUR,2026-03-25,tr
+C00032,GLA 200,2021,86009,9G transmission,"Direksiyon ısıtması çalışmıyor, servis 'normal' diyor. Hangi normalde?",Mercedes Amsterdam Zuid,2026-04-24,tr
+C00033,S 580,2025,10903,Burmester audio,"Allora ragazzi, la mia S 580 gira solo aria fredda dal lato passeggero. Pagato 70k per questo??",Lookers Mercedes Birmingham,2026-02-09,it
+C00034,GLC 43 AMG,2024,32855,auto-dimming mirror,"Mon concessionnaire me prend pour une idiote. 'Madame, c'est normal' — NON, monsieur, ce n'est PAS normal.",Mercedes-Benz Poznań,2025-10-27,fr
+C00035,GLE 350d,2024,34022,ambient lighting,Ambient lighting flickers like a cheap nightclub. At night. While driving. Disorienting and honestly dangerous.,Koluman Istanbul Ataşehir,2025-08-15,en
+C00036,V 300d,2024,34087,seat ventilation,Tre visite per la stessa perdita di liquido refrigerante. Sempre 'non riscontrato'. Sono sfinito.,Koluman Istanbul Ataşehir,2025-03-16,it
+C00037,S 500,2020,49307,engine,My wife is afraid to ride with me anymore. The engine misfires randomly and the check engine light has been on since week 2.,Autotorino Verona,2025-01-01,en
+C00038,E 350,2024,55876,Burmester audio,MBUX-Update hat das Kombiinstrument zerschossen. Ich fahre jetzt ohne Tacho. Toll.,Sytner Manchester,2025-08-26,de
+C00039,E 300,2022,93110,ambient lighting,"Der Kühlmittelverlust macht mich wahnsinnig. Süßer Geruch, Pfütze unter dem Auto, und keiner findet was.",Mercedes-Benz Berlin Tempelhof,2025-07-22,de
+C00040,A 180,2020,62857,Hey Mercedes assistant,"Direksiyon ısıtması çalışmıyor, servis 'normal' diyor. Hangi normalde?",Mercedes-Benz Berlin Tempelhof,2025-10-25,tr
+C00041,EQA 250,2026,1945,Bluetooth module,"Der Kühlmittelverlust macht mich wahnsinnig. Süßer Geruch, Pfütze unter dem Auto, und keiner findet was.",Étoile Lyon,2026-01-11,de
+C00042,GLE 450,2026,3929,Burmester audio,Burmester audio system has static on the right rear speaker. €4000 option btw. Cool cool cool.,Mercedes-Benz Poznań,2025-10-31,en
+C00043,CLA 200,2026,3028,sunroof,Okay so the sunroof refuses to close in cold weather. So if I park outside in winter... fun times!,Mercedes-Benz Paris Étoile,2025-03-06,en
+C00044,G 63 AMG,2024,60079,cabin filter,Hey Mercedes versteht KEIN Wort von mir. Mein Hund hört besser zu. Echt jetzt.,Mercedes-Benz Berlin Tempelhof,2025-05-22,de
+C00045,A 35 AMG,2021,25194,wireless charger,Tre visite per la stessa perdita di liquido refrigerante. Sempre 'non riscontrato'. Sono sfinito.,Mercedes-Benz Stuttgart,2026-04-20,it
+C00046,GLB 220,2023,41950,Apple CarPlay,MBUX-Update hat das Kombiinstrument zerschossen. Ich fahre jetzt ohne Tacho. Toll.,Auto-Heinrich Frankfurt,2025-11-22,de
+C00047,G 63 AMG,2025,13700,seat cushion,"Heads-up display flickers in direct sunlight which, if I may, IS WHEN I MOST NEED IT.",Mercedes-Benz Köln Rhein,2026-05-09,en
+C00048,G 400d,2025,4906,ambient lighting,Tre visite per la stessa perdita di liquido refrigerante. Sempre 'non riscontrato'. Sono sfinito.,Lookers Mercedes Birmingham,2026-05-09,it
+C00049,G 63 AMG,2026,3488,ambient lighting,Kamera cofania pokazuje czarny ekran w deszczu. Czyli wtedy gdy najbardziej potrzebna.,Auto-Heinrich Frankfurt,2025-05-03,pl
+C00050,A 250,2025,28458,AdBlue system,Il filtro dell'aria puzza di muffa anche dopo la sostituzione. Ma scherziamo?,Étoile Lyon,2025-09-22,it
+C00051,A 180,2024,23278,sunroof,Okay so the sunroof refuses to close in cold weather. So if I park outside in winter... fun times!,Lookers Mercedes Birmingham,2025-06-16,en
+C00052,E 220d,2026,3945,Apple CarPlay,Apple CarPlay se déconnecte toutes les 3 minutes. C'est devenu un sport quotidien.,Stern Milano Centro,2025-06-27,fr
+C00053,S 580,2026,1924,dome light,Tre visite per la stessa perdita di liquido refrigerante. Sempre 'non riscontrato'. Sono sfinito.,Mercedes Roma EUR,2026-03-01,it
+C00054,GLB 220,2021,59273,passenger seat heater,"El turbo silba como una tetera al hervir. Tres talleres, ningún diagnóstico. Resignado.",Autotorino Verona,2024-11-06,es
+C00055,EQS 450,2025,8008,auto-dimming mirror,MBUX-Update hat das Kombiinstrument zerschossen. Ich fahre jetzt ohne Tacho. Toll.,Auto Wimar Warsaw,2025-11-17,de
+C00056,S 500,2025,8213,navigation system,Lo schermo MBUX si blocca durante la navigazione e devo fermarmi a riavviare. Vergogna.,Mercedes-Benz Stuttgart,2025-09-11,it
+C00057,A 250,2023,94870,armrest,El asistente Hey Mercedes no entiende nada de lo que digo. Cero útil. Cero.,Mercedes Amsterdam Zuid,2026-04-05,es
+C00058,C 220d,2021,77849,climate control,"I just want to vent — climate control blows ice cold on driver side and SAUNA on passenger side. Three visits, no fix. I'm done.",Stern Milano Centro,2025-09-14,en
+C00059,E 450,2021,77469,cup holder,"Cup holder cracked. Yeah, the cup holder. €60k car and the cup holder cracked. Living the dream.",Mercedes-Benz Paris Étoile,2025-11-01,en
+C00060,GLS 450,2026,2703,passenger seat heater,"MBUX bricked itself after the OTA update last week. Yes, BRICKED. Beautiful 12 inch black screen now.",Auto Wimar Warsaw,2026-03-07,en
+C00061,GLE 350d,2021,29747,electric motor,Geri vites kamerası karanlıkta hiçbir şey göstermiyor. Tehlikeli bence.,Mercedes Amsterdam Zuid,2026-05-07,tr
+C00062,E 300,2018,199612,steering wheel heater,Steering wheel heater warms only the bottom half of the rim. So my palms freeze. Engineering at its finest!,Mercedes-Benz Stuttgart,2024-11-03,en
+C00063,C 200,2022,51820,cup holder,Min splinternye C 200 og bakkameraet virker ikke i regnvejr. SERIØST?,Mercedes-Benz Copenhagen,2025-07-13,da
+C00064,C 300,2026,3026,dome light,"Dome light won't turn off after locking the car, drained the battery twice. I now sleep with one eye on my driveway.",Itra Barcelona,2025-01-14,en
+C00065,S 500,2025,23896,climate control,Sædevarmen fungerer kun nogle gange. Tilfældigt. Jeg har givet op og købt et tæppe.,Mercedes Roma EUR,2025-03-04,da
+C00066,EQS 450,2025,24014,steering wheel heater,Tre visite per la stessa perdita di liquido refrigerante. Sempre 'non riscontrato'. Sono sfinito.,Mercedes-Benz Poznań,2025-10-20,it
+C00067,C 200,2025,12183,head-up display,Please please please tell me what to do. Hey Mercedes literally never understands a single word I say. I just feel stupid talking to my car.,Merbag Zürich,2025-06-20,en
+C00068,GLC 300,2024,39770,engine,I literally cried when the EV battery range dropped 28% over one winter. I traded in my BMW for THIS?,Étoile Lyon,2026-03-21,en
+C00069,GLC 300,2021,77540,driver seat heater,"Yav arkadaşlar bu ne ya, MBUX ekranı sürekli donuyor. 2 milyonluk araba bu!",Mercedes-Benz Madrid Norte,2025-10-23,tr
+C00070,G 63 AMG,2023,64498,fuel injector,Lenkradheizung wärmt nur unten. Meine Daumen frieren weiterhin tapfer mit.,Auto-Heinrich Frankfurt,2025-03-11,de
+C00071,S 580,2025,19094,dome light,"Yağ kokusu motordan geliyor, üç kez serviste hala çözüm yok. Pes.",Étoile Lyon,2026-01-30,tr
+C00072,E 220d,2024,41333,electric motor,Ich liebe meinen Benz aber das ist langsam echt eine Frechheit. Sitzheizung geht alle 2 Wochen kaputt.,Lookers Mercedes Birmingham,2025-03-07,de
+C00073,GLA 200,2023,33338,coolant system,Komme gerade aus der Werkstatt. ZUM DRITTEN MAL wegen AdBlue. Das geht mir mittlerweile richtig auf den Geist.,Stern Milano Centro,2025-10-04,de
+C00074,GLC 43 AMG,2020,143298,Apple CarPlay,"Apple CarPlay her 5 dakikada bağlantıyı kesiyor, çıldıracağım resmen!",Merbag Zürich,2026-04-14,tr
+C00075,CLA 200,2025,21231,power window switch,"DPF regen fails repeatedly, warning light, then service mode. Lost a whole afternoon of work because of this.",Stern Auto Hamburg,2024-11-11,en
+C00076,AMG GT 53,2021,152511,ambient lighting,Komme gerade aus der Werkstatt. ZUM DRITTEN MAL wegen AdBlue. Das geht mir mittlerweile richtig auf den Geist.,Koluman Istanbul Ataşehir,2026-03-03,de
+C00077,GLC 43 AMG,2019,136547,MBUX touchscreen,Kamera cofania pokazuje czarny ekran w deszczu. Czyli wtedy gdy najbardziej potrzebna.,Lookers Mercedes Birmingham,2025-08-03,pl
+C00078,A 200,2025,18073,Apple CarPlay,"Apple CarPlay trennt sich alle 5 Minuten. Das ist nicht mehr lustig, das ist ein Witz.",Mercedes-Benz Madrid Norte,2025-11-14,de
+C00079,AMG GT 53,2024,11594,passenger seat heater,Please please please tell me what to do. Hey Mercedes literally never understands a single word I say. I just feel stupid talking to my car.,Mercedes-Benz Berlin Tempelhof,2025-06-13,en
+C00080,E 53 AMG,2025,20539,instrument cluster,Akumulator 12V padł trzeci raz. Trzeci. W aucie z 2024 roku. Niesamowite.,Daimler München Mitte,2026-04-19,pl
+C00081,AMG GT 53,2020,68642,navigation system,La cámara de marcha atrás se ve negra cuando llueve. Justo cuando la necesito. Magnífico.,Sytner Manchester,2026-04-10,es
+C00082,EQB 300,2023,64927,dome light,Bluetooth pairing drops EVERY restart. So every morning I get to manually re-pair my phone. Riveting.,Étoile Lyon,2026-03-16,en
+C00083,S 500,2019,51863,Apple CarPlay,"Apple CarPlay trennt sich alle 5 Minuten. Das ist nicht mehr lustig, das ist ein Witz.",Itra Barcelona,2025-11-10,de
+C00084,EQA 250,2023,77275,passenger seat heater,Ehrlich gesagt nur noch genervt. Der Turbolader pfeift wie verrückt seit 30.000 km. Hilfe?,Mercedes Amsterdam Zuid,2025-06-12,de
+C00085,A 35 AMG,2026,2134,auto-dimming mirror,"El turbo silba como una tetera al hervir. Tres talleres, ningún diagnóstico. Resignado.",Pappas Wien,2026-04-30,es
+C00086,EQB 300,2025,18921,head-up display,Hey Mercedes versteht KEIN Wort von mir. Mein Hund hört besser zu. Echt jetzt.,Mercedes Amsterdam Zuid,2025-09-22,de
+C00087,GLC 43 AMG,2021,72447,cup holder,Garantie eine Woche abgelaufen. Getriebe kaputt. Kostenvoranschlag 6.800 €. Ich kotze.,Mercedes-Benz Copenhagen,2026-04-25,de
+C00088,GLS 450,2026,908,Burmester audio,La caméra de recul est noire dès qu'il pleut. Donc inutile 6 mois par an en France. Bravo.,Mercedes-Benz of Mayfair London,2026-01-14,fr
+C00089,EQS 450,2020,109856,Apple CarPlay,Apple CarPlay se déconnecte toutes les 3 minutes. C'est devenu un sport quotidien.,Mercedes-Benz of Mayfair London,2026-03-16,fr
+C00090,AMG GT 53,2023,55412,cabin filter,"MBUX bricked itself after the OTA update last week. Yes, BRICKED. Beautiful 12 inch black screen now.",Auto Wimar Warsaw,2026-05-07,en
+C00091,E 220d,2024,28391,wireless charger,The wireless charger overheats my phone to the point I can't touch it. Genuinely worried it'll start a fire.,Mercedes-Benz Brussels,2025-03-15,en
+C00092,V 300d,2025,18474,Hey Mercedes assistant,Garantie eine Woche abgelaufen. Getriebe kaputt. Kostenvoranschlag 6.800 €. Ich kotze.,Stern Auto Hamburg,2025-05-03,de
+C00093,S 580,2025,13223,electric motor,"MBUX bricked itself after the OTA update last week. Yes, BRICKED. Beautiful 12 inch black screen now.",Auto-Heinrich Frankfurt,2024-12-25,en
+C00094,E 220d,2023,71814,glove box,Glove box latch broke. Sounds minor — until your insurance papers are flying around the cabin every time you brake.,Mercedes-Benz Ankara Çankaya,2024-11-30,en
+C00095,S 350d,2023,23340,AdBlue system,Hey Mercedes versteht KEIN Wort von mir. Mein Hund hört besser zu. Echt jetzt.,Mercedes-Benz Copenhagen,2025-12-22,de
+C00096,GLC 300,2021,39066,engine,"Coolant leaking under the engine bay, sweet smell, pretty sure it's the radiator. 38k km on a 2023 car. Not impressed.",Mercedes Amsterdam Zuid,2024-12-30,en
+C00097,GLE 350d,2024,70042,engine,My wife is afraid to ride with me anymore. The engine misfires randomly and the check engine light has been on since week 2.,Mercedes-Benz Brussels,2025-07-22,en
+C00098,A 200,2024,40705,instrument cluster,Ambiente-Beleuchtung flackert wie eine kaputte Discokugel. Schämen Sie sich nicht?,Daimler München Mitte,2025-05-24,de
+C00099,S 400d,2025,10774,seat cushion,I literally cried when the EV battery range dropped 28% over one winter. I traded in my BMW for THIS?,Itra Barcelona,2026-05-03,en
+C00100,CLA 200,2025,16496,9G transmission,Geri vites kamerası karanlıkta hiçbir şey göstermiyor. Tehlikeli bence.,Mercedes-Benz Brussels,2026-01-26,tr
+C00101,EQB 300,2026,3146,head-up display,Tre visite per la stessa perdita di liquido refrigerante. Sempre 'non riscontrato'. Sono sfinito.,Mercedes-Benz of Mayfair London,2025-01-20,it
+C00102,E 300,2021,67629,wireless charger,MBUX-Update hat das Kombiinstrument zerschossen. Ich fahre jetzt ohne Tacho. Toll.,Auto Wimar Warsaw,2026-01-13,de
+C00103,AMG GT 53,2026,1226,Apple CarPlay,Apple CarPlay disconnects every. single. time. I get on the highway. WHY does this keep happening,Auto Wimar Warsaw,2025-11-09,en
+C00104,A 180,2024,29716,12V battery,Hey Mercedes forstår ikke et ord. Hvorfor sælger I det her som en feature?,Sytner Manchester,2025-03-22,da
+C00105,E 220d,2024,32469,climate control,"I just want to vent — climate control blows ice cold on driver side and SAUNA on passenger side. Three visits, no fix. I'm done.",Mercedes Roma EUR,2024-12-20,en
+C00106,GLC 300,2026,2286,ambient lighting,Tre visite per la stessa perdita di liquido refrigerante. Sempre 'non riscontrato'. Sono sfinito.,Daimler München Mitte,2026-04-23,it
+C00107,C 300,2022,55747,sunroof,"Allora ragazzi, la mia C 300 gira solo aria fredda dal lato passeggero. Pagato 70k per questo??",Daimler München Mitte,2026-04-25,it
+C00108,V 300d,2023,90257,Burmester audio,No serio?? Kupiłem nowego Mercedesa i bluetooth się rozłącza co minutę. Słabo to wygląda.,Auto Wimar Warsaw,2026-03-06,pl
+C00109,A 200,2026,426,infotainment software,Lo schermo MBUX si blocca durante la navigazione e devo fermarmi a riavviare. Vergogna.,Auto-Heinrich Frankfurt,2025-04-22,it
+C00110,S 500,2018,308361,Apple CarPlay,"Apple CarPlay si scollega ogni 2 minuti, sto impazzendo davvero.",Stern Auto Hamburg,2026-04-18,it
+C00111,GLC 43 AMG,2025,14284,Burmester audio,Burmester audio system has static on the right rear speaker. €4000 option btw. Cool cool cool.,Mercedes-Benz Paris Étoile,2026-02-23,en
+C00112,G 400d,2024,22788,steering wheel heater,"Cabin smells like burning plastic on cold starts. Three trips to dealer, three 'no fault found'. Yeah okay.",Étoile Lyon,2025-07-14,en
+C00113,E 350,2021,107915,turbocharger,La calefacción del asiento solo funciona el lunes (broma). En realidad funciona aleatoriamente.,Mercedes-Benz Stuttgart,2025-11-26,es
+C00114,EQS 450,2024,42630,Apple CarPlay,Kamera cofania pokazuje czarny ekran w deszczu. Czyli wtedy gdy najbardziej potrzebna.,Mercedes-Benz of Mayfair London,2026-04-27,pl
+C00115,E 200,2022,48830,panoramic roof,Akumulator 12V padł trzeci raz. Trzeci. W aucie z 2024 roku. Niesamowite.,Mercedes Amsterdam Zuid,2026-01-17,pl
+C00116,A 200,2024,32701,power window switch,"El turbo silba como una tetera al hervir. Tres talleres, ningún diagnóstico. Resignado.",Mercedes Amsterdam Zuid,2025-03-06,es
+C00117,GLE 450,2024,23179,seat ventilation,En serio? Mi GLE 450 nuevo y la pantalla MBUX se congela todos los días. Estoy harto.,Mercedes-Benz Copenhagen,2025-02-22,es
+C00118,G 63 AMG,2023,27263,climate control,"I just want to vent — climate control blows ice cold on driver side and SAUNA on passenger side. Three visits, no fix. I'm done.",Mercedes-Benz Berlin Tempelhof,2025-07-27,en
+C00119,EQS 450,2026,3783,sunroof,I literally cried when the EV battery range dropped 28% over one winter. I traded in my BMW for THIS?,Daimler München Mitte,2024-12-08,en
+C00120,AMG GT 53,2026,3981,wireless charger,"Door panel rattles louder than the music. €70k car, sounds like a Lada from 1989.",Mercedes-Benz Copenhagen,2026-02-22,en
+C00121,A 250,2026,2022,Apple CarPlay,Apple CarPlay se déconnecte toutes les 3 minutes. C'est devenu un sport quotidien.,Mercedes-Benz of Mayfair London,2024-12-19,fr
+C00122,C 220d,2025,7270,instrument cluster,Ich weine fast wenn ich an die Reichweite denke. Im Winter -32%. Hätte einen Tesla nehmen sollen ehrlich.,Sytner Manchester,2024-12-15,de
+C00123,S 500,2026,2653,backup camera,"MBUX zawiesza się podczas nawigacji, muszę zatrzymywać auto żeby zrestartować. Genialne.",Pappas Wien,2026-04-14,pl
+C00124,EQS 580,2024,38790,steering wheel heater,"El turbo silba como una tetera al hervir. Tres talleres, ningún diagnóstico. Resignado.",Stern Auto Hamburg,2026-05-04,es
+C00125,EQA 250,2022,65424,head-up display,Hey Mercedes forstår ikke et ord. Hvorfor sælger I det her som en feature?,Mercedes-Benz Berlin Tempelhof,2025-01-31,da
+C00126,E 350,2022,48186,instrument cluster,Hey Mercedes Türkçe anlamıyor zaten ama İngilizce de anlamıyor. Komik.,Mercedes-Benz Copenhagen,2025-10-12,tr
+C00127,S 580,2024,19783,instrument cluster,"Yav arkadaşlar bu ne ya, MBUX ekranı sürekli donuyor. 2 milyonluk araba bu!",Mercedes-Benz Berlin Tempelhof,2025-03-14,tr
+C00128,EQS 450,2025,20137,steering wheel heater,En serio? Mi EQS 450 nuevo y la pantalla MBUX se congela todos los días. Estoy harto.,Itra Barcelona,2025-09-27,es
+C00129,EQC 400,2020,72540,on-board charger,Mirror auto-dim doesn't work. Headlights from the car behind blind me every night. I dread night driving now.,Mercedes-Benz Berlin Tempelhof,2026-03-25,en
+C00130,G 63 AMG,2023,28657,coolant system,"Mein Händler sagt 'das ist normal'. Sorry aber NEIN, das ist NICHT normal wenn der Bildschirm 3x am Tag abstürzt.",Mercedes Roma EUR,2024-11-22,de
+C00131,S 500,2020,96815,steering wheel heater,I'm 6 months out of warranty. Failed turbo. €4200 quote. Tell me again why I bought premium?,Lookers Mercedes Birmingham,2025-05-03,en
+C00132,EQS 580,2026,1926,MBUX touchscreen,"Klimaanlage bläst kalt links, warm rechts. Drei Werkstattbesuche, kein Erfolg. Ich resigniere.",Étoile Lyon,2025-02-08,de
+C00133,EQB 300,2024,55019,instrument cluster,"Cabin smells like burning plastic on cold starts. Three trips to dealer, three 'no fault found'. Yeah okay.",Mercedes Amsterdam Zuid,2025-01-09,en
+C00134,A 180,2024,22228,dome light,"Dome light won't turn off after locking the car, drained the battery twice. I now sleep with one eye on my driveway.",Mercedes-Benz Paris Étoile,2025-07-17,en
+C00135,CLS 350d,2026,1868,panoramic roof,"Look, I love my Mercedes but this turbo whine is driving me crazy. Please tell me this isn't normal.",Stern Milano Centro,2025-03-05,en
+C00136,S 350d,2025,10212,engine,My wife is afraid to ride with me anymore. The engine misfires randomly and the check engine light has been on since week 2.,Mercedes-Benz Madrid Norte,2025-08-08,en
+C00137,CLS 350d,2022,81695,climate control,Hey Mercedes Türkçe anlamıyor zaten ama İngilizce de anlamıyor. Komik.,Pappas Wien,2025-08-31,tr
+C00138,E 300,2024,18495,Burmester audio,"Der Kühlmittelverlust macht mich wahnsinnig. Süßer Geruch, Pfütze unter dem Auto, und keiner findet was.",Mercedes-Benz Berlin Tempelhof,2025-08-29,de
+C00139,S 350d,2021,54487,cabin filter,"Yav arkadaşlar bu ne ya, MBUX ekranı sürekli donuyor. 2 milyonluk araba bu!",Mercedes-Benz Stuttgart,2025-10-10,tr
+C00140,EQS 580,2021,99718,armrest,"Mon concessionnaire me prend pour une idiote. 'Madame, c'est normal' — NON, monsieur, ce n'est PAS normal.",Mercedes-Benz Copenhagen,2026-05-06,fr
+C00141,S 500,2026,1287,power window switch,Sædevarmen fungerer kun nogle gange. Tilfældigt. Jeg har givet op og købt et tæppe.,Mercedes-Benz Madrid Norte,2024-12-09,da
+C00142,E 450,2022,119209,Apple CarPlay,"Apple CarPlay verbreekt elke 5 minuten. Dit is geen luxewagen, dit is hoofdpijn.",Autotorino Verona,2026-01-30,nl
+C00143,EQC 400,2024,19835,Hey Mercedes assistant,Sædevarmen fungerer kun nogle gange. Tilfældigt. Jeg har givet op og købt et tæppe.,Pappas Wien,2026-04-11,da
+C00144,AMG GT 53,2025,30899,climate control,Der Becherhalter ist gebrochen. BECHERHALTER. In einem 80.000 € Auto. Ich kann nicht mehr.,Lookers Mercedes Birmingham,2026-05-02,de
+C00145,GLA 200,2025,19363,Apple CarPlay,Apple CarPlay se déconnecte toutes les 3 minutes. C'est devenu un sport quotidien.,Mercedes-Benz Ankara Çankaya,2025-10-26,fr
+C00146,EQS 450,2018,131029,seat cushion,12V batteriet er dødt for tredje gang. På to år. Jeg er færdig med Mercedes.,Mercedes Amsterdam Zuid,2025-11-08,da
+C00147,AMG GT 53,2023,16454,fuel injector,"Cabin smells like burning plastic on cold starts. Three trips to dealer, three 'no fault found'. Yeah okay.",Pappas Wien,2025-06-09,en
+C00148,EQC 400,2024,36375,armrest,Mirror auto-dim doesn't work. Headlights from the car behind blind me every night. I dread night driving now.,Mercedes-Benz Köln Rhein,2025-11-18,en
+C00149,EQS 580,2020,37146,Apple CarPlay,Apple CarPlay disconnects every. single. time. I get on the highway. WHY does this keep happening,Mercedes-Benz Stuttgart,2025-03-07,en
+C00150,GLE 350d,2026,1365,DPF filter,"Klimatyzacja dmucha zimnym z jednej strony, gorącym z drugiej. To jest jakiś żart??",Auto Wimar Warsaw,2025-09-15,pl
+C00151,C 300,2025,11624,backup camera,Honestly?? Bought my C 300 last year and the MBUX screen is already glitching. Disappointed doesn't even cover it.,Mercedes-Benz Poznań,2025-12-29,en
+C00152,C 300,2025,28333,engine,My wife is afraid to ride with me anymore. The engine misfires randomly and the check engine light has been on since week 2.,Mercedes-Benz of Mayfair London,2025-10-16,en
+C00153,E 350,2020,68737,wireless charger,La calefacción del asiento solo funciona el lunes (broma). En realidad funciona aleatoriamente.,Lookers Mercedes Birmingham,2025-02-10,es
+C00154,CLA 200,2020,101350,navigation system,Il filtro dell'aria puzza di muffa anche dopo la sostituzione. Ma scherziamo?,Mercedes-Benz Poznań,2025-01-04,it
+C00155,EQC 400,2023,57022,Hey Mercedes assistant,Hey Mercedes Türkçe anlamıyor zaten ama İngilizce de anlamıyor. Komik.,Mercedes Roma EUR,2024-12-19,tr
+C00156,E 350,2023,52663,Apple CarPlay,"Apple CarPlay her 5 dakikada bağlantıyı kesiyor, çıldıracağım resmen!",Daimler München Mitte,2026-04-21,tr
+C00157,CLA 200,2023,30845,Burmester audio,"Cabin smells like burning plastic on cold starts. Three trips to dealer, three 'no fault found'. Yeah okay.",Mercedes-Benz Köln Rhein,2025-09-11,en
+C00158,CLA 200,2025,7427,Burmester audio,Ich liebe meinen Benz aber das ist langsam echt eine Frechheit. Sitzheizung geht alle 2 Wochen kaputt.,Mercedes Roma EUR,2025-01-24,de
+C00159,S 500,2023,56008,cabin filter,El asistente Hey Mercedes no entiende nada de lo que digo. Cero útil. Cero.,Mercedes-Benz Ankara Çankaya,2026-04-21,es
+C00160,EQS 450,2023,71786,glove box,Glove box latch broke. Sounds minor — until your insurance papers are flying around the cabin every time you brake.,Stern Auto Hamburg,2026-04-24,en
+C00161,GLA 200,2025,13994,auto-dimming mirror,"Klimatyzacja dmucha zimnym z jednej strony, gorącym z drugiej. To jest jakiś żart??",Sytner Manchester,2026-01-27,pl
+C00162,GLE 350d,2025,12735,ambient lighting,Ambient lighting flickers like a cheap nightclub. At night. While driving. Disorienting and honestly dangerous.,Mercedes-Benz Paris Étoile,2025-07-11,en
+C00163,E 450,2025,19550,dome light,Honestly?? Bought my E 450 last year and the MBUX screen is already glitching. Disappointed doesn't even cover it.,Pappas Wien,2025-10-11,en
+C00164,CLA 200,2024,22088,9G transmission,"Yav arkadaşlar bu ne ya, MBUX ekranı sürekli donuyor. 2 milyonluk araba bu!",Mercedes-Benz Poznań,2026-01-15,tr
+C00165,GLC 300,2023,40908,coolant system,No serio?? Kupiłem nowego Mercedesa i bluetooth się rozłącza co minutę. Słabo to wygląda.,Mercedes-Benz Berlin Tempelhof,2025-10-26,pl
+C00166,EQB 300,2023,25981,MBUX touchscreen,Ehrlich gesagt nur noch genervt. Der Turbolader pfeift wie verrückt seit 30.000 km. Hilfe?,Mercedes-Benz Madrid Norte,2025-08-29,de
+C00167,EQS 580,2020,87404,Hey Mercedes assistant,Lo schermo MBUX si blocca durante la navigazione e devo fermarmi a riavviare. Vergogna.,Étoile Lyon,2025-09-04,it
+C00168,A 180,2022,35579,seat ventilation,Ehrlich gesagt nur noch genervt. Der Turbolader pfeift wie verrückt seit 30.000 km. Hilfe?,Daimler München Mitte,2025-11-11,de
+C00169,EQS 580,2023,67930,Apple CarPlay,"Apple CarPlay verbreekt elke 5 minuten. Dit is geen luxewagen, dit is hoofdpijn.",Mercedes-Benz Poznań,2024-12-26,nl
+C00170,E 200,2026,323,Burmester audio,Ich weine fast wenn ich an die Reichweite denke. Im Winter -32%. Hätte einen Tesla nehmen sollen ehrlich.,Lookers Mercedes Birmingham,2025-02-16,de
+C00171,GLS 450,2019,183045,9G transmission,Genuinely scared to drive on the autobahn now. The 9G transmission shifts so hard sometimes it feels like I got rear-ended.,Mercedes-Benz Madrid Norte,2025-08-21,en
+C00172,GLE 450,2024,32271,Apple CarPlay,"Apple CarPlay her 5 dakikada bağlantıyı kesiyor, çıldıracağım resmen!",Mercedes-Benz Madrid Norte,2025-12-30,tr
+C00173,E 220d,2024,26046,sunroof,"Klimaanlage bläst kalt links, warm rechts. Drei Werkstattbesuche, kein Erfolg. Ich resigniere.",Mercedes-Benz Copenhagen,2024-12-20,de
+C00174,EQA 250,2023,59857,coolant system,Thought I was crazy but 3 friends with the same model said the same thing. MBUX freezes during navigation. You guys know about this right??,Itra Barcelona,2025-03-31,en
+C00175,GLA 200,2025,9789,Burmester audio,Honestly?? Bought my GLA 200 last year and the MBUX screen is already glitching. Disappointed doesn't even cover it.,Autotorino Verona,2026-02-17,en
+C00176,E 220d,2023,70231,seat ventilation,"Allora ragazzi, la mia E 220d gira solo aria fredda dal lato passeggero. Pagato 70k per questo??",Merbag Zürich,2025-02-14,it
+C00177,EQA 250,2023,74181,wireless charger,The wireless charger overheats my phone to the point I can't touch it. Genuinely worried it'll start a fire.,Mercedes Roma EUR,2024-11-11,en
+C00178,V 300d,2025,17051,Apple CarPlay,Helt ærligt jeg er træt af det her. MBUX skærmen fryser hver gang jeg bruger Apple CarPlay. Hvad sker der?,Sytner Manchester,2025-10-15,da
+C00179,C 220d,2024,28975,climate control,Ehrlich gesagt nur noch genervt. Der Turbolader pfeift wie verrückt seit 30.000 km. Hilfe?,Mercedes-Benz Stuttgart,2025-06-19,de
+C00180,AMG GT 53,2025,8636,power window switch,Akumulator 12V padł trzeci raz. Trzeci. W aucie z 2024 roku. Niesamowite.,Auto-Heinrich Frankfurt,2025-07-17,pl
+C00181,GLS 450,2022,64117,Burmester audio,Burmester audio system has static on the right rear speaker. €4000 option btw. Cool cool cool.,Auto Wimar Warsaw,2025-05-12,en
+C00182,GLE 450,2019,109068,12V battery,Mirror auto-dim doesn't work. Headlights from the car behind blind me every night. I dread night driving now.,Auto Wimar Warsaw,2025-08-21,en
+C00183,A 35 AMG,2026,1990,Apple CarPlay,"Apple CarPlay si scollega ogni 2 minuti, sto impazzendo davvero.",Mercedes Roma EUR,2024-12-05,it
+C00184,E 220d,2023,18390,sunroof,"Klimaanlage bläst kalt links, warm rechts. Drei Werkstattbesuche, kein Erfolg. Ich resigniere.",Mercedes-Benz Brussels,2025-03-07,de
+C00185,G 63 AMG,2024,21142,backup camera,Ich liebe meinen Benz aber das ist langsam echt eine Frechheit. Sitzheizung geht alle 2 Wochen kaputt.,Mercedes-Benz Paris Étoile,2024-12-19,de
+C00186,GLA 200,2020,128025,engine,Thought I was crazy but 3 friends with the same model said the same thing. MBUX freezes during navigation. You guys know about this right??,Mercedes-Benz of Mayfair London,2026-05-08,en
+C00187,A 200,2026,1354,driver seat heater,"I'm SO over this. Driver seat heater stopped working AGAIN, third time in 6 months. What am I even paying for??",Mercedes-Benz of Mayfair London,2025-02-05,en
+C00188,EQC 400,2025,15487,DPF filter,Ehrlich gesagt nur noch genervt. Der Turbolader pfeift wie verrückt seit 30.000 km. Hilfe?,Mercedes-Benz Poznań,2025-06-13,de
+C00189,GLE 350d,2025,27827,cup holder,"Cup holder cracked. Yeah, the cup holder. €60k car and the cup holder cracked. Living the dream.",Koluman Istanbul Ataşehir,2026-03-16,en
+C00190,A 35 AMG,2026,2322,dome light,Geri vites kamerası karanlıkta hiçbir şey göstermiyor. Tehlikeli bence.,Mercedes-Benz of Mayfair London,2026-04-22,tr
+C00191,G 400d,2026,3154,electric motor,Lenkradheizung wärmt nur unten. Meine Daumen frieren weiterhin tapfer mit.,Daimler München Mitte,2024-11-22,de
+C00192,EQA 250,2025,12898,Hey Mercedes assistant,"Yağ kokusu motordan geliyor, üç kez serviste hala çözüm yok. Pes.",Stern Auto Hamburg,2026-02-28,tr
+C00193,C 43 AMG,2026,973,power window switch,"Yav arkadaşlar bu ne ya, MBUX ekranı sürekli donuyor. 2 milyonluk araba bu!",Sytner Manchester,2025-06-01,tr
+C00194,E 53 AMG,2026,2210,9G transmission,"Der Bildschirm friert mitten in der Navi ein und ich soll mal eben anhalten?? Mercedes bitte, das ist 2026.",Mercedes-Benz Berlin Tempelhof,2026-03-02,de
+C00195,E 350,2026,2922,armrest,Lenkradheizung wärmt nur unten. Meine Daumen frieren weiterhin tapfer mit.,Auto Wimar Warsaw,2025-09-05,de
+C00196,GLB 220,2022,83249,engine,Mirror auto-dim doesn't work. Headlights from the car behind blind me every night. I dread night driving now.,Autotorino Verona,2025-01-31,en
+C00197,GLS 450,2026,2396,cup holder,Hey Mercedes forstår ikke et ord. Hvorfor sælger I det her som en feature?,Mercedes-Benz Ankara Çankaya,2026-03-17,da
+C00198,GLC 300,2025,15598,steering wheel heater,Ich liebe meinen Benz aber das ist langsam echt eine Frechheit. Sitzheizung geht alle 2 Wochen kaputt.,Pappas Wien,2025-05-19,de
+C00199,E 350,2023,102395,head-up display,Komme gerade aus der Werkstatt. ZUM DRITTEN MAL wegen AdBlue. Das geht mir mittlerweile richtig auf den Geist.,Lookers Mercedes Birmingham,2025-09-13,de
+C00200,G 63 AMG,2024,21702,Apple CarPlay,"Apple CarPlay verbreekt elke 5 minuten. Dit is geen luxewagen, dit is hoofdpijn.",Mercedes-Benz Madrid Norte,2025-08-25,nl

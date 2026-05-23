@@ -1,0 +1,132 @@
+# Mercedes-Benz vehicle component gazetteer (lowercased, one per line).
+# Used by entity_extraction.rule_extract for cheap first-pass matching.
+# Extend freely — rule pass is fast, the LLM only fills the gaps.
+
+# ---------------- Interior ----------------
+seat
+driver seat
+passenger seat
+seat heater
+seat ventilation
+seat belt
+seat cushion
+seat occupancy sensor
+headrest
+armrest
+sun visor
+overhead console
+glove box
+center console
+ambient lighting
+interior light
+dome light
+reading light
+door handle
+door panel
+door lock
+power window
+window switch
+mirror
+side mirror
+rearview mirror
+dashboard
+instrument cluster
+steering wheel
+steering wheel heater
+paddle shifter
+pedals
+floor mat
+trunk liner
+trunk latch
+sunroof
+panoramic roof
+moonroof
+cup holder
+hvac
+air conditioning
+heater
+climate control
+cabin filter
+blower motor
+defogger
+
+# --------------- Powertrain ---------------
+engine
+turbocharger
+supercharger
+fuel injector
+spark plug
+ignition coil
+timing chain
+alternator
+starter motor
+battery
+12v battery
+48v battery
+high voltage battery
+ev battery
+charging port
+on-board charger
+inverter
+electric motor
+transmission
+gearbox
+torque converter
+clutch
+driveshaft
+differential
+axle
+exhaust
+catalytic converter
+diesel particulate filter
+adblue system
+egr valve
+oil pump
+water pump
+radiator
+coolant reservoir
+thermostat
+intercooler
+fuel pump
+fuel tank
+
+# ----------- Display & Infotainment -------
+infotainment head unit
+mbux
+mbux display
+central display
+touchscreen
+instrument display
+head-up display
+hud
+navigation system
+gps
+voice assistant
+hey mercedes
+bluetooth module
+usb port
+wireless charger
+apple carplay
+android auto
+backup camera
+360 camera
+parking sensor
+radio
+am fm tuner
+dab tuner
+satellite radio
+audio system
+burmester audio
+amplifier
+speaker
+subwoofer
+microphone
+infotainment software
+software update
+firmware
+telematics module
+sim card
+ota update
+keyless entry
+key fob
+nfc reader

@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% block title %}Cluster #{{cluster.cluster_id}} · {{cluster.label}}{% endblock %}
+{% block content %}
+
+<a href="{{ url_for('index') }}" class="back">&larr; All clusters</a>
+
+<section class="card cluster-detail sev-{{cluster.severity}}">
+  <div class="row">
+    <span class="badge sev-{{cluster.severity}}">{{ cluster.severity }} priority</span>
+    <span class="cid">#{{ cluster.cluster_id }}</span>
+    <span class="size">{{ cluster.size }} reports · {{ cluster.share_pct }}% of analyzed volume</span>
+  </div>
+  <h2 class="label">{{ cluster.label }}</h2>
+  <p class="summary">{{ cluster.summary }}</p>
+
+  <div class="grid-2">
+    <div>
+      <h4>Affected component</h4>
+      <p class="big">{{ cluster.top_component or 'unidentified' }}</p>
+      <h4>Most common failure mode</h4>
+      <p class="big">{{ cluster.top_failure or 'unidentified' }}</p>
+    </div>
+    <div>
+      <h4>Domains</h4>
+      <p>{% for d in cluster.domains %}<span class="dom">{{ d }}</span>{% endfor %}</p>
+      <h4>Languages observed</h4>
+      <p>{% for l in cluster.languages %}<span class="lang">{{ l }}</span>{% endfor %}</p>
+      {% if cluster.merged_from and cluster.merged_from|length > 1 %}
+      <h4>Merged from raw clusters</h4>
+      <p>{% for m in cluster.merged_from %}<span class="chip">#{{ m }}</span>{% endfor %}</p>
+      {% endif %}
+    </div>
+  </div>
+
+  <h4>Distinguishing keywords</h4>
+  <div class="kw">
+    {% for k in cluster.keywords %}<span class="chip">{{ k }}</span>{% endfor %}
+  </div>
+
+  <h4>Representative customer reports</h4>
+  <ol class="examples">
+    {% for ex in cluster.example_complaints %}
+    <li>{{ ex }}</li>
+    {% endfor %}
+  </ol>
+
+  <div class="action-box">
+    <h4>Recommended next steps for service engineering</h4>
+    <ul>
+      <li>Pull the {{ cluster.size }} affected VINs from CRM and check warranty status.</li>
+      <li>Assign to <strong>{{ cluster.top_component or 'general' }}</strong> component owner.</li>
+      <li>Investigate failure mode "{{ cluster.top_failure or 'see keywords' }}" against open TPRs.</li>
+      <li>Cross-language reports ({{ cluster.languages|length }} languages) suggest the issue is regional-agnostic — prioritize root cause analysis.</li>
+    </ul>
+  </div>
+</section>
+{% endblock %}

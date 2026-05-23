@@ -1,0 +1,129 @@
+{% extends "base.html" %}
+{% block content %}
+
+<section class="stats">
+  <div class="card stat">
+    <div class="stat-num">{{ stats.get('records_after_clean_dedup', 0) }}</div>
+    <div class="stat-label">Records analyzed<br><small>{{ stats.get('total_records_input', 0) }} raw</small></div>
+  </div>
+  <div class="card stat">
+    <div class="stat-num">{{ stats.get('n_clusters_final', 0) }}</div>
+    <div class="stat-label">Failure groups<br><small>{{ stats.get('n_clusters_raw', 0) }} pre-merge</small></div>
+  </div>
+  <div class="card stat">
+    <div class="stat-num">{{ stats.get('languages_seen', [])|length }}</div>
+    <div class="stat-label">Languages<br><small>{{ stats.get('languages_seen', [])|join(', ') }}</small></div>
+  </div>
+  <div class="card stat">
+    <div class="stat-num">{{ stats.get('n_noise', 0) }}</div>
+    <div class="stat-label">Noise records<br><small>unclustered outliers</small></div>
+  </div>
+  <div class="card stat">
+    <div class="stat-num">{{ stats.get('runtime_seconds', 0) }}s</div>
+    <div class="stat-label">Pipeline runtime</div>
+  </div>
+</section>
+
+<section class="charts">
+  <div class="card chart-card">
+    <h3>Top affected components</h3>
+    <canvas id="componentChart" height="180"></canvas>
+  </div>
+  <div class="card chart-card">
+    <h3>Volume by domain</h3>
+    <canvas id="domainChart" height="180"></canvas>
+  </div>
+</section>
+
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:12px;">
+  <a href="{{ url_for('scatter_view') }}" style="color:var(--mb-blue,#00adef); text-decoration:none; font-size:13px; display:inline-flex; align-items:center; gap:6px;">View cluster map (UMAP scatter) &rarr;</a>
+</div>
+
+<section class="filters">
+  <form method="get" action="{{ url_for('index') }}">
+    <label>Domain
+      <select name="domain" onchange="this.form.submit()">
+        <option value="all" {% if domain_filter=='all' %}selected{% endif %}>All</option>
+        {% for d in all_domains %}
+          <option value="{{d}}" {% if d==domain_filter %}selected{% endif %}>{{d}}</option>
+        {% endfor %}
+      </select>
+    </label>
+    <label>Language
+      <select name="language" onchange="this.form.submit()">
+        <option value="all" {% if language_filter=='all' %}selected{% endif %}>All</option>
+        {% for l in all_languages %}
+          <option value="{{l}}" {% if l==language_filter %}selected{% endif %}>{{l}}</option>
+        {% endfor %}
+      </select>
+    </label>
+    <label>Sort
+      <select name="sort" onchange="this.form.submit()">
+        <option value="size"  {% if sort_by=='size'  %}selected{% endif %}>By size</option>
+        <option value="label" {% if sort_by=='label' %}selected{% endif %}>By label</option>
+      </select>
+    </label>
+  </form>
+</section>
+
+<section class="cluster-grid">
+  {% for c in clusters %}
+  <a class="card cluster sev-{{c.severity}}" href="{{ url_for('cluster_detail', cid=c.cluster_id) }}">
+    <div class="row">
+      <span class="badge sev-{{c.severity}}">{{ c.severity }}</span>
+      <span class="cid">#{{ c.cluster_id }}</span>
+      <span class="size">{{ c.size }} reports · {{ c.share_pct }}%</span>
+    </div>
+    <h3 class="label">{{ c.label }}</h3>
+    <div class="meta">
+      <span><strong>Component:</strong> {{ c.top_component or '—' }}</span>
+      <span><strong>Failure:</strong> {{ c.top_failure or '—' }}</span>
+    </div>
+    <div class="kw">
+      {% for k in c.keywords[:6] %}<span class="chip">{{ k }}</span>{% endfor %}
+    </div>
+    <div class="lang-row">
+      {% for l in c.languages %}<span class="lang">{{ l }}</span>{% endfor %}
+      <span class="sep">·</span>
+      {% for d in c.domains %}<span class="dom">{{ d }}</span>{% endfor %}
+    </div>
+  </a>
+  {% else %}
+  <p class="empty">No clusters match those filters. Upload a CSV to begin.</p>
+  {% endfor %}
+</section>
+
+<script>
+  const compData = {{ component_chart|tojson }};
+  const domData  = {{ domain_chart|tojson }};
+
+  new Chart(document.getElementById('componentChart'), {
+    type: 'bar',
+    data: {
+      labels: compData.map(d => d.component),
+      datasets: [{
+        label: 'Reports',
+        data: compData.map(d => d.count),
+        backgroundColor: '#00adef'
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      plugins: { legend: { display: false } },
+      scales: { x: { beginAtZero: true } }
+    }
+  });
+
+  new Chart(document.getElementById('domainChart'), {
+    type: 'doughnut',
+    data: {
+      labels: domData.map(d => d.domain),
+      datasets: [{
+        data: domData.map(d => d.count),
+        backgroundColor: ['#00adef', '#0078a3', '#003d56', '#88d4f5']
+      }]
+    },
+    options: { plugins: { legend: { position: 'bottom' } } }
+  });
+</script>
+{% endblock %}

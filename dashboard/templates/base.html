@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Mercedes Feedback Insights{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="logo">MB</span>
+    <div>
+      <h1>Customer Feedback Insights</h1>
+      <p class="sub">Mercedes-Benz · Service Engineering Console</p>
+    </div>
+  </div>
+  <form action="{{ url_for('upload') }}" method="post" enctype="multipart/form-data" class="upload">
+    <label class="file-btn">
+      <input type="file" name="csv_file" accept=".csv" required>
+      <span>Choose CSV</span>
+    </label>
+    <button type="submit">Upload &amp; Analyze</button>
+  </form>
+</header>
+
+{% with messages = get_flashed_messages() %}
+  {% if messages %}
+    <div class="flash">
+      {% for m in messages %}<p>{{ m }}</p>{% endfor %}
+    </div>
+  {% endif %}
+{% endwith %}
+
+<main>{% block content %}{% endblock %}</main>
+
+<footer>
+  Pipeline: clean → embed → UMAP → HDBSCAN → entity extraction → c-TF-IDF labels → cosine merge.
+  Results refresh on every CSV upload.
+</footer>
+</body>
+</html>
