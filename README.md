@@ -1,4 +1,4 @@
-# Mercedes-Benz Multilingual Customer Feedback NLP Pipeline
+# Multilingual Customer Feedback NLP Pipeline
 
 End-to-end Python pipeline that converts ~109k raw, multilingual customer
 complaints into structured, engineer-ready failure insights.
@@ -23,7 +23,7 @@ raw csv  ─►  preprocess  ─►  embed (bge-large-en-v1.5)  ─►  UMAP  �
 ## Project layout
 
 ```
-Car_Service_Analysis/
+Customer_Complaints_Analysis/
 ├── config.yaml              # central knobs for every stage
 ├── main.py                  # orchestrator: `python main.py --stages ...`
 ├── requirements.txt
