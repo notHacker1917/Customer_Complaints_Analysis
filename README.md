@@ -3,7 +3,7 @@
 End-to-end Python pipeline that converts ~109k raw, multilingual customer
 complaints into structured, engineer-ready failure insights.
 
-```
+``` 
 raw csv  ─►  preprocess  ─►  embed (bge-large-en-v1.5)  ─►  UMAP  ─►  HDBSCAN
                                                                        │
                                             ┌──────────────────────────┘
